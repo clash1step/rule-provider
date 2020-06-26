@@ -1,0 +1,39 @@
+#2020.6.20 20:00
+payload:
+# > Apple_API
+  - '+.aaplimg.com'
+  - '+.apple.co'
+  - '+.apple.com'
+  - '+.apple-cloudkit.com'
+  - '+.apple-dns.net'
+  - '+.ls-apple.com.akadns.net'    
+  - '+.appsto.re'
+  - '+.cdn-apple.com'
+  - '+.icloud.com'
+  - '+.icloud-content.com'
+  - '+.itunes.com'
+  - '+.me.com'
+  - '+.digicert.com'
+  - '+.entrust.net'
+  - 'ocsp.apple.com'  
+  - 'ocsp.verisign.net'
+  - 'blobstore.apple.com'
+  - 'gateway.fe.apple-dns.net'  
+# > Map
+  - '+.ls.apple.com'  
+  - 'gs-loc-cn.apple.com'   
+# > TestFlight
+  - 'testflight.apple.com' 
+# > Apple URL Shortener
+  - '+.appsto.re' 
+# > iBooks Store download
+  - 'books.itunes.apple.com' 
+# > iTunes Store Moveis Trailers
+  - 'hls.itunes.apple.com' 
+# > App Store Preview
+  - 'apps.apple.com' 
+  - 'itunes.apple.com' 
+# > Spotlight
+  - 'api-glb-sea.smoot.apple.com' 
+# > Dictionary
+  - 'lookup-api.apple.com' 

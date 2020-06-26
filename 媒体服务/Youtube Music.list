@@ -1,0 +1,12 @@
+#2020.6.20 22:00
+payload:
+# > YouTubeMusic
+  - '+.music.youtube.com'
+  - '+.YouTubeMusic.com'
+  - '+.google.YouTubeMusic.com'
+  - '+.ios.google.YouTubeMusic.com'
+  - '+.android.google.YouTubeMusic.com'  
+# > YouTube kids
+  - '+.youtubekids.com'
+ 
+

@@ -1,0 +1,62 @@
+#2020.6.20 20:00
+payload:
+# > Microsoft
+  - '+.update.microsoft.com'
+  - '+.s-microsoft.com'  
+  - '+.microsoftonline.com'
+  - '+.microsoft-tst.com'  
+  - '+.azure.com'
+  - '+.fabric.io'
+  - '+.files.1drv.com'
+  - '+.hotmail.com'
+  - '+.onenote.com'
+  - '+.outlook.com' 
+  - '+.azure.com'
+  - '+.edgesuite.net'
+  - '+.bing.com'  
+  - '+.bing.net'  
+  - '+.livefilestore.com'  
+  - '+.mesh.com'
+  - '+.office.com'
+  - '+.office.net'
+  - '+.office365.com'  
+  - '+.onedrive.com'
+  - '+.sfx.ms'
+  - '+.sharepoint.com'
+  - '+.sharepointonline.com'  
+  - '+.skype.com' 
+  - '+.akamaihd.net'  
+  - '+.aspnetcdn.com'
+  - '+.cloudapp.net'
+  - '+.trafficmanager.net'
+  - '+.visualstudio.com'  
+  - '+.msecnd.net'
+  - '+.aka.ms'
+  - '+.msauth.net'
+  - '+.bingapis.com'
+  - 'dc.services.visualstudio.com'  
+  - 'assets.msn.com'
+  - 'api.msn.com'
+  - 'static-spartan-eas-s-msn-com.akamaized.net'
+  - 'support.microsoft.com'
+  - 'amp.azure.net'
+  - 'assets.onestore.ms'
+  - 'compass-ssl.microsoft.com'
+  - 'go.microsoft.com'
+  - 'c1.microsoft.com'  
+  
+  
+  
+
+  
+  
+  
+
+
+
+
+
+
+
+
+

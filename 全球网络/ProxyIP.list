@@ -1,0 +1,57 @@
+#2020.6.20 22:00
+payload:
+# > Facebook
+  - IP-CIDR,74.125.0.0/16,no-resolve
+  - IP-CIDR,74.119.76.0/22,no-resolve
+  - IP-CIDR,69.63.176.0/20,no-resolve
+  - IP-CIDR,69.171.224.0/19,no-resolve
+  - IP-CIDR,66.220.144.0/20,no-resolve
+  - IP-CIDR,45.64.40.0/22,no-resolve
+  - IP-CIDR,31.13.85.8/16,no-resolve
+  - IP-CIDR,31.13.64.0/18,no-resolve
+  - IP-CIDR,31.13.24.0/21,no-resolve
+  - IP-CIDR,204.15.20.0/22,no-resolve
+  - IP-CIDR,185.60.216.0/22,no-resolve
+  - IP-CIDR,179.60.192.0/22,no-resolve
+  - IP-CIDR,173.252.96.0/19,no-resolve
+  - IP-CIDR,173.252.64.0/19,no-resolve
+  - IP-CIDR,173.194.0.0/16,no-resolve
+  - IP-CIDR,157.240.0.0/17,no-resolve
+  - IP-CIDR,129.134.0.0/17,no-resolve
+  - IP-CIDR,103.4.96.0/22,no-resolve
+  - IP-CIDR,74.119.76.0/22,no-resolve
+  - IP-CIDR,69.63.176.0/20,no-resolve
+  - IP-CIDR,69.171.224.0/19,no-resolve
+  - IP-CIDR,66.220.144.0/20,no-resolve
+  - IP-CIDR,45.64.40.0/22,no-resolve
+  - IP-CIDR,31.13.64.0/18,no-resolve
+  - IP-CIDR,31.13.24.0/21,no-resolve
+  - IP-CIDR,204.15.20.0/22,no-resolve
+  - IP-CIDR,185.60.216.0/22,no-resolve
+  - IP-CIDR,179.60.192.0/22,no-resolve
+  - IP-CIDR,173.252.64.0/18,no-resolve
+  - IP-CIDR,157.240.0.0/17,no-resolve
+  - IP-CIDR,129.134.0.0/17,no-resolve
+  - IP-CIDR,103.4.96.0/22,no-resolve  
+# > Potato Chat
+  - IP-CIDR,13.251.24.157/24,no-resolve
+  - IP-CIDR,13.251.41.203/24,no-resolve
+  - IP-CIDR,17.252.156.147/24,no-resolve
+  - IP-CIDR,17.252.157.26/24,no-resolve
+# > SoftLayer  
+  - IP-CIDR,74.86.0.0/16,no-resolve
+  - IP-CIDR,75.126.0.0/16,no-resolve
+  - IP-CIDR,174.37.0.0/16,no-resolve
+  - IP-CIDR,208.43.0.0/16,no-resolve
+# > TeamViewer  
+  - IP-CIDR,109.239.140.0/24,no-resolve
+  - IP-CIDR,139.220.243.27/32,no-resolve
+  - IP-CIDR,172.16.102.56/32,no-resolve
+  - IP-CIDR,185.188.32.1/28,no-resolve
+  - IP-CIDR,221.226.128.146/32,no-resolve
+# > google
+  - IP-CIDR,173.194.0.0/16,no-resolve
+  - IP-CIDR,74.125.0.0/16,no-resolve
+  - IP-CIDR,196.55.192.0/18,no-resolve
+  - IP-CIDR,104.16.0.0/12,no-resolve  
+  

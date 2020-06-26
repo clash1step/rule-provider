@@ -1,0 +1,43 @@
+payload:
+# > 白名单
+
+# > 七哥博客
+  - '5ihome.net'
+  - '.5ihome.net' 
+# > keyword
+  - '.readcube.'
+  - '.sciencedirect.'
+  - '.elsevier.'
+  - '.deepdyve.'
+  - '.els-cdn.'
+  - '.wanfangdata.'
+  - '.pkulaw.'
+  - '.westlawchina.'
+# > lastpass  
+  - '.lastpass.com'
+  - 'lastpass.com'
+# > 中国知网
+  - '.cnki.net'
+# > SCI 综合
+  - '.researchgate.net'
+  - '.springer.com'
+  - '.blackwell-synergy.com'
+  - '.sciencemag.org'
+  - '.jstor.org'
+  - '.cabdirect.org'
+  - '.ieee.org'
+  - '.nature.com'
+  - '.sciencemag.org'
+  - '.osapublishing.org'
+# > Willey 
+  - '.wiley.com'
+# > Elsevier 
+  - '.scopus.com'
+# > chinadsl
+  - '.chinadsl.net'
+  - '.369110.xyz'
+# > ikea
+  - '.ikea.cn'
+  - '.ikea.com' 
+  
+  

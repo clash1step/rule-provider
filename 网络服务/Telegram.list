@@ -1,0 +1,35 @@
+#2020.6.20 20:00
+payload:
+# > Discord
+  - '+.discord.gg'
+  - '+.discordapp.com'
+  - '+.discordapp.net'
+# > KaKaoTalk
+  - '+.KakaoTalk*.' 
+  - '+.kakao.com'
+  - '+.kakao.co.kr'
+  - '+.kakaocdn.net'
+# > LINE    
+  - '+.scdn.co'
+  - '+.line.naver.jp'
+  - '+.ine.naver.jp'  
+  - '+.line.me'
+  - '+.line-apps.com'
+  - '+.line-cdn.net'
+  - '+.line-scdn.net'
+# > Pinterest
+  - '+.Pinterest*.'
+  - '+.pinimg.com'
+  - '+.pinterest.com'
+# > Pinterest
+  - '+.Slack*.'
+  - '+.slack-edge.com'
+  - '+.slack.com'
+  - '+.slack-msgs.com'
+# > Telegram
+  - '+..me'
+  - '+.t.me'
+  - '+.tdesktop.com'
+  - '+.telegra.ph'
+  - '+.telegram.me'
+  - '+.telegram.org'

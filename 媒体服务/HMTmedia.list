@@ -1,0 +1,29 @@
+#2020.6.20 22:00
+payload:
+# > bahamut
+  - '+.bahamut.com'
+  - '+.bahamut.com.tw'  
+  - '+.gamer.com.tw'  
+  - '+.gamer.com'
+  - '+.hinet.net'
+  - '+.ipify.org'  
+  - 'gamer-cds.cdn.hinet.net'
+  - 'gamer2-cds.cdn.hinet.net' 
+# > hwtv
+  - '+.5itv.tv'
+  - '+.ocnttv.com'
+# > myTV SUPER
+  - '+.mytv.'
+  - '+.nowtv100.'
+  - '+.rthklive.'
+  - '+.mytvsuper.com'
+  - '+.tvb.com'
+# > twhao
+  - '+.skyking.com.tw'
+  - 'hamifans.emome.net'
+# > Twitch
+  - '+.twitch.tv'
+  - '+.twitchcdn.net'
+  - '+.ttvnw.net'
+  - '+.jtvnw.net'  
+  

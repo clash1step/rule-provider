@@ -1,0 +1,21 @@
+#2020.6.20 22:00
+payload:
+# > keyword
+
+# > porn
+  - DOMAIN-KEYWORD,pornhub
+  - DOMAIN-KEYWORD,91porn
+# > BBC
+  - DOMAIN-KEYWORD,uk-live
+# > github
+  - DOMAIN-KEYWORD,github
+# > Facebook 
+  - DOMAIN-KEYWORD,facebook
+  - DOMAIN-KEYWORD,fbcdn
+# > Twitter
+  - DOMAIN-KEYWORD,twitter  
+# > paypal  
+  - DOMAIN-KEYWORD,paypal  
+  
+
+

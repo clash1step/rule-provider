@@ -1,0 +1,10 @@
+#2020.6.20 20:00
+payload:
+# > speedtest
+  - '+.ooklaserver.net'
+  - '+.speedtest.net'
+  - '+.netspeedtestmaster.com'
+  - '+.speedtestcustom.com' 
+  - '+.fdcservers.net'
+  - '+.hgc.com'
+  - 'okla-speedtest.hgconair.hgc.com.hk'  

@@ -1,0 +1,34 @@
+#2020.6.20 22:00
+payload:
+# > bilibili
+  - '+.acg.tv'
+  - '+.acgvideo.com'
+  - '+.b23.tv'
+  - '+.biliapi.com'
+  - '+.biliapi.net'
+  - '+.bilibili.com'
+  - '+.biligame.com'
+  - '+.biligame.net'
+  - '+.bilivideo.com'
+  - '+.hdslb.com'
+  - '+.im9.com'
+  - '+.api.bilibili.com'
+  - '+.upos-hz-mirrorakam.akamaized.net'  
+# > iqiyi 
+  - '+.iqiyi.com'
+  - '+.iqiyipic.com'
+  - '+.ppsimg.com'
+  - '+.qiyi.com'
+  - '+.qiyipic.com'
+  - '+.iqiyi.router7.com'  
+  - '+.71.am.com'
+  - '+.71edge'  
+  - '+.qy.net'
+  - '+.cache.video.iqiyi.com' 
+# > letv 
+  - '+.letv.com'
+  - '+.api.mob.app.letv.com' 
+# > tencent
+  - '+.vv.video.qq.com'  
+
+ 
