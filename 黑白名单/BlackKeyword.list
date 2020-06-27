@@ -13,9 +13,7 @@ payload:
   - DOMAIN-KEYWORD,facebook
   - DOMAIN-KEYWORD,fbcdn
 # > Twitter
-  - DOMAIN-KEYWORD,twitter  
-# > paypal  
-  - DOMAIN-KEYWORD,paypal  
+  - DOMAIN-KEYWORD,twitter 
   
 
 
