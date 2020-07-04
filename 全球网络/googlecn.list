@@ -1,4 +1,4 @@
-#2020.6.20 20:00
+#2020.7.4 20:00
 payload:
 # > google cn
   - '+.265.com'
@@ -49,7 +49,6 @@ payload:
   - '+.redirector.gvt1.com'
   - '+.safebrowsing-cache.google.com'
   - '+.safebrowsing.googleapis.com'
-  - '+.settings.crashlytics.com'
   - '+.ssl-google-analytics.l.google.com'
   - '+.ssl.gstatic.com'
   - '+.toolbarqueries.google.com'
@@ -58,5 +57,4 @@ payload:
   - '+.translate.googleapis.com'
   - '+.update.googleapis.com'
   - '+.www-googletagmanager.l.google.com'
-  - '+.www.gstatic.com'
-  
+  - '+.www.gstatic.com'  
