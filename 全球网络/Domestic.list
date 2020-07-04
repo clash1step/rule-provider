@@ -427,10 +427,7 @@ payload:
 # > smzdm
   - '+.mzdm01.wt-cn01.net'
 # > holdle  
-  - '+.holdle.com' 
-# > GSK  
-  - '+.gsk.com'
-  - '+.igskapp.com'
+  - '+.holdle.com'
 # > yuanlam  
   - '+.yuanlam.xyz'  
 # > Other
