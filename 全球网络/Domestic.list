@@ -430,6 +430,8 @@ payload:
 # > GSK  
   - '+.gsk.com'
   - '+.igskapp.com'
+# > yuanlam  
+  - '+.yuanlam.xyz'  
 # > Other
   - '+.12306.cn'  
   - '+.12306.com'
