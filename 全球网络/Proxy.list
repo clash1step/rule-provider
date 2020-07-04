@@ -234,7 +234,7 @@ payload:
   - '+.veevacrm.com'
   - '+.concursolutions.com'
   - '+.myworkday.com'
-  - '+.ntp.org'
+  - 'pool.ntp.org'
 # > other
   - '+.airwatchportals.com'
   - '+.vod309.com'
