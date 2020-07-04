@@ -413,6 +413,7 @@ payload:
   - '+.jsdelivr.net'
   - '+.staticfile.org'
   - '+.upaiyun.com'
+  - '+.cdnyzdjj.com'   
 # > pdd
   - '+.pinduoduo.com'
   - '+.yangkeduo.com'  
