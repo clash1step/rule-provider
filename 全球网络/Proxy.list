@@ -228,9 +228,13 @@ payload:
   - 'cdn.gethatch.com'
   - 'in-and-ru-store-api.uk-e1.cloudhub.io'
 # > GSK  
+  - '+.gsk.com'
+  - '+.igskapp.com'  
   - '+.pingone.com'
   - '+.veevacrm.com'
   - '+.concursolutions.com'
+  - '+.myworkday.com'
+  - '+.ntp.org'
 # > other
   - '+.airwatchportals.com'
   - '+.vod309.com'
