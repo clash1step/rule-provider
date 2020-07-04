@@ -230,6 +230,8 @@ payload:
 # > GSK  
   - '+.pingone.com'  
 # > other
+  - '+.airwatchportals.com'
+  - '+.vod309.com'
   - '+.i3d.net'
   - '+.71ab.com'
   - '+.sleazyfork.org'
