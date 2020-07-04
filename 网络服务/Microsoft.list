@@ -1,10 +1,11 @@
-#2020.6.20 20:00
+#2020.7.4 17:00
 payload:
 # > Microsoft
   - '+.update.microsoft.com'
   - '+.s-microsoft.com'  
   - '+.microsoftonline.com'
-  - '+.microsoft-tst.com'  
+  - '+.microsoft-tst.com'
+  - '+.manage.microsoft.com'  
   - '+.azure.com'
   - '+.fabric.io'
   - '+.files.1drv.com'
@@ -43,7 +44,9 @@ payload:
   - 'assets.onestore.ms'
   - 'compass-ssl.microsoft.com'
   - 'go.microsoft.com'
-  - 'c1.microsoft.com'  
+  - 'c1.microsoft.com'
+  - 'login.windows.net'
+  - 'officeclient.microsoft.com'
   
   
   
