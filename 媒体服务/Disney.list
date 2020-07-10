@@ -1,4 +1,4 @@
-#2020.6.20 22:00
+#2020.07.10 22:00
 payload:
 # > DisneyPlus
   - '+.bamgrid.com'
@@ -10,4 +10,6 @@ payload:
   - '+.dssott.com'
   - '+.execute-api.us-east-1.amazonaws.com'
   - 'dn.cdn.unid.go.com'
-  - 'dn.registerdisney.go.com'
+  - 'dn.registerdisney.go.com'  
+  
+  
