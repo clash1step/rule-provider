@@ -1,4 +1,4 @@
-#2020.7.4 17:00
+#2020.07.10 22:00
 payload:
 # > Facebook
   - IP-CIDR,74.125.0.0/16,no-resolve
@@ -50,9 +50,17 @@ payload:
   - IP-CIDR,185.188.32.1/28,no-resolve
   - IP-CIDR,221.226.128.146/32,no-resolve
 # > google
-  - IP-CIDR,173.194.0.0/16,no-resolve
-  - IP-CIDR,74.125.0.0/16,no-resolve
+  - IP-CIDR,216.58.199.0/24,no-resolve
   - IP-CIDR,196.55.192.0/18,no-resolve
-  - IP-CIDR,104.16.0.0/12,no-resolve  
-# > other
-  - IP-CIDR,216.58.200.67/24,no-resolve
+  - IP-CIDR,173.194.0.0/16,no-resolve
+  - IP-CIDR,172.217.163.0/24,no-resolve
+  - IP-CIDR,172.217.5.0/24,no-resolve  
+  - IP-CIDR,172.217.14.0/24,no-resolve
+  - IP-CIDR,172.217.11.0/24,no-resolve
+  - IP-CIDR,172.217.4.0/24,no-resolve  
+  - IP-CIDR,104.16.0.0/12,no-resolve
+  - IP-CIDR,74.125.0.0/16,no-resolve
+  - IP-CIDR,142.250.68.0/24,no-resolve  
+# > Microsoft
+  - IP-CIDR,40.114.54.0/16,no-resolve  
+# > other  
