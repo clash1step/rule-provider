@@ -1,4 +1,4 @@
-#2020.7.4 17:00
+#2020.07.10 22:00
 payload:
 # > google DNS
   - '+.ampproject.org'
@@ -19,10 +19,14 @@ payload:
   - '+.xn--ngstr-lra8j.com'
   - '+.googleusercontent.com'
   - '+.linksredirect.com'  
-  - 'clients1.google.com'  
-  - 'clients2.google.com'  
-  - 'clients3.google.com'
-  - 'clients4.google.com' 
+  - '+.clients1.google.com'  
+  - '+.clients2.google.com'  
+  - '+.clients3.google.com'
+  - '+.clients4.google.com'
+  - '+.clients5.google.com'
+  - '+.clients6.google.com'
+  - '+.wac.iotacdn.net'
+  - '+.adn.gammacdn.net'  
 # > google
   - '+.www.google.com'
   - '+.aa.google.com'  
@@ -31,12 +35,19 @@ payload:
   - '+.play.google.com'
   - '+.mtalk.google.com'
   - '+.books.google.com'  
-  - '+.accounts.google.com'  
+  - '+.accounts.google.com'
+  - '+.ogs.google.com'
+  - '+.clients5.google.com'
+  - '+.myaccount.google.com'
+  - '+.about.google'  
   - '+.googleapis.com'  
   - '+.google.com.hk' 
   - '+.staticadssl.l.google.com'
   - '+.gstaticadssl.l.google.com'
-  - '+.www-google-analytics.l.google.com'  
+  - '+.clients.l.google.com'
+  - '+.mobile-gtalk.l.google.com'  
+  - '+.www-google-analytics.l.google.com'
+  - '+.googlehosted.com'  
   - '+.abc.xyz'  
   - '+.android.com'
   - '+.android.pool.ntp.org'
@@ -80,11 +91,17 @@ payload:
   - '+.whatbrowser.org'
   - '+.widevine.com'
   - '+.x.company'
-  - 'oauthaccountmanager.googleapis.com'  
+  - '+.polyfill.io' 
+  - 'oauthaccountmanager.googleapis.com' 
 # > Microsoft
+  - '+.msn.com'
+  - '+.a-msedge.net'
+  - '+.t-msedge.net'
+  - '+.l-msedge.net'  
   - '+.live.com'
   - '+.live.net'  
   - '+.mp.microsoft.com'
+  - '+.msidentity.com'  
   - 'share.microsoft.com' 
   - 'in.appcenter.ms'  
   - 'prod.rewardsplatform.microsoft.com'
@@ -117,12 +134,17 @@ payload:
   - 'arc.msn.com'   
   - 'edgestoreweb.azureedge.net' 
   - 'mirror.cedia.org.ec'
-  - '+.dev.virtualearth.net'  
+  - 'dev.virtualearth.net'  
   - 'in.appcenter.ms'  
   - 'up.freedownloadmanager.org'
   - 'publicsuffix.org'
   - 'sharepoint-df.com'
-  - 'cs9.wac.phicdn.net' 
+  - 'cs9.wac.phicdn.net'
+  
+# > edge
+  - '+.peer1-hkg.msedge.net'
+  - '+.l-ring.msedge.net'
+  - '+.fp-as.azureedge.net'  
 # > Amazon
   - '+.amazon.nl'
   - '+.amazon.com.mx'
@@ -137,6 +159,7 @@ payload:
   - '+.bugsnag.com'
   - '+.cloudfront.net'
   - '+.webtest.net'
+  - '+.mozaws.net'  
 # > Akamai
   - '+.akadns.net'
   - '+.akamai.net'
@@ -144,7 +167,8 @@ payload:
   - '+.akamaihd.net'
   - '+.akamaistream.net'
   - '+.akamaized.net'
-  - 'img-s-msn-com.akamaized.net'  
+  - 'img-s-msn-com.akamaized.net'
+  - 'deff.nelreports.net'  
 # > BBC
   - '+.bbc.co'
   - '+.bbc.com'
@@ -201,6 +225,8 @@ payload:
   - '+.twimg.com'
   - '+.twitpic.com'
   - '+.vine.co'
+# > Tencent
+  - '+.gtimg.com'  
 # > Spark
   - '+.api.amplitude.com'
   - '+.app.smartmailcloud.com'
@@ -227,7 +253,7 @@ payload:
   - 'sin.vip.zenlogic.net'
   - 'cdn.gethatch.com'
   - 'in-and-ru-store-api.uk-e1.cloudhub.io'
-# > GSK  
+# > GSK
   - '+.gsk.com'
   - '+.igskapp.com'  
   - '+.pingone.com'
@@ -238,7 +264,7 @@ payload:
 # > other
   - '+.ntp.org'
   - 'pool.ntp.org'
-  - '+.vod309.com'
+  - '+.vod309.com' 
   - '+.i3d.net'
   - '+.71ab.com'
   - '+.sleazyfork.org'
@@ -623,7 +649,6 @@ payload:
   - '+.instructables.com'
   - '+.io.io'
   - '+.ip.sb'
-  - '+.ip138.com'
   - '+.ipaddress.com'
   - '+.ipfs.io'
   - '+.iphone4hongkong.com'
@@ -763,8 +788,7 @@ payload:
   - '+.nytchina.com'
   - '+.nytcn.me'
   - '+.nytco.com'
-  - '+.nytimes.com'
-  - '+.nytimes.com'  
+  - '+.nytimes.com' 
   - '+.nytlog.com'
   - '+.nytstyle.com'
   - '+.ok.ru'
@@ -1163,3 +1187,4 @@ payload:
   - 'api.steampowered.com'
   - 'cn.nytimes.com'
   - 'store.steampowered.com'
+  
