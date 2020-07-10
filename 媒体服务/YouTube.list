@@ -1,4 +1,4 @@
-#2020.6.20 22:00
+#2020.07.10 22:00
 payload:
 # > Youtube
   - '+.youtu.be'
@@ -10,6 +10,7 @@ payload:
   - '+.ytimg.com'
   - '+.ggpht.com'
   - '+.gstatic.com'
+  - 'youtube-ui.l.google.com'  
   - 'youtubei.googleapis.com'  
   - 'api.mousegesturesapi.com'
   - 's2.googleusercontent.com'
