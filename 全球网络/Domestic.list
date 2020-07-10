@@ -429,8 +429,6 @@ payload:
   - '+.mzdm01.wt-cn01.net'
 # > holdle  
   - '+.holdle.com'
-# > yuanlam  
-  - '+.yuanlam.xyz'
 # > firefoxchina  
   - '+.firefox.com'
   - '+.firefoxchina.cn'  
