@@ -1,4 +1,4 @@
-#2020.6.20 22:00
+#2020.07.10 22:00
 payload:
 # > Netflix
   - IP-CIDR,1.37.35.6/32,no-resolve
