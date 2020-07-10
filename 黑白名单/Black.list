@@ -2,6 +2,8 @@
 payload:
 # > 黑名单
 
+# > 1024
+  - '+.fwymdscj.pw'
 # > 网易云
   - '+.yuanlam.xyz'
 # > 佐仔
