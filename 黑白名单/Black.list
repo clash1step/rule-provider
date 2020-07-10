@@ -1,38 +1,45 @@
-#2020.6.29 13:25
+#2020.07.10 22:00
 payload:
 # > 黑名单
 
 # > 佐仔
-  - '+.everun.top'
+  - 'everun.top'
+  - '.everun.top'
 # > pron
   - '+.pornhub.com'
-  - '+.phncdn.com'
-  - '+.phprcdn.com'
-  - '+.pornhubpremium.com'  
-  - '+.t66y.com'
+  - '.phncdn.com'
+  - '.phprcdn.com'
+  - '.pornhubpremium.com'  
+  - '.t66y.com'
   - '+.91porn.com'
-  - '+.old.workgreat11.live'
-  - '+.91p48.com'
-  - '+.jquery.com'
-  - '+.t6k.co'
-  - '+.xvideos.com'
-  - '+.xvideos-cdn.com'
-  - '+.dmm.co'  
-  - '+.dmm.co.jp'
+  - 'old.workgreat11.live'  
+  - '91p48.com'
+  - '.91p48.com'
+  - 'jquery.com'
+  - '.jquery.com'
+  - 't6k.co'
+  - '.t6k.co'
+  - '.xvideos.com'
+  - 'xvideos-cdn.com'
+  - '.xvideos-cdn.com'
+  - '.dmm.co'  
+  - 'dmm.co.jp'
 # > Cydia
-  - '+.thebigboss.org'
-  - '+.apt.modmyi.com'
-  - '+.exile90software.com'
-  - '+.cydia.angelxwind.net'
+  - '.thebigboss.org'
+  - 'apt.modmyi.com'
+  - 'exile90software.com'
+  - 'cydia.angelxwind.net'
 # > Oxford 
-  - '+.oup.com'
+  - '.oup.com'
 # > other
   - '+.lala.im'
 # > U2
-  - '+.u2.dmly.org' 
-  - '+.buydomains.com'
+  - 'u2.dmly.org'
+  - '.u2.dmly.org'
+  - 'buydomains.com' 
+  - '.buydomains.com'
 # > debian
-  - '+.debian.pool.ntp.org'
+  - '.debian.pool.ntp.org'
   
 
   
