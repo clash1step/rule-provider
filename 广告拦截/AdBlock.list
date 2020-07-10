@@ -1,4 +1,4 @@
-#2020.7.8 22:00
+#2020.07.10 22:00
 payload:
   - '+.0.0.0.0.cn'
   - '+.0.r.msn.com'
@@ -7625,8 +7625,6 @@ payload:
   - '+.btovopyov.com'
   - '+.btpnav.com'
   - '+.btr.domywife.com'
-  - '+.btrace.qq.com'
-  - '+.btrace.video.qq.com'
   - '+.btrdlsehltu.com'
   - '+.btrll.com'
   - '+.btserve.com'
@@ -10209,7 +10207,6 @@ payload:
   - '+.crasheye.cn'
   - '+.crashfootwork.com'
   - '+.crashlytics.163.com'
-  - '+.crashlytics.com'
   - '+.crayon.meishichina.com'
   - '+.crazyad.net'
   - '+.crazyclickstats.com'
@@ -12738,7 +12735,6 @@ payload:
   - '+.e.cn.miaozhen.com'
   - '+.e.codlw.com'
   - '+.e.coenr.com'
-  - '+.e.crashlytics.com'
   - '+.e.cuomm.com'
   - '+.e.cx016d.cn'
   - '+.e.czggcj.com'
@@ -42567,3 +42563,8 @@ payload:
   - '+.cnzz.com'
   - '+.yfcc.info'
   - '+.gitma.info'
+  - '+.ab1n.net'
+  - '+.hentaiplaytime.com'
+  - '+.runative-syndicate.com'
+  - '+.cdn.runative-syndicate.com.fpbns.net'  
+  - '+.bidgear.com'  
