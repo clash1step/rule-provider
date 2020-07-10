@@ -1,4 +1,4 @@
-#2020.6.20 22:00
+#2020 07.10 22:00
 payload:
 # > 黑名单
 
@@ -9,6 +9,8 @@ payload:
   - IP-CIDR,198.255.82.91/16,no-resolve
   - IP-CIDR,23.225.233.3/16,no-resolve
   - IP-CIDR,202.171.253.69/16,no-resolve
-  
-  
+# > other
+  - IP-CIDR,121.51.175.0/24,no-resolve  
+  - IP-CIDR,121.51.68.0/24,no-resolve  
+  - IP-CIDR,14.118.246.0/24,no-resolve  
   
