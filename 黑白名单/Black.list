@@ -2,9 +2,10 @@
 payload:
 # > 黑名单
 
+# > 网易云
+  - '+.yuanlam.xyz'
 # > 佐仔
-  - 'everun.top'
-  - '.everun.top'
+  - '+.everun.top'
 # > pron
   - '+.pornhub.com'
   - '.phncdn.com'
