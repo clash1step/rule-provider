@@ -1,11 +1,11 @@
-#2020.7.4 17:00
+#2020.07.10 22:00
 payload:
 # > Microsoft
   - '+.update.microsoft.com'
   - '+.s-microsoft.com'  
   - '+.microsoftonline.com'
   - '+.microsoft-tst.com'
-  - '+.manage.microsoft.com'  
+  - '+.manage.microsoft.com'    
   - '+.azure.com'
   - '+.fabric.io'
   - '+.files.1drv.com'
@@ -22,6 +22,7 @@ payload:
   - '+.office.net'
   - '+.office365.com'  
   - '+.onedrive.com'
+  - '+.msn.cn'  
   - '+.sfx.ms'
   - '+.sharepoint.com'
   - '+.sharepointonline.com'  
@@ -35,10 +36,7 @@ payload:
   - '+.aka.ms'
   - '+.msauth.net'
   - '+.bingapis.com'
-  - 'dc.services.visualstudio.com'  
-  - 'assets.msn.com'
-  - 'api.msn.com'
-  - 'static-spartan-eas-s-msn-com.akamaized.net'
+  - 'dc.services.visualstudio.com'
   - 'support.microsoft.com'
   - 'amp.azure.net'
   - 'assets.onestore.ms'
@@ -47,7 +45,6 @@ payload:
   - 'c1.microsoft.com'
   - 'login.windows.net'
   - 'officeclient.microsoft.com'
-  
   
   
 
