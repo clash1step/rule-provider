@@ -1,4 +1,4 @@
-#2020.6.20 22:00
+#2020.07.10 22:00
 payload:
 # > bilibili
   - '+.acg.tv'
@@ -13,7 +13,16 @@ payload:
   - '+.hdslb.com'
   - '+.im9.com'
   - '+.api.bilibili.com'
-  - '+.upos-hz-mirrorakam.akamaized.net'  
+  - '+.upos-hz-mirrorakam.akamaized.net'
+# > tencent
+  - '+.gtimg.cn'
+  - '+.dldir1.qq.com'
+  - '+.btrace.qq.com'
+  - '+.tv.qq.com'  
+  - '+.video.qq.com'
+  - '+.l.qq.com'
+  - '+.v.qq.com'
+  - '+.puui.qpic.cn'  
 # > iqiyi 
   - '+.iqiyi.com'
   - '+.iqiyipic.com'
@@ -28,7 +37,6 @@ payload:
 # > letv 
   - '+.letv.com'
   - '+.api.mob.app.letv.com' 
-# > tencent
-  - '+.vv.video.qq.com'  
+  
 
  
