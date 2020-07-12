@@ -1,4 +1,4 @@
-#2020.07.10 22:00
+#2020.7.12 12:00
 payload:
   - '+.0.0.0.0.cn'
   - '+.0.r.msn.com'
@@ -16295,7 +16295,6 @@ payload:
   - '+.goods.tudou.com'
   - '+.goodtag.it'
   - '+.goodwold.top'
-  - '+.google-analytics.com'
   - '+.google-rank.org'
   - '+.googleads.g.doubleclick.net'
   - '+.googleadservices.com'
@@ -33154,7 +33153,6 @@ payload:
   - '+.ssl.bbbr8.com'
   - '+.ssl.bsriedu.cn'
   - '+.ssl.di9qu.com.cn'
-  - '+.ssl.google-analytics.com'
   - '+.ssl.hp-china.biz'
   - '+.ssl.hyhzy.cn'
   - '+.ssl.ymapp.com'
@@ -39496,7 +39494,6 @@ payload:
   - '+.www.gj500.com'
   - '+.www.gmcjjh.org'
   - '+.www.gold-city.it'
-  - '+.www.google-analytics.com'
   - '+.www.googleadservices.com'
   - '+.www.googletagmanager.com'
   - '+.www.googletagservices.com'
