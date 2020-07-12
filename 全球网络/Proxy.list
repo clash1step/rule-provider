@@ -1,4 +1,4 @@
-#2020.07.10 22:00
+#2020.7.12 12:00
 payload:
 # > google DNS
   - '+.ampproject.org'
@@ -91,7 +91,8 @@ payload:
   - '+.whatbrowser.org'
   - '+.widevine.com'
   - '+.x.company'
-  - '+.polyfill.io' 
+  - '+.polyfill.io'
+  - '+.google-analytics.com' 
   - 'oauthaccountmanager.googleapis.com' 
 # > Microsoft
   - '+.msn.com'
@@ -124,7 +125,10 @@ payload:
   - 'edge.activity.windows.com'
   - 'edgestatic.blob.core.windows.net'  
   - 'global.notify.windows.com'
-  - 'v4ncsi.msedge.net'  
+  - 'v4ncsi.msedge.net'
+  - 'fp.msedge.net'
+  - 'b-ring.msedge.net'
+  - 'peer2-hkg.msedge.net'  
   - 'onesettings-windowsservices-tas.msedge.net'
   - 'evoke-windowsservices-tas.msedge.net'
   - 'k-0002.k-msedge.net'
@@ -139,8 +143,7 @@ payload:
   - 'up.freedownloadmanager.org'
   - 'publicsuffix.org'
   - 'sharepoint-df.com'
-  - 'cs9.wac.phicdn.net'
-  
+  - 'cs9.wac.phicdn.net' 
 # > edge
   - '+.peer1-hkg.msedge.net'
   - '+.l-ring.msedge.net'
@@ -167,6 +170,7 @@ payload:
   - '+.akamaihd.net'
   - '+.akamaistream.net'
   - '+.akamaized.net'
+  - '+.virtualearth.net'  
   - 'img-s-msn-com.akamaized.net'
   - 'deff.nelreports.net'  
 # > BBC
@@ -1183,7 +1187,7 @@ payload:
   - '+.jwpcdn.com'
   - '+.jwplayer.com'
   - '+.rtings.com'
-  - '+.ss2.us' 
+  - '+.ss2.us'  
   - 'api.steampowered.com'
   - 'cn.nytimes.com'
   - 'store.steampowered.com'
