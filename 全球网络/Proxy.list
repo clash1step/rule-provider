@@ -1,6 +1,7 @@
-#2020.7.12 12:00
+#2020.7.16 22:00
 payload:
 # > google DNS
+  - '+.dns.google.com'
   - '+.ampproject.org'
   - '+.appspot.com'
   - '+.blogger.com'
@@ -28,6 +29,7 @@ payload:
   - '+.wac.iotacdn.net'
   - '+.adn.gammacdn.net'  
 # > google
+  - '+.google.com'
   - '+.www.google.com'
   - '+.aa.google.com'  
   - '+.apis.google.com'
@@ -41,11 +43,13 @@ payload:
   - '+.myaccount.google.com'
   - '+.about.google'  
   - '+.googleapis.com'  
-  - '+.google.com.hk' 
+  - '+.google.com.hk'
+  - '+.l.google.com'  
   - '+.staticadssl.l.google.com'
   - '+.gstaticadssl.l.google.com'
   - '+.clients.l.google.com'
-  - '+.mobile-gtalk.l.google.com'  
+  - '+.mobile-gtalk.l.google.com'
+  - '+.pki-goog.l.google.com' 
   - '+.googlehosted.com'  
   - '+.abc.xyz'  
   - '+.android.com'
@@ -91,10 +95,11 @@ payload:
   - '+.widevine.com'
   - '+.x.company'
   - '+.polyfill.io'
+  - '+.geotrust.com'  
   - '+.google-analytics.com'
   - '+.www-google-analytics.l.google.com'  
   - '+.www.google-analytics.com'  
-  - 'oauthaccountmanager.googleapis.com' 
+  - 'oauthaccountmanager.googleapis.com'  
 # > Microsoft
   - '+.msn.com'
   - '+.a-msedge.net'
@@ -171,9 +176,9 @@ payload:
   - '+.akamaihd.net'
   - '+.akamaistream.net'
   - '+.akamaized.net'
-  - '+.virtualearth.net'  
-  - 'img-s-msn-com.akamaized.net'
-  - 'deff.nelreports.net'  
+  - '+.virtualearth.net'
+  - '+.nelreports.net'  
+  - 'img-s-msn-com.akamaized.net'  
 # > BBC
   - '+.bbc.co'
   - '+.bbc.com'
@@ -265,7 +270,9 @@ payload:
   - '+.veevacrm.com'
   - '+.concursolutions.com'
   - '+.myworkday.com'
-  - '+.airwatchportals.com'  
+  - '+.airwatchportals.com'
+# > AMD
+  - 'download.amd.com'  
 # > other
   - '+.ntp.org'
   - 'pool.ntp.org'
