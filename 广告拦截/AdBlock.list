@@ -1,4 +1,4 @@
-#2020.7.12 12:00
+#2020.7.19 22:00
 payload:
   - '+.0.0.0.0.cn'
   - '+.0.r.msn.com'
@@ -42542,7 +42542,6 @@ payload:
   - '+.mmstat.com'
   - '+.xfyy397.cn'
   - '+.hdsygw.cn'
-  - '+.loli.net'
   - '+.heygugu.com'
   - '+.bjpengyi.com'  
   - '+.q4hwkg.cn'
@@ -42560,8 +42559,17 @@ payload:
   - '+.cnzz.com'
   - '+.yfcc.info'
   - '+.gitma.info'
+  - '+.yirishedspe.info'  
   - '+.ab1n.net'
   - '+.hentaiplaytime.com'
   - '+.runative-syndicate.com'
   - '+.cdn.runative-syndicate.com.fpbns.net'  
-  - '+.bidgear.com'  
+  - '+.bidgear.com'
+  - '+.g1s6b.xyz'
+  - '+.7m0hj.cn'
+  - '+.inpcut.com'
+  - '+.imstks.com'
+  - '+.qnmuayx.cn'
+  - '+.imstks.com'
+  - 'v.shangyingwm.com'
+  - 'm.chinachooses.com'  
