@@ -1,4 +1,4 @@
-#2020.07.10 22:00
+#2020.7.19 22:00
 payload:  
 # > 360
   - '+.360.com'
@@ -354,7 +354,10 @@ payload:
 # > ohmanhua
   - '+.hmanhua.com'
   - '+.ohmanhua.com'
-  - '+.mg.manhuadao.cn' 
+  - '+.manhuadao.cn'
+  - '+.mljzmm.com'
+  - '+.mikanshu.com'
+  - '+.iyunys.com'  
 # > mytoken
   - '+.mytoken.io'
   - '+.ytoken.io'
@@ -429,6 +432,9 @@ payload:
   - '+.mzdm01.wt-cn01.net'
 # > holdle  
   - '+.holdle.com'
+  - '+.loli.net'  
+# > yuanlam  
+  - '+.yuanlam.xyz'
 # > firefoxchina  
   - '+.firefox.com'
   - '+.firefoxchina.cn'  
