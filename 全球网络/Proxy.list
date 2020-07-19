@@ -1,4 +1,4 @@
-#2020.7.16 22:00
+#2020.7.19 22:00
 payload:
 # > google DNS
   - '+.dns.google.com'
@@ -110,7 +110,8 @@ payload:
   - '+.mp.microsoft.com'
   - '+.msidentity.com'  
   - 'share.microsoft.com' 
-  - 'in.appcenter.ms'  
+  - 'in.appcenter.ms'
+  - 'ars.smartscreen.microsoft.com' 
   - 'prod.rewardsplatform.microsoft.com'
   - 'self.events.data.microsoft.com'  
   - 'vortex.data.microsoft.com'
@@ -1200,4 +1201,3 @@ payload:
   - 'api.steampowered.com'
   - 'cn.nytimes.com'
   - 'store.steampowered.com'
-  
