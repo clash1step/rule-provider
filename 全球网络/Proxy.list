@@ -260,6 +260,7 @@ payload:
 # >NIVDIA
   - '+.phicdn.net'
   - '+.shara.li'
+  - 'ota.nvidia.com'  
   - 'api.digitalriver.com'
   - 'sin.vip.zenlogic.net'
   - 'cdn.gethatch.com'
