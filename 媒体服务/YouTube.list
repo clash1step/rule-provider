@@ -9,7 +9,6 @@ payload:
   - '+.arubanetworks.com'   
   - '+.ytimg.com'
   - '+.ggpht.com'
-  - '+.gstatic.com'
   - 'youtube-ui.l.google.com'  
   - 'youtubei.googleapis.com'  
   - 'api.mousegesturesapi.com'
