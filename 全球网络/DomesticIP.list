@@ -1,7 +1,6 @@
-#2020.07.10 22:00
+#2020.7.30 22:00
 payload:
-# > dlercloud
-  - IP-CIDR,120.79.75.0/24,no-resolve
+# > dlercloud  
 # > Tencent
   - IP-CIDR,182.254.116.0/24,no-resolve
   - IP-CIDR,203.205.252.0/23,no-resolve
@@ -18,6 +17,5 @@ payload:
   - IP-CIDR,221.226.128.146/32,no-resolve
 # > manhuagui
   - IP-CIDR,185.23.201.48/24,no-resolve  
-# > Other  
-
+# > Other
   
