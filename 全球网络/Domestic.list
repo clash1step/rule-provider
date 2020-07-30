@@ -1,4 +1,4 @@
-#2020.7.19 22:00
+#2020.7.30 22:00
 payload:  
 # > 360
   - '+.360.com'
@@ -352,12 +352,17 @@ payload:
   - '+.amreus.com'
   - '+.hamreus.com'
 # > ohmanhua
-  - '+.hmanhua.com'
   - '+.ohmanhua.com'
+  - 'res.ohmanhua.com'
+  - 'img.ohmanhua.com'
+  - '+.hmanhua.com'
   - '+.manhuadao.cn'
   - '+.mljzmm.com'
   - '+.mikanshu.com'
-  - '+.iyunys.com'  
+  - '+.iyunys.com'
+  - 'd36zfztxfflmqo.cloudfront.net'  
+  - 'cdndx.clouddata8g.xyz'
+  - 'cdn.ohmanhua.com.cdn.cloudflare.net'  
 # > mytoken
   - '+.mytoken.io'
   - '+.ytoken.io'
