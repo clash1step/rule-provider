@@ -1,4 +1,4 @@
-#2020.7.19 22:00
+#2020.7.30 22:00
 payload:
 # > google DNS
   - '+.dns.google.com'
@@ -178,7 +178,9 @@ payload:
   - '+.akamaistream.net'
   - '+.akamaized.net'
   - '+.virtualearth.net'
-  - '+.nelreports.net'  
+  - '+.nelreports.net'
+  - '+.crashlytics.com'
+  - '+.pki.goog'  
   - 'img-s-msn-com.akamaized.net'  
 # > BBC
   - '+.bbc.co'
@@ -260,8 +262,8 @@ payload:
 # >NIVDIA
   - '+.phicdn.net'
   - '+.shara.li'
-  - 'ota.nvidia.com'  
-  - 'api.digitalriver.com'
+  - '+.shara.li'  
+  - 'ota.nvidia.com'
   - 'sin.vip.zenlogic.net'
   - 'cdn.gethatch.com'
   - 'in-and-ru-store-api.uk-e1.cloudhub.io'
@@ -274,7 +276,13 @@ payload:
   - '+.myworkday.com'
   - '+.airwatchportals.com'
 # > AMD
-  - 'download.amd.com'  
+  - 'download.amd.com'
+# > AMD
+  - '+.pud.life'
+  - '+.pud.hdker.com'
+  - '+.hdker.com'
+# > ohmanhua
+  
 # > other
   - '+.ntp.org'
   - 'pool.ntp.org'
@@ -885,6 +893,7 @@ payload:
   - '+.reuters.com'
   - '+.reutersmedia.net'
   - '+.rfi.fr'
+  - '+.fmm.io'  
   - '+.rileyguide.com'
   - '+.rime.im'
   - '+.rixcloud.com'
@@ -1184,6 +1193,7 @@ payload:
   - '+.zalmos.com'
   - '+.zaobao.com'
   - '+.zaobao.com.sg'
+  - '+.getai.sg'  
   - '+.zattoo.com'
   - '+.zb.com'
   - '+.zello.com'
@@ -1202,3 +1212,4 @@ payload:
   - 'api.steampowered.com'
   - 'cn.nytimes.com'
   - 'store.steampowered.com'
+  
