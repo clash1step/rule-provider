@@ -29,6 +29,7 @@ payload:
   - '+.wac.iotacdn.net'
   - '+.adn.gammacdn.net'  
 # > google
+  - '+.google.ru'
   - '+.google.com'
   - '+.www.google.com'
   - '+.aa.google.com'  
