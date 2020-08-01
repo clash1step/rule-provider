@@ -1,4 +1,4 @@
-#2020.7.30 22:00
+#2020.8.1 20:00
 payload:
 # > google DNS
   - '+.dns.google.com'
@@ -222,7 +222,7 @@ payload:
   - '+.github.io'
   - '+.githubapp.com'
   - '+.githubassets.com'
-  - '+.githubusercontent.com'
+  - '+.githubusercontent.com'  
 # > Facebook 
   - '+.facebook.com'
   - '+.facebook.net'  
@@ -285,8 +285,9 @@ payload:
 # > ohmanhua
   
 # > other
+  - '+.ojrq.net'
+  - '+.go2cloud.org'
   - '+.ntp.org'
-  - 'pool.ntp.org'
   - '+.vod309.com' 
   - '+.i3d.net'
   - '+.71ab.com'
