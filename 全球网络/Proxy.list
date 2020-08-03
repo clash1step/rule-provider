@@ -1,4 +1,4 @@
-#2020.8.1 20:00
+#2020.8.4 00:00
 payload:
 # > google DNS
   - '+.dns.google.com'
@@ -102,12 +102,10 @@ payload:
   - '+.www.google-analytics.com'  
   - 'oauthaccountmanager.googleapis.com'  
 # > Microsoft
-  - '+.msn.com'
-  - '+.a-msedge.net'
-  - '+.t-msedge.net'
-  - '+.l-msedge.net'  
   - '+.live.com'
-  - '+.live.net'  
+  - '+.live.net'
+  - '+.msn.net'
+  - '+.msn.com'  
   - '+.mp.microsoft.com'
   - '+.msidentity.com'  
   - 'share.microsoft.com' 
@@ -282,9 +280,9 @@ payload:
   - '+.pud.life'
   - '+.pud.hdker.com'
   - '+.hdker.com'
-# > ohmanhua
-  
-# > other
+  # > other
+  - '+.imperva.com'
+  - '+.hotjar.com'
   - '+.ojrq.net'
   - '+.go2cloud.org'
   - '+.ntp.org'
@@ -1195,6 +1193,7 @@ payload:
   - '+.zalmos.com'
   - '+.zaobao.com'
   - '+.zaobao.com.sg'
+  - '+.popin.cc'  
   - '+.getai.sg'  
   - '+.zattoo.com'
   - '+.zb.com'
@@ -1214,4 +1213,3 @@ payload:
   - 'api.steampowered.com'
   - 'cn.nytimes.com'
   - 'store.steampowered.com'
-  
