@@ -1,11 +1,13 @@
-#2020.07.10 22:00
+#2020.8.4 00:00
 payload:
 # > Microsoft
+  - '+.account.microsoft.com'
   - '+.update.microsoft.com'
   - '+.s-microsoft.com'  
   - '+.microsoftonline.com'
   - '+.microsoft-tst.com'
-  - '+.manage.microsoft.com'    
+  - '+.manage.microsoft.com'
+  - '+.data.microsoft.com'  
   - '+.azure.com'
   - '+.fabric.io'
   - '+.files.1drv.com'
@@ -15,14 +17,17 @@ payload:
   - '+.azure.com'
   - '+.edgesuite.net'
   - '+.bing.com'  
-  - '+.bing.net'  
+  - '+.bing.net'
+  - '+.a-msedge.net'
+  - '+.t-msedge.net'
+  - '+.l-msedge.net'    
   - '+.livefilestore.com'  
   - '+.mesh.com'
+  - '+.sway-cdn.com' 
   - '+.office.com'
   - '+.office.net'
   - '+.office365.com'  
-  - '+.onedrive.com'
-  - '+.msn.cn'  
+  - '+.onedrive.com'  
   - '+.sfx.ms'
   - '+.sharepoint.com'
   - '+.sharepointonline.com'  
@@ -45,18 +50,3 @@ payload:
   - 'c1.microsoft.com'
   - 'login.windows.net'
   - 'officeclient.microsoft.com'
-  
-  
-
-  
-  
-  
-
-
-
-
-
-
-
-
-
