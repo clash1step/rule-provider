@@ -49,7 +49,7 @@ payload:
 # > skk博客
   - '+.skk.moe'
 # > 
-  -'+.vmware.com'
+  - '+.vmware.com'
   
 
   
