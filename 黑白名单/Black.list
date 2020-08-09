@@ -44,14 +44,11 @@ payload:
   - '.buydomains.com'
 # > debian
   - '.debian.pool.ntp.org'
-  
 # > 117漫画
   - '+.www.177pic.info'
-
 # > skk博客
   - '+.skk.moe'
-  
-# >
+# > 
   -'+.vmware.com'
   
 
