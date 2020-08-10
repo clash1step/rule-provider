@@ -41,6 +41,7 @@ payload:
   - '+.aka.ms'
   - '+.msauth.net'
   - '+.bingapis.com'
+  - '+.smartscreen.microsoft.com'
   - 'dc.services.visualstudio.com'
   - 'support.microsoft.com'
   - 'amp.azure.net'
