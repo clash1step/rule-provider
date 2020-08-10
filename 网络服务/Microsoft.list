@@ -108,8 +108,8 @@ payload:
 
 # > Windows Defender
   - 'wdcp.microsoft.com'
-  - '*smartscreen-prod.microsoft.com'
-  - '*smartscreen.microsoft.com'
+  - '+.smartscreen-prod.microsoft.com'
+  - '+.smartscreen.microsoft.com'
   - 'checkappexec.microsoft.com'
 
 # > Windows聚焦
