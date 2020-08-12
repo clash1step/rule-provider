@@ -66,10 +66,10 @@ payload:
   - 'iprofiles.apple.com'
   - 'mdmenrollment.apple.com'
   - 'setup.icloud.com'
-  - 'vpp.itunes.apple.com
+  - 'vpp.itunes.apple.com'
 
 # > 内容缓存
-  - 'lcdn-registration.apple.com
+  - 'lcdn-registration.apple.com'
 
 # >证书验证
   - 'crl.apple.com'
