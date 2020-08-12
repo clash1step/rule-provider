@@ -1,4 +1,4 @@
-#2020.07.10 22:00
+#2020.08.13 00:30
 payload:
 # > Apple_API
   - '+.aaplimg.com'
@@ -18,22 +18,65 @@ payload:
   - 'ocsp.apple.com'  
   - 'ocsp.verisign.net'
   - 'blobstore.apple.com'
-  - 'gateway.fe.apple-dns.net'  
+  - 'gateway.fe.apple-dns.net'
+  
 # > Map
   - '+.ls.apple.com'  
-  - 'gs-loc-cn.apple.com'   
+  - 'gs-loc-cn.apple.com'
+  
 # > TestFlight
-  - 'testflight.apple.com' 
+  - 'testflight.apple.com'
+  
 # > Apple URL Shortener
-  - '+.appsto.re' 
+  - '+.appsto.re'
+  
 # > iBooks Store download
-  - 'books.itunes.apple.com' 
+  - 'books.itunes.apple.com'
+  
 # > iTunes Store Moveis Trailers
-  - 'hls.itunes.apple.com' 
+  - 'hls.itunes.apple.com'
+  
 # > App Store Preview
   - 'apps.apple.com' 
-  - 'itunes.apple.com' 
+  - 'itunes.apple.com'
+  
 # > Spotlight
-  - 'api-glb-sea.smoot.apple.com' 
+  - 'api-glb-sea.smoot.apple.com'
+  
 # > Dictionary
   - 'lookup-api.apple.com' 
+
+# > 设备设置
+  - 'albert.apple.com'
+  - 'captive.apple.com'
+  - 'gs.apple.com'
+  - 'humb.apple.com'
+  - 'static.ips.apple.com'
+  - 'tbsc.apple.com'
+  - 'time-ios.apple.com'
+  - 'time.apple.com'
+  - 'time-macos.apple.com'
+  
+# > 设备管理
+  - '+.push.apple.com'
+  - 'gdmf.apple.com'
+  - 'deviceenrollment.apple.com'
+  - 'deviceservices-external.apple.com'
+  - 'identity.apple.com'
+  - 'iprofiles.apple.com'
+  - 'mdmenrollment.apple.com'
+  - 'setup.icloud.com'
+  - 'vpp.itunes.apple.com
+
+# > 内容缓存
+  - 'lcdn-registration.apple.com
+
+# >证书验证
+  - 'crl.apple.com'
+  - 'crl.entrust.net'
+  - 'crl3.digicert.com'
+  - 'crl4.digicert.com'
+  - 'ocsp.apple.com'
+  - 'ocsp.digicert.com'
+  - 'ocsp.entrust.net'
+  - 'ocsp.verisign.net'
