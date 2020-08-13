@@ -1,15 +1,51 @@
-#2020.08.12 22:22
+#2020.08.14 02:00
 payload:
-# > Apple itunes & App Store
-  - '+.itunes.apple.com'
-  - '+.apps.apple.com'
-  - '+.mzstatic.com'
-  - '+.storedownloadd.'
-  - 'api.smoot.apple.cn'
-  - 'music.apple.com'
-  - 'ppq.apple.com'
+### > Apple直连
+
+# > Apple Map
+  - 'gs-loc-cn.apple.com'
+  - '+.ls.apple.com'
   
-# > 系统更新
+# > Apple Music Streaming
+  - 'aod.itunes.apple.com'
+  - 'api.smoot.apple.cn'
+  - 'mvod.itunes.apple.com'
+  - 'streamingaudio.itunes.apple.com'
+  - '+.music.apple.com'
+  
+# > Apple Pay
+  - 'smp-device-content.apple.com'
+
+# > App Store & iTunes Images
+  - 'iosapps.itunes.apple.com'
+  - 'osxapps.itunes.apple.com'
+  - '+.mzstatic.com'
+  
+# > Asset Cache Locator Service
+  - '+.lcdn-locator.apple.com'
+  
+# > Apple其他直连
+  - 'api.smoot.apple.com'
+  - 'captive.apple.com'
+  - 'configuration.apple.com'
+  - 'guzzoni.apple.com'
+   
+# > Caching Server Registration
+  - '+.lcdn-registration.apple.com'
+    
+# > GeoServices.framework
+  - '+.ls.apple.com'
+ 
+# > locationd
+  - 'gs-loc.apple.com'
+   
+# > Reserve
+  - 'reserve-prime.apple.com'
+  - '+.ess.apple.com'
+  - '+.push-apple.com.akadns.net'
+  - '+.push.apple.com'
+  
+# > Update
   - 'appldnld.apple.com'
   - 'apptrailers.itunes.apple.com'
   - 'gg.apple.com'
@@ -20,15 +56,18 @@ payload:
   - 'mesu.apple.com'
   - 'ns.itunes.apple.com'
   - 'oscdn.apple.com'
-  - 'osrecovery.apple.com	'
+  - 'osrecovery.apple.com'
   - 'skl.apple.com'
   - 'supportdownload.apple.com'
   - 'swcdn.apple.com'
   - 'swdist.apple.com'
-  - 'swdownload.apple.com	'
+  - 'swdownload.apple.com'
   - 'swpost.apple.com'
   - 'swscan.apple.com'
   - 'updates-http.cdn-apple.com'
   - 'updates.cdn-apple.com'
   - 'xp.apple.com'
+  
+# > Weather
+  - 'weather-analytics-events.apple.com'
  
