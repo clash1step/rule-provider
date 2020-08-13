@@ -1,4 +1,4 @@
-#2020.08.14 02:00
+#2020.08.14 02:40
 payload:
 ### > Apple直连
 
@@ -25,7 +25,6 @@ payload:
   - '+.lcdn-locator.apple.com'
   
 # > Apple其他直连
-  - 'api.smoot.apple.com'
   - 'captive.apple.com'
   - 'configuration.apple.com'
   - 'guzzoni.apple.com'
