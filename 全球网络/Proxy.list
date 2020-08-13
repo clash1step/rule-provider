@@ -1,5 +1,29 @@
-#2020.8.4 00:00
+#2020.08.14 02:30
 payload:
+## > 以下为apple必须代理的规则
+# > Apple
+  - 'testflight.apple.com'
+# > Apple Music Web
+  - 'beta.music.apple.com'
+# > Apple URL Shortener
+  - '+.appsto.re'
+# > App Store Preview
+  - 'apps.apple.com'
+  - 'itunes.apple.com'
+# > iBooks Store download
+  - 'books.itunes.apple.com'
+# > Spotlight
+  - 'api-glb-sea.smoot.apple.com'
+# > Look Up
+  - 'lookup-api.apple.com'
+  - '+.smoot.apple.com'
+# > (Network Jitter)
+# > 修复程序下载或更新停留在App Store中，并且在更改Apple ID区域时，无法选择付款信息。
+  - '+.cloudcone.com.cn'
+  - '+.inkbunny.net'
+  - '+.metapix.net'
+  - '+.s3.amazonaws.com'
+  - '+.zaobao.com.sg'
 # > google DNS
   - '+.dns.google.com'
   - '+.ampproject.org'
