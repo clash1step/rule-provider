@@ -1,82 +1,54 @@
-#2020.08.13 00:30
+#2020.08.14 02:45
 payload:
-# > Apple_API
-  - '+.aaplimg.com'
-  - '+.apple.co'
-  - '+.apple.com'
-  - '+.apple-cloudkit.com'
+# > 一些 com.apple.appstored* 会连接的 API（优先级高）
+  - 'api-edge.apps.apple.com'
+  - 'api.apps.apple.com'
+  - 'apps.apple.com'
+  - 'bag.itunes.apple.com'
+  - 'beta.music.apple.com'
+  - 'play.itunes.apple.com'
+  - 'se-edge.itunes.apple.com'
+  - 'se.itunes.apple.com'
+  - 'su.itunes.apple.com'
+  - 'upp.itunes.apple.com'
+  - 'xp.apple.com'
+
+## > Apple Non-China CDN
+# Apple News
+  - '+.apple.news'
+  - 'apple.comscoreresearch.com'
+  - 'news-edge.apple.com'
+  - 'news-events.apple.com'
+  
+# > Developer
+  - 'devimages-cdn.apple.com'
+  - 'devstreaming-cdn.apple.com'
+  - 'docs-assets.developer.apple.com'
+  - 'js-cdn.music.apple.com'
   - '+.apple-dns.net'
-  - '+.ls-apple.com.akadns.net'    
-  - '+.appsto.re'
+
+# > iTunes Music Stream
+  - 'cdn.apple-cloudkit.com'
+  - '+.audio-ssl.itunes.apple.com'
   - '+.cdn-apple.com'
-  - '+.icloud.com'
-  - '+.icloud-content.com'
-  - '+.itunes.com'
-  - '+.me.com'
-  - '+.digicert.com'
-  - '+.entrust.net'
-  - 'ocsp.apple.com'  
-  - 'ocsp.verisign.net'
-  - 'blobstore.apple.com'
-  - 'gateway.fe.apple-dns.net'
-  
-# > Map
-  - '+.ls.apple.com'  
-  - 'gs-loc-cn.apple.com'
-  
-# > TestFlight
-  - 'testflight.apple.com'
-  
-# > Apple URL Shortener
+
+# > Movie Stream
+  - '+.hls-amt.itunes.apple.com'
+
+# > Trailer
+  - '+.hls.itunes.apple.com'
+
+# > Apple 其他自选
+  - '+.aaplimg.com'
+  - '+.apple'
+  - '+.apple.co'
   - '+.appsto.re'
+  - '+.itunes.apple.com'
+  - '+.itunes.com'
   
-# > iBooks Store download
-  - 'books.itunes.apple.com'
-  
-# > iTunes Store Moveis Trailers
-  - 'hls.itunes.apple.com'
-  
-# > App Store Preview
-  - 'apps.apple.com' 
-  - 'itunes.apple.com'
-  
-# > Spotlight
-  - 'api-glb-sea.smoot.apple.com'
-  
-# > Dictionary
-  - 'lookup-api.apple.com' 
-
-# > 设备设置
-  - 'albert.apple.com'
-  - 'captive.apple.com'
-  - 'gs.apple.com'
-  - 'humb.apple.com'
-  - 'static.ips.apple.com'
-  - 'tbsc.apple.com'
-  - 'time-ios.apple.com'
-  - 'time.apple.com'
-  - 'time-macos.apple.com'
-  
-# > 设备管理
-  - '+.push.apple.com'
-  - 'gdmf.apple.com'
-  - 'deviceenrollment.apple.com'
-  - 'deviceservices-external.apple.com'
-  - 'identity.apple.com'
-  - 'iprofiles.apple.com'
-  - 'mdmenrollment.apple.com'
-  - 'setup.icloud.com'
-  - 'vpp.itunes.apple.com'
-
-# > 内容缓存
-  - 'lcdn-registration.apple.com'
-
-# >证书验证
-  - 'crl.apple.com'
-  - 'crl.entrust.net'
-  - 'crl3.digicert.com'
-  - 'crl4.digicert.com'
-  - 'ocsp.apple.com'
-  - 'ocsp.digicert.com'
-  - 'ocsp.entrust.net'
-  - 'ocsp.verisign.net'
+# > iCloud 上传和下载
+  - '+.apple-cloudkit.com'
+  - '+.apple.com'
+  - '+.icloud-content.com'
+  - '+.icloud.com'
+  - '+.me.com'
