@@ -1,6 +1,7 @@
 #2020.07.10 22:00
 payload:
 # > speedtest
+  - '+.fast.com'
   - '+.ooklaserver.net'
   - '+.speedtest.net'
   - '+.netspeedtestmaster.com'
