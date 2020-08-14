@@ -1,5 +1,23 @@
 #2020.08.14 02:45
 payload:
+# > Apple
+  - 'testflight.apple.com'
+  - '+.cloudcone.com.cn'  
+# > Apple Music Web
+  - 'beta.music.apple.com'
+# > Apple URL Shortener
+  - '+.appsto.re'
+# > App Store Preview
+  - 'apps.apple.com'
+  - 'itunes.apple.com'
+# > iBooks Store download
+  - 'books.itunes.apple.com'
+# > Spotlight
+  - 'api-glb-sea.smoot.apple.com'
+# > Look Up
+  - 'lookup-api.apple.com'
+  - '+.smoot.apple.com' 
+  
 # > 一些 com.apple.appstored* 会连接的 API（优先级高）
   - 'api-edge.apps.apple.com'
   - 'api.apps.apple.com'
@@ -11,7 +29,7 @@ payload:
   - 'se.itunes.apple.com'
   - 'su.itunes.apple.com'
   - 'upp.itunes.apple.com'
-  - 'xp.apple.com'
+  - 'xp.apple.com'  
 
 ## > Apple Non-China CDN
 # Apple News
