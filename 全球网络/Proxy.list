@@ -282,6 +282,7 @@ payload:
   - '+.hdker.com'
   # > other
   - '+.1drv.ms'
+  - '+.digicert.com'  
   - '+.fixnone.com'
   - '+.entrust.net'
   - '+.verisign.net'  
