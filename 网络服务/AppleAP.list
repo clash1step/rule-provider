@@ -42,9 +42,12 @@ payload:
   - '+.aaplimg.com'
   - '+.apple'
   - '+.apple.co'
+  - '+.apple.com'  
   - '+.appsto.re'
   - '+.itunes.apple.com'
   - '+.itunes.com'
+  
+  
   
 # > iCloud 上传和下载
   - '+.apple-cloudkit.com'
