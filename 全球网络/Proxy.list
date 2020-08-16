@@ -1,23 +1,5 @@
-#2020.08.14 16:00
+#2020.08.16 22:30
 payload:
-# > Apple
-  - 'testflight.apple.com'
-  - '+.cloudcone.com.cn'  
-# > Apple Music Web
-  - 'beta.music.apple.com'
-# > Apple URL Shortener
-  - '+.appsto.re'
-# > App Store Preview
-  - 'apps.apple.com'
-  - 'itunes.apple.com'
-# > iBooks Store download
-  - 'books.itunes.apple.com'
-# > Spotlight
-  - 'api-glb-sea.smoot.apple.com'
-# > Look Up
-  - 'lookup-api.apple.com'
-  - '+.smoot.apple.com' 
-  
 # > google DNS
   - '+.dns.google.com'
   - '+.ampproject.org'
@@ -255,6 +237,9 @@ payload:
   - '+.twimg.com'
   - '+.twitpic.com'
   - '+.vine.co'
+# > instagram  
+  - '+.instagram.com'
+  - '+.cdninstagram.com'  
 # > Tencent
   - '+.gtimg.com'  
 # > Spark
@@ -692,7 +677,6 @@ payload:
   - '+.inoreader.com'
   - '+.insder.co'
   - '+.insecam.org'
-  - '+.instagram.*'
   - '+.instapaper.com'
   - '+.instructables.com'
   - '+.io.io'
@@ -1239,3 +1223,4 @@ payload:
   - 'api.steampowered.com'
   - 'cn.nytimes.com'
   - 'store.steampowered.com'
+  
