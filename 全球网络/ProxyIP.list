@@ -1,4 +1,4 @@
-#2020.7.30 22:00
+#2020.8.17 14:00
 payload:
 # > Facebook
   - IP-CIDR,74.125.0.0/16,no-resolve
@@ -58,7 +58,7 @@ payload:
   - IP-CIDR,13.68.93.0/24,no-resolve
   - IP-CIDR,220.181.26.0/24,no-resolve
 # > autohome
-  
-# > other  
-
-  
+  - IP-CIDR,223.99.255.22/24,no-resolve
+  - IP-CIDR,113.96.208.29/24,no-resolve
+  - IP-CIDR,104.87.6.38/24,no-resolve  
+# > other
