@@ -1,4 +1,4 @@
-#2020.08.16 22:30
+#2020.08.18 14:30
 payload:
 # > google DNS
   - '+.dns.google.com'
@@ -284,6 +284,7 @@ payload:
   - '+.pud.hdker.com'
   - '+.hdker.com'
   # > other
+  - '+.easytomessage.com' 
   - '+.1drv.ms'
   - '+.digicert.com'  
   - '+.fixnone.com'
