@@ -9,3 +9,5 @@ payload:
   - '+.hgc.com'
   - '+.okla-speedtest.hgconair.hgc.com.hk'
   - 'speed.cloudflare.com'
+  - 'api.mapbox.com'
+  - 'events.mapbox.com'
