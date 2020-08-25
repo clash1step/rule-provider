@@ -280,6 +280,7 @@ payload:
 # > AMD
   - 'download.amd.com'
 # > hdker
+  - '+.haiyun.me'
   - '+.pud.life'
   - '+.pud.hdker.com'
   - '+.hdker.com'
