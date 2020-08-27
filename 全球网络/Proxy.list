@@ -195,6 +195,7 @@ payload:
   - '+.gcr.io'
   - '+.gitlab.com'
   - '+.gitlab.io'
+  - '+.gitcdn.xyz' 
   - '+.jitpack.io'
   - '+.maven.org'
   - '+.medium.com'
