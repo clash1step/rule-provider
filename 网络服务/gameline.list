@@ -19,4 +19,6 @@ payload:
   - '+.battle.net'
   - '+.battlenet.com'  
   - 'blzddist1-a.akamaihd.net'
-  - 'cdp.cloud.unity3d.com'  
+  - 'cdp.cloud.unity3d.com'
+# > Gameloft
+  - '+.gameloft.com'  
