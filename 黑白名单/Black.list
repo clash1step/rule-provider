@@ -2,6 +2,8 @@
 payload:
 # > 黑名单
 
+# > voxel-firmware
+  - '+.www.voxel-firmware.com'
 # > 1024
   - '+.fwymdscj.pw'
   - '+.99e5be8a.club'
