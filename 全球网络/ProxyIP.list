@@ -55,6 +55,7 @@ payload:
   - IP-CIDR,183.61.49.155/24,no-resolve  
 # > Microsoft
   - IP-CIDR,40.114.54.0/24,no-resolve
+  - IP-CIDR,40.126.12.199/24,no-resolve  
   - IP-CIDR,13.68.93.0/24,no-resolve
   - IP-CIDR,220.181.26.0/24,no-resolve
   - IP-CIDR,52.109.120.73/24,no-resolve
