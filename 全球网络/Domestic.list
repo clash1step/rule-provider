@@ -437,8 +437,7 @@ payload:
   - '+.holdle.com'
   - '+.loli.net'  
 # > yuanlam  
-  - '+.yuanlam.xyz'
-  - '+.crisp.chat'  
+  - '+.yuanlam.xyz' 
 # > firefoxchina  
   - '+.firefox.com'
   - '+.firefoxchina.cn'  
