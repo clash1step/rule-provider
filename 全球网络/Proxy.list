@@ -260,6 +260,7 @@ payload:
   - '+.cloudflare.com'  
   - '+.dler.io'
   - '+.gravatar.com'
+  - '+.crisp.chat'  
 # > 秋水逸冰
   - '+.teddysun.com'
 # >NIVDIA
