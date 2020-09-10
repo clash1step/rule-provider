@@ -3,6 +3,8 @@ payload:
 # > Tencent
 # > bilibili
   - IP-CIDR,183.136.135.215/24,no-resolve
+  - IP-CIDR,183.60.228.242/24,no-resolve
+  - IP-CIDR,180.163.251.208/24,no-resolve  
   - IP-CIDR,113.96.181.218/24,no-resolve
   - IP-CIDR,58.49.136.6/24,no-resolve  
 # > iqiyi
