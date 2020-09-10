@@ -4,7 +4,7 @@ payload:
 # > bilibili
   - IP-CIDR,183.136.135.215/24,no-resolve
   - IP-CIDR,113.96.181.218/24,no-resolve
-  - IP-CIDR,58.49.136.6,no-resolve  
+  - IP-CIDR,58.49.136.6/24,no-resolve  
 # > iqiyi
   - IP-CIDR,101.227.0.0/16,no-resolve
   - IP-CIDR,101.224.0.0/13,no-resolve
