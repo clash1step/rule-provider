@@ -19,38 +19,30 @@ payload:
   - '+.91porn.com'  
   - '+.91p48.com'
   - '+.91p52.com'  
-  - 'jquery.com'
-  - '.jquery.com'
+  - '+.jquery.com'
   - '+.t6k.co'
   - '+.xvideos.com'
   - '+.xvideos-cdn.com'
   - '+.dmm.co'  
   - '+.dmm.co.jp'
 # > Cydia
-  - '.thebigboss.org'
+  - '+.thebigboss.org'
   - 'apt.modmyi.com'
   - 'exile90software.com'
   - 'cydia.angelxwind.net'
 # > Oxford 
   - '.oup.com'
-# > other
-  - '+.lala.im'
 # > U2
-  - 'u2.dmly.org'
-  - '.u2.dmly.org'
-  - 'buydomains.com' 
-  - '.buydomains.com'
+  - '+.u2.dmly.org'
+  - '+.buydomains.com'
 # > debian
   - '.debian.pool.ntp.org'
 # > 117漫画
   - '+.www.177pic.info'
 # > skk博客
   - '+.skk.moe'
-# > 
+# > Jsboxbbs
+  - '+.jsboxbbs.com'  
+# > other
+  - '+.lala.im'
   - '+.vmware.com'
-  
-
-  
-  
-  
-  
