@@ -52,7 +52,8 @@ payload:
 # > google
   - IP-CIDR,221.226.128.146/32,no-resolve
   - IP-CIDR,221.226.128.146/32,no-resolve
-  - IP-CIDR,183.61.49.155/24,no-resolve  
+  - IP-CIDR,183.61.49.155/24,no-resolve
+  - IP-CIDR,216.239.32.62,no-resolve
 # > Microsoft
   - IP-CIDR,40.114.54.0/24,no-resolve
   - IP-CIDR,40.126.12.199/24,no-resolve  
