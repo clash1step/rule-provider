@@ -7,15 +7,6 @@ payload:
   - '+.kaidian.tv'
 # > 七哥博客
   - '+.5ihome.net' 
-# > keyword
-  - '+.readcube.'
-  - '+.sciencedirect.'
-  - '+.elsevier.'
-  - '+.deepdyve.'
-  - '+.els-cdn.'
-  - '+.wanfangdata.'
-  - '+.pkulaw.'
-  - '+.westlawchina.'
 # > lastpass  
   - '+.lastpass.com'
 # > 中国知网
