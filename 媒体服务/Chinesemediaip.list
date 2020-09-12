@@ -1,21 +1,7 @@
 #2020.07.10 22:00
 payload:
 # > Tencent
-# > bilibili
-  - IP-CIDR,52.114.159.32/24,no-resolve
-  - IP-CIDR,58.49.136.6/24,no-resolve
-  - IP-CIDR,110.43.34.72/24,no-resolve  
-  - IP-CIDR,113.96.140.115/24,no-resolve
-  - IP-CIDR,113.96.181.218/24,no-resolve
-  - IP-CIDR,139.159.246.60/24,no-resolve
-  - IP-CIDR,180.163.251.208/24,no-resolve
-  - IP-CIDR,180.163.243.177/24,no-resolve  
-  - IP-CIDR,180.163.237.29/24,no-resolve
-  - IP-CIDR,183.2.200.240/24,no-resolve
-  - IP-CIDR,183.60.208.230/24,no-resolve
-  - IP-CIDR,183.131.12.179/24,no-resolve   
-  - IP-CIDR,183.136.135.215/24,no-resolve
-  - IP-CIDR,180.163.251.208/24,no-resolve   
+# > bilibili  
 # > iqiyi
   - IP-CIDR,101.227.0.0/16,no-resolve
   - IP-CIDR,101.224.0.0/13,no-resolve
