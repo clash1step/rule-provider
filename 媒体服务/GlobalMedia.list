@@ -1,32 +1,5 @@
 #2020.07.10 22:00
 payload:
-# music
-# > Deezer
-  - '.deezer.com'
-  - '+.dzcdn.net'
-# > KKBOX
-  - '+.kkbox.com'
-  - '+.kkbox.com.tw'
-  - '+.kfs.io'
-# > JOOX
-  - '+.joox.com'
-# > Pandora
-  - '+.pandora.com'
-# > SoundCloud
-  - '+.p-cdn.us'
-  - '+.sndcdn.com'
-  - '+.soundcloud.com'
-# > Spotify
-  - '+.pscdn.co'
-  - '+.scdn.co'
-  - '+.spotify.com'
-  - '+.spoti.fi'
-  - '+.spotify.com'
-  - '+.spotify-com.com'
-# > TIDAL
-  - '+.tidal.com'
-
-# video
 # > All4
   - '+.c4assets.com'
   - '+.channel4.com'
