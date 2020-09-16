@@ -37,6 +37,22 @@ payload:
 # > letv 
   - '+.letv.com'
   - '+.api.mob.app.letv.com' 
-  
-
- 
+# > manhuagui
+  - '+.anhuagui.com'
+  - '+.manhuagui.com'
+  - '+.amreus.com'
+  - '+.hamreus.com'
+  - '+.xiaomingtaiji.net'  
+# > ohmanhua
+  - '+.ohmanhua.com'
+  - 'res.ohmanhua.com'
+  - 'img.ohmanhua.com'
+  - '+.hmanhua.com'
+  - '+.manhuadao.cn'
+  - '+.mljzmm.com'
+  - '+.mikanshu.com'
+  - '+.iyunys.com'
+  - '+.xiaomingtaiji.net' 
+  - 'd36zfztxfflmqo.cloudfront.net'  
+  - 'cdndx.clouddata8g.xyz'
+  - 'cdn.ohmanhua.com.cdn.cloudflare.net'
