@@ -42,7 +42,10 @@ payload:
 # > skk博客
   - '+.skk.moe'
 # > Jsboxbbs
-  - '+.jsboxbbs.com'  
+  - '+.jsboxbbs.com'
+# > dubox
+  - '+.dubox.com'
+  - '+.duboxcdn.com'  
 # > other
   - '+.lala.im'
   - '+.vmware.com'
