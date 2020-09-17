@@ -39,6 +39,8 @@ payload:
   - '.debian.pool.ntp.org'
 # > 117漫画
   - '+.www.177pic.info'
+# > 动漫花园
+  - '+.dmhy.org'  
 # > skk博客
   - '+.skk.moe'
 # > Jsboxbbs
