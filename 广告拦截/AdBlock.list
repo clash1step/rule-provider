@@ -1,4 +1,4 @@
-#2020.7.30 22:00
+#2020.9.18 12:00
 payload:
   - '+.0.0.0.0.cn'
   - '+.0.r.msn.com'
@@ -10337,7 +10337,6 @@ payload:
   - '+.csgocpu.com'
   - '+.csgtfruit.com'
   - '+.cshwhy.cn'
-  - '+.csi.gstatic.com'
   - '+.csiasvapqrccq.com'
   - '+.csionjbak.com'
   - '+.csjayzqifekaq.com'
@@ -13209,7 +13208,6 @@ payload:
   - '+.easyrecoverychina.com'
   - '+.easyresearch.se'
   - '+.easysol.net'
-  - '+.easytomessage.com'
   - '+.easytracking.de'
   - '+.eat-travel.com.tw'
   - '+.eatayvgov.com'
