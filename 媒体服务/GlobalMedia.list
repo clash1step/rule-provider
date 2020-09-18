@@ -126,4 +126,7 @@ payload:
 # > feiliuTV
   - '+.neulion.com.'
   - '+.icntv.xyz.'
-  - '+.flzbcdn.xyz.' 
+  - '+.flzbcdn.xyz.'
+# > ohmanhua  
+  - 'www.ohmanhua.com'
+  - 'ohmanhua.com'
