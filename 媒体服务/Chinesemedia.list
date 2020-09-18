@@ -44,8 +44,6 @@ payload:
   - '+.hamreus.com'
   - '+.xiaomingtaiji.net'  
 # > ohmanhua
-  - 'res.ohmanhua.com'
-  - 'img.ohmanhua.com'
   - '+.hmanhua.com'
   - '+.manhuadao.cn'
   - '+.mljzmm.com'
