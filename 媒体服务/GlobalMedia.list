@@ -128,7 +128,4 @@ payload:
   - '+.icntv.xyz.'
   - '+.flzbcdn.xyz.'
 # > ohmanhua  
-  - '+.www.ohmanhua.com'
-  - '+.ohmanhua.com'
-  - 'res.ohmanhua.com'
-  - 'img.ohmanhua.com'
+
