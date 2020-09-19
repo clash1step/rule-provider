@@ -48,10 +48,7 @@ payload:
   - '+.jsboxbbs.com'
 # > dubox
   - '+.dubox.com'
-  - '+.duboxcdn.com'
-# > 直通财经
-  - '+.zhitongcaijing.com'
-  - '+.roadshowing.com'   
+  - '+.duboxcdn.com'  
 # > other
   - '+.post76.hk'
   - '+.lala.im'
