@@ -32,5 +32,6 @@ payload:
 # > ikea
   - '+.ikea.cn'
   - '+.ikea.com'  
-  
-  
+# > 智通财经
+  - '+.zhitongcaijing.com'
+  - '+.roadshowing.com'
