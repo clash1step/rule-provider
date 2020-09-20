@@ -50,6 +50,7 @@ payload:
   - '+.dubox.com'
   - '+.duboxcdn.com'  
 # > other
+  - '+.upxin.net'
   - '+.post76.hk'
   - '+.lala.im'
   - '+.vmware.com'
