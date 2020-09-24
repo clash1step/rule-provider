@@ -74,5 +74,6 @@ payload:
   - IP-CIDR,104.87.6.38/24,no-resolve
   - IP-CIDR,223.99.255.22/24,no-resolve  
 # > other
+  - IP-CIDR,39.96.8.246/24,no-resolve
   - IP-CIDR,39.105.164.122/24,no-resolve
   - IP-CIDR,196.55.215.152/24,no-resolve  
