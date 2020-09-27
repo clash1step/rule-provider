@@ -106,5 +106,8 @@ payload:
   - '+.support.gate.io'
   - '+.data.gate.io'
   - '+.jp.gate.io'
-  
+# > justswap
+  - '+.justswap.io'
+  - '+.just.network'
+  - '+.tronscan.io'  
   
