@@ -425,5 +425,7 @@ payload:
   - '+.firefox.com'
   - '+.firefoxchina.cn'
 # > firefoxchina  
-  - '+.hoozh.com'  
+  - '+.hoozh.com'
+  - '+.zdassets.com'
+  - '+.zendesk.com'  
 # > Other
