@@ -423,5 +423,7 @@ payload:
   - '+.yuanlam.xyz' 
 # > firefoxchina  
   - '+.firefox.com'
-  - '+.firefoxchina.cn'  
+  - '+.firefoxchina.cn'
+# > firefoxchina  
+  - '+.hoozh.com'  
 # > Other
