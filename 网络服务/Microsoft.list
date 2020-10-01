@@ -1,6 +1,5 @@
 #2020.08.10 22:00
-payload:
-  - '+.a-msedge.net'
+payload:  
   - '+.aka.ms' 
   - '+.akamaihd.net'  
   - '+.aspnetcdn.com'  
@@ -85,6 +84,8 @@ payload:
   - 'v4ncsi.msedge.net'
   - 'vortex.data.microsoft.com'
 # > edge
+  - '+.a-msedge.net'
+  - '+.e-msedge.net'
   - '+.peer1-hkg.msedge.net'
   - '+.l-ring.msedge.net'
   - '+.fp-as.azureedge.net' 
