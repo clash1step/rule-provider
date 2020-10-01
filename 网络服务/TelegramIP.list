@@ -56,6 +56,7 @@ payload:
   - IP-CIDR,203.104.156.0/24,no-resolve
   - IP-CIDR,203.104.157.0/24,no-resolve
   - IP-CIDR,203.104.158.0/24,no-resolve
+  - IP-CIDR,125.209.222.202/24,no-resolve  
 # > Telegram
   - IP-CIDR,91.108.4.0/22,no-resolve
   - IP-CIDR,91.108.8.0/21,no-resolve
