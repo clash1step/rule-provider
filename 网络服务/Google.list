@@ -46,6 +46,7 @@ payload:
   - '+.myaccount.google.com'
   - '+.about.google'    
   - '+.google.com.hk'
+  - '+.google.com.tw'  
   - '+.l.google.com'  
   - '+.staticadssl.l.google.com'
   - '+.gstaticadssl.l.google.com'
