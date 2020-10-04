@@ -136,6 +136,7 @@ payload:
   - '+.pud.hdker.com'
   - '+.hdker.com'
   # > other
+  - '+.like.co'  
   - '+.easytomessage.com' 
   - '+.1drv.ms'
   - '+.digicert.com'  
