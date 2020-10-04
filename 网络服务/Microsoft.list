@@ -84,8 +84,13 @@ payload:
   - 'v4ncsi.msedge.net'
   - 'vortex.data.microsoft.com'
 # > edge
+  - '+.*-msedge.net'
   - '+.a-msedge.net'
   - '+.e-msedge.net'
+  - '+.*-ring.msedge.net'  
+  - '+.a-ring.msedge.net'
+  - '+.c-ring.msedge.net'
+  - '+.k-ring.msedge.net'  
   - '+.peer1-hkg.msedge.net'
   - '+.l-ring.msedge.net'
   - '+.fp-as.azureedge.net' 
