@@ -169,7 +169,9 @@ payload:
   - '+.cloudfront.net'
   - '+.webtest.net'
   - '+.mozaws.net'
-  - '+.ssl-images-amazon.com' 
+  - '+.*-amazon.com'  
+  - '+.ssl-images-amazon.com'
+  - '+.m.media-amazon.com'  
 # > Akamai
   - '+.akadns.net'
   - '+.akamai.net'
