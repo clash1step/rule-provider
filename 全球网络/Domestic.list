@@ -7,6 +7,10 @@ payload:
   - '+.alicdn.com'  
   - '+.tbcdn.com'
   - '+.tmall.hk'
+# > Amazon
+  - '+.*-cn.amazon.com'  
+  - '+.fls-cn.amazon.com'
+  - '+.unagi-cn.amazon.com'  
 # > Baidu
   - '+.baidubcr.com'
 # > Prior
