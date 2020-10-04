@@ -116,3 +116,5 @@ payload:
   - '+.fatbtc.com'
   - '+.fatotc.com'  
   - '+.fatbtc.pro'  
+# > coinlist
+  - '+.coinlist.co'
