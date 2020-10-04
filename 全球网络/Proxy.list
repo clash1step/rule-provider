@@ -168,7 +168,8 @@ payload:
   - '+.bugsnag.com'
   - '+.cloudfront.net'
   - '+.webtest.net'
-  - '+.mozaws.net'  
+  - '+.mozaws.net'
+  - '+.ssl-images-amazon.com' 
 # > Akamai
   - '+.akadns.net'
   - '+.akamai.net'
