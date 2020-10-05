@@ -50,6 +50,7 @@ payload:
   - '+.dubox.com'
   - '+.duboxcdn.com'  
 # > other
+  - '+.hdupt.com'
   - '+.tmpclashpremiumbindary.cf'
   - '+.xanmod.org'  
   - '+.upxin.net'
