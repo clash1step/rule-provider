@@ -34,7 +34,9 @@ payload:
   - '+.appldnld.apple.com'
   - '+.appldnld.g.aaplimg.com'
   - '+.apps.apple.com'
-  - '+.apps.mzstatic.com'  
+  - '+.apps.mzstatic.com'
+# > icloud  
+  - '+.gateway.icloud.com.cn'  
   
 # > Asset Cache Locator Service
   - '+.lcdn-locator.apple.com'
