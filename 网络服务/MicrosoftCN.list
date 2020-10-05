@@ -40,6 +40,7 @@ payload:
   - '+.res.office365.com'
   - '+.outlook.office365.com'
   - '+.arc.msn.com'
+  - '+..msn.cn'  
   - '+.msftconnecttest.com'
   - '+.cdn.onenote.net'
   - '+.assets.onestore.ms' 
