@@ -10,7 +10,9 @@ payload:
 # > Amazon
   - '+.*-cn.amazon.com'  
   - '+.fls-cn.amazon.com'
-  - '+.unagi-cn.amazon.com'  
+  - '+.unagi-cn.amazon.com'
+# > Autohome
+  - '+.autoimg.cn'  
 # > Baidu
   - '+.baidubcr.com'
 # > Prior
