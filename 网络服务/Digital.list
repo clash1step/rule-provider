@@ -119,3 +119,6 @@ payload:
 # > coinlist
   - '+.coinlist.co'
   - '+.launchdarkly.com' 
+# > coinlist
+  - '+.biki.cc'
+  - '+.udesk.cn'
