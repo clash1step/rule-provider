@@ -135,7 +135,10 @@ payload:
   - '+.pud.life'
   - '+.pud.hdker.com'
   - '+.hdker.com'
-  # > other
+# > softether
+  - '+.softether.org'
+  - '+.softether-download.com'  
+# > other
   - '+.like.co'  
   - '+.easytomessage.com' 
   - '+.1drv.ms'
