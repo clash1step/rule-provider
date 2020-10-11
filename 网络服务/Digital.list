@@ -122,3 +122,6 @@ payload:
 # > biki
   - '+.biki.cc'
   - '+.udesk.cn'
+# > fcoin
+  - '+.fcoin.com'
+  - '+.fcoin.pro'
