@@ -1,7 +1,13 @@
 #2020.9.28 22:00
 payload:
   - '+.265.com'  
-  - '+.2mdn.net'  
+  - '+.2mdn.net'
+  - '+.googleusercontent.com'
+  - '+.google-analytics.com'  
+  - '+.googleadservices.com'  
+  - '+.googleanalytics.com'    
+  - '+.googletagmanager.com'  
+  - '+.googletagservices.com'   
   - '+.adservice.google.com'  
   - '+.app-measurement.com'  
   - '+.beacons.gcp.gvt2.com'  
