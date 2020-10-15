@@ -1,8 +1,6 @@
 #2020.10.4 14:30
 payload:
-  - IP-CIDR,192.168.66.0/24,no-resolve 
-  - IP-CIDR,192.168.70.0/23,no-resolve 
-  - IP-CIDR,192.168.77.0/24,no-resolve 
+# > 保留地址
   - IP-CIDR,10.0.0.0/8,no-resolve
   - IP-CIDR,11.0.0.0/8,no-resolve
   - IP-CIDR,100.64.0.0/10,no-resolve
