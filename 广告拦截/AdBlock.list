@@ -76,6 +76,12 @@ payload:
   - '+.m.chinachooses.com' 
   - '+.mwgol.com'
   - '+.r.randomnew.com'
+  - 'pc.ziyuewentao.com'
+  - 'sp0.baidu.com' 
+  - 'v.heygugu.com'
+  - 'c.ksjsa.com'
+  - 'zz.bdstatic.com'
+  - 'a.exdynsrv.com'  
 #Alibaba
   - '+.optimus-ads.amap.com'
   - '+.optimus-ads.amap.com.w.alikunlun.com'
