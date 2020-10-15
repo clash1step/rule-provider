@@ -1,6 +1,17 @@
 #2020.08.09 22:15
 payload:
 # > 白名单
+
+# > 保留地址
+  - IP-CIDR,10.0.0.0/8,no-resolve
+  - IP-CIDR,11.0.0.0/8,no-resolve
+  - IP-CIDR,100.64.0.0/10,no-resolve
+  - IP-CIDR,127.0.0.0/8,no-resolve
+  - IP-CIDR,169.254.0.0/16,no-resolve
+  - IP-CIDR,172.16.0.0/12,no-resolve
+  - IP-CIDR,192.168.0.0/16,no-resolve
+  - IP-CIDR,224.0.0.0/4,no-resolve
+  - IP-CIDR,240.0.0.0/4,no-resolve
 # > other
   - IP-CIDR,185.188.32.0/24,no-resolve
   - IP-CIDR,185.188.33.0/24,no-resolve
