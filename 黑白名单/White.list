@@ -2,6 +2,8 @@
 payload:
 # > 白名单
 
+# > ohmanhua
+  - '+.cdndx.clouddata8g.xyz' 
 # > 店长之家
   - '+.dsw6.com'
   - '+.kaidian.tv'
