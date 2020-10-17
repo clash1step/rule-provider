@@ -84,8 +84,7 @@ payload:
   - '+.sp0.baidu.com' 
   - '+.v.heygugu.com'
   - '+.c.ksjsa.com'
-  - '+.zz.bdstatic.com'
-  - '+.exdynsrv.com'  
+  - '+.zz.bdstatic.com'  
   - '+.d10lumateci472.cloudfront.net'
   - '+.d227cncaprzd7y.cloudfront.net'  
 #Alibaba
