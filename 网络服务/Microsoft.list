@@ -1,7 +1,8 @@
 #2020.08.10 22:00
 payload:  
   - '+.aka.ms' 
-  - '+.akamaihd.net'  
+  - '+.akamaihd.net'
+  - '+.nsatc.net'  
   - '+.aspnetcdn.com'  
   - '+.azure.com'
   - '+.bing.com'  
