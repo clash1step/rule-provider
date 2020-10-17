@@ -2,8 +2,6 @@
 payload:
 # > 黑名单
 
-# > ohmanhua
-  - IP-CIDR,117.28.243.211/24,no-resolve
 # > pron
   - IP-CIDR,202.247.187.211/16,no-resolve
   - IP-CIDR,172.247.187.211/16,no-resolve
