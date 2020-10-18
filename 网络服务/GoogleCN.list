@@ -9,7 +9,6 @@ payload:
   - '+.googletagservices.com'    
   - '+.app-measurement.com'
   - '+.redirector.gvt1.com'
-  - '+.adservice.google.com'
   - '+.fonts.googleapis.com'  
   - '+.r3---sn-ni57rn7r.gvt1.com'  
   - '+.beacons.gcp.gvt2.com'  
