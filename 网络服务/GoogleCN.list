@@ -51,6 +51,5 @@ payload:
   - '+.toolbarqueries.google.com'  
   - '+.tools.google.com'  
   - '+.tools.l.google.com'  
-  - '+.translate.googleapis.com'
-  - '+.update.googleapis.com'  
+  - '+.translate.googleapis.com' 
   - '+.www-googletagmanager.l.google.com'
