@@ -35,7 +35,8 @@ payload:
   - '+.bbc.com'
   - '+.bbc.co.uk'
   - '+.bbci.co.uk' 
-  - '+.bbcfmt.hs.llnwd.net'  
+  - '+.bbcfmt.hs.llnwd.net'
+  - '+.cloudfunctions.net'  
 # > Developer
   - '+.apache.org'
   - '+.docker.com'
