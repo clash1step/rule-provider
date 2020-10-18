@@ -32,7 +32,8 @@ payload:
   - 'd1v5ir2lpwr8os.cloudfront.net'
 # > BBCiPlayer
   - '+.GlobalTV.'
-  - '+.uk-live.'  
+  - '+.uk-live.'
+  - '+.bbcfmt.s.llnwi.net' 
   - 'aod-dash-uk-live.akamaized.net'
   - 'aod-hls-uk-live.akamaized.net'
   - 'vod-dash-uk-live.akamaized.net'
