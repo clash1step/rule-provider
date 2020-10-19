@@ -59,7 +59,6 @@ payload:
   - 'reserve-prime.apple.com'
   - '+.ess.apple.com'
   - '+.push-apple.com.akadns.net'
-  - '+.push.apple.com'
   
 # > Update
   - 'appldnld.apple.com'
