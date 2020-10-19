@@ -24,7 +24,6 @@ payload:
   - '+.smartscreen-prod.microsoft.com' 
   - '+.smartscreen.microsoft.com'
   - '+.self.events.data.microsoft.com' 
-  - '+.settings-win.data.microsoft.com'
   - '+.v10.events.data.microsoft.com' 
   - '+.v20.events.data.microsoft.com'
   - '+.s-microsoft.com'
