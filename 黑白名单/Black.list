@@ -49,6 +49,8 @@ payload:
 # > dubox
   - '+.dubox.com'
   - '+.duboxcdn.com'  
+# > uu看书 
+  - '+.uukanshu.com'
 # > other
   - '+.hdupt.com'
   - '+.tmpclashpremiumbindary.cf'
