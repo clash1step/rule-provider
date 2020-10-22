@@ -7,7 +7,6 @@ payload:
   - '+.googletagmanager.com'  
   - '+.googletagservices.com'    
   - '+.app-measurement.com'
-  - '+.redirector.gvt1.com'
   - '+.fonts.googleapis.com'  
   - '+.r3---sn-ni57rn7r.gvt1.com'  
   - '+.beacons.gcp.gvt2.com'  
