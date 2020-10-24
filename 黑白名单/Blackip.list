@@ -9,6 +9,8 @@ payload:
   - IP-CIDR,198.255.82.91/16,no-resolve
   - IP-CIDR,23.225.233.3/16,no-resolve
   - IP-CIDR,202.171.253.69/16,no-resolve
+# > 漫画 
+  - IP-CIDR,8.210.170.1/24,no-resolve   
 # > other
   - IP-CIDR,121.51.175.0/24,no-resolve  
   - IP-CIDR,121.51.68.0/24,no-resolve  
