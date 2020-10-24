@@ -51,6 +51,9 @@ payload:
   - '+.duboxcdn.com'  
 # > uu看书 
   - '+.uukanshu.com'
+# > ohmanhua
+  - '+.cdndx.clouddata8g.xyz'  
+  - '+.cocomanhua.com.cdn.cloudflare.net'  
 # > other
   - '+.hdupt.com'
   - '+.tmpclashpremiumbindary.cf'
