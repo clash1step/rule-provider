@@ -136,11 +136,6 @@ payload:
   - '+.ap.dongqiudi.com'
 #京东
   - '+.dns.jd.com'
-#Google
-  - '+.doubleclick.net'
-  - '+.googleadservices.com'
-  - '+.googleadsserving.cn'
-  - '+.googlesyndication.com'
 #HunanTV
   - '+.da.hunantv.com'
   - '+.da.mgtv.com'
