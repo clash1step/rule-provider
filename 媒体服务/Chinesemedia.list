@@ -54,7 +54,5 @@ payload:
   - '+.mikanshu.com'
   - '+.iyunys.com'
   - '+.xiaomingtaiji.net'
-  - '+.ackcdn.net'
-# > manhua
-  - '+.cdndx.clouddata8g.xyz'  
-  - '+.cocomanhua.com.cdn.cloudflare.net'  
+  - '+.xiaomingtaiji.com'  
+  - '+.ackcdn.net'  
