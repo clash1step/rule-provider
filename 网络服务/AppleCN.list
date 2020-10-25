@@ -97,6 +97,10 @@ payload:
   - 'fmfmobile.icloud.com'
   - 'fmipmobile.icloud.com'  
   - 'statici.icloud.com'
+  
+# > TestFlight
+  - 'beta.apple.com'
+  - 'testflight.apple.com'  
 
 # > other  
   - '+.a1.mzstatic.com'
