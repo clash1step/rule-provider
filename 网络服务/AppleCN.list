@@ -83,6 +83,10 @@ payload:
   - 'updates-http.cdn-apple.com'
   - 'updates.cdn-apple.com'
 
+# > iCloud email
+  - '+.mail.icloud.com.cn'
+  - '+.mail.me.com'
+
 # > Siri
   - 'guzzoni.apple.com'
   
