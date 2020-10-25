@@ -92,6 +92,11 @@ payload:
   
 # > Weather
   - 'weather-analytics-events.apple.com' 
+  
+# > Find My
+  - 'fmfmobile.icloud.com'
+  - 'fmipmobile.icloud.com'  
+  - 'statici.icloud.com'
 
 # > other  
   - '+.a1.mzstatic.com'
