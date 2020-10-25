@@ -82,7 +82,9 @@ payload:
   - 'updates-http.cdn-apple.com.akadns.net'  
   - 'updates-http.cdn-apple.com'
   - 'updates.cdn-apple.com'
- 
+
+# > Siri
+  - 'guzzoni.apple.com'
   
 # > Weather
   - 'weather-analytics-events.apple.com' 
