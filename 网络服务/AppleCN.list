@@ -8,7 +8,7 @@ payload:
   - '+.cds.apple.com'  
 # > Apple Map
   - 'gs-loc-cn.apple.com'
-  
+
 # > Apple Music Streaming
   - 'aod.itunes.apple.com'
   - 'api.smoot.apple.cn'
@@ -39,6 +39,7 @@ payload:
   
 # > Asset Cache Locator Service
   - '+.lcdn-locator.apple.com'
+  - '+.ls.apple.com'  
   
 # > Apple其他直连
   - 'captive.apple.com'
