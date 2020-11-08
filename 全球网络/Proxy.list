@@ -107,7 +107,8 @@ payload:
 # > dlercloud
   - '+.qiangdong.xyz'
   - '+.dlercloud.com'
-  - '+.cloudflare.com'  
+  - '+.cloudflare.com'
+  - '+.dler.cloud'  
   - '+.dler.io'
   - '+.gravatar.com'
   - '+.crisp.chat'  
