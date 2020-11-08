@@ -44,6 +44,7 @@ payload:
   - '+.hamreus.com'
   - '+.xiaomingtaiji.net'  
 # > ohmanhua
+  - '+.ohmanhua.com'
   - '+.cocomanhua.com'  
   - '+.hmanhua.com'
   - '+.manhuadao.cn'
@@ -52,8 +53,5 @@ payload:
   - '+.iyunys.com'
   - '+.xiaomingtaiji.net'
   - '+.xiaomingtaiji.com'  
-  - '+.ackcdn.net' 
-  - '+.ohmanhua.com'
-  - '+.cdndx.clouddata8g.xyz'
-  - '+.cocomanhua.com.cdn.cloudflare.net'   
+  - '+.ackcdn.net'   
   
