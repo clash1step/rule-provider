@@ -48,3 +48,4 @@ payload:
   - '+.tools.l.google.com'  
   - '+.translate.googleapis.com' 
   - '+.www-googletagmanager.l.google.com'
+  - '+.gstatic.com'
