@@ -83,7 +83,8 @@ payload:
   - '+.sp0.baidu.com' 
   - '+.v.heygugu.com'
   - '+.c.ksjsa.com'
-  - '+.zz.bdstatic.com'   
+  - '+.zz.bdstatic.com'
+  - '+.d*.cloudfront.net'  
 #Alibaba
   - '+.optimus-ads.amap.com'
   - '+.optimus-ads.amap.com.w.alikunlun.com'
