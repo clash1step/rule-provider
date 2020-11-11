@@ -84,7 +84,8 @@ payload:
   - '+.v.heygugu.com'
   - '+.c.ksjsa.com'
   - '+.zz.bdstatic.com'
-  - 'd************.cloudfront.net'  
+  - 'd************.cloudfront.net'
+  - 's3.amazonaws.com'  
 #Alibaba
   - '+.optimus-ads.amap.com'
   - '+.optimus-ads.amap.com.w.alikunlun.com'
