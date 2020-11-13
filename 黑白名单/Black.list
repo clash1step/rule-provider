@@ -2,6 +2,9 @@
 payload:
 # > 黑名单
 
+
+# > 4K家园
+  - '+.4kjia.com'
 # > voxel-firmware
   - '+.www.voxel-firmware.com'
 # > 1024
