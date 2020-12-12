@@ -9,6 +9,7 @@ payload:
   - DOMAIN-KEYWORD,adsensor
   - DOMAIN-KEYWORD,adserver
   - DOMAIN-KEYWORD,adsrvmedia
+  - DOMAIN-KEYWORD,adsystem
   - DOMAIN-KEYWORD,adsmogo
   - DOMAIN-KEYWORD,adsserving
   - DOMAIN-KEYWORD,advert
