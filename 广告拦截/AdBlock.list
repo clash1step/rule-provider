@@ -85,7 +85,8 @@ payload:
   - '+.c.ksjsa.com'
   - '+.zz.bdstatic.com'
   - 'd************.cloudfront.net'
-  - 's3.amazonaws.com'  
+  - 's3.amazonaws.com'
+  - 's3t3d2y7.ackcdn.net'  
 #Alibaba
   - '+.optimus-ads.amap.com'
   - '+.optimus-ads.amap.com.w.alikunlun.com'
