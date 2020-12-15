@@ -28,6 +28,8 @@ payload:
   - '+.xvideos-cdn.com'
   - '+.dmm.co'  
   - '+.dmm.co.jp'
+  - '+.ppp.contentdef.com'  
+  - 'static-ppp.portalcdn.com'
 # > Cydia
   - '+.thebigboss.org'
   - 'apt.modmyi.com'
