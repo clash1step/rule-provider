@@ -94,7 +94,8 @@ payload:
 # > Tencent
   - '+.gtimg.com' 
 # > emby 
-  - '+.emby.wtf'   
+  - '+.emby.wtf'
+  - '+.mb3admin.com'  
 # > Spark
   - '+.api.amplitude.com'
   - '+.app.smartmailcloud.com'
