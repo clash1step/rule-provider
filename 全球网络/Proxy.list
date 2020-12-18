@@ -92,7 +92,9 @@ payload:
   - '+.instagram.com'
   - '+.cdninstagram.com'  
 # > Tencent
-  - '+.gtimg.com'  
+  - '+.gtimg.com' 
+# > emby 
+  - '+.emby.wtf'   
 # > Spark
   - '+.api.amplitude.com'
   - '+.app.smartmailcloud.com'
