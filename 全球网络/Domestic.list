@@ -134,9 +134,7 @@ payload:
   - '+.mytokenapi.com'
   - '+.ytokenapi.com'
   - '+.mytoken.org'
-  - '+.ytoken.org'   
-# > Plex Media Server
-  - '+.plex.tv'
+  - '+.ytoken.org'
 # > TeamViewer
   - '+.teamviewer.com' 
 # > Private Tracker
