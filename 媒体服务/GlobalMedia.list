@@ -105,6 +105,9 @@ payload:
   - 'd349g9zuie06uo.cloudfront.net'
 # > PBS
   - '.pbs.org'
+# > Plex Server
+  - '+.plex.tv'
+  - '+.plex.direct'
 # > ViuTV
   - '+.firebaseio.com'
   - '+.nowe.com'
