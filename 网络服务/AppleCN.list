@@ -34,6 +34,7 @@ payload:
   - '+.appldnld.g.aaplimg.com'
   - '+.apps.apple.com'
   - '+.apps.mzstatic.com'
+  - '+.ioshost.qtlcdn.com'  
 # > icloud  
   - '+.gateway.icloud.com.cn'  
   
