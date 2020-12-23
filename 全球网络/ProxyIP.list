@@ -69,7 +69,8 @@ payload:
   - IP-CIDR,13.68.93.0/24,no-resolve
   - IP-CIDR,220.181.26.0/24,no-resolve
   - IP-CIDR,52.109.120.73/24,no-resolve
-  - IP-CIDR,20.190.140.163/24,no-resolve 
+  - IP-CIDR,20.190.140.163/24,no-resolve
+  - IP-CIDR,20.189.124.0/24,no-resolve
 # > autohome
   - IP-CIDR,104.87.6.38/24,no-resolve
   - IP-CIDR,223.99.255.22/24,no-resolve
