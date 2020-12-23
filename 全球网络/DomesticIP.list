@@ -18,3 +18,4 @@ payload:
 # > manhuagui
   - IP-CIDR,185.23.201.48/24,no-resolve  
 # > Other
+  - IP-CIDR,8.210.191.0/28,no-resolve
