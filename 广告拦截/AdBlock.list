@@ -101,11 +101,7 @@ payload:
   - '+.hubzozo.com'
   - '+.v3.fstats.xyz'
   - '+.unreshiramor.com'
-  - '+.itnuzleafan.com'  
-  - '+.ff-01.com'
-  - '+.ff-02.com'
-  - '+.ff-03.com'
-  - '+.ff-**.com'  
+  - '+.itnuzleafan.com'    
 #Alibaba
   - '+.optimus-ads.amap.com'
   - '+.optimus-ads.amap.com.w.alikunlun.com'
