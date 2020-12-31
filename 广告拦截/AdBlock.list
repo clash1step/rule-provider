@@ -86,7 +86,13 @@ payload:
   - '+.zz.bdstatic.com'
   - 'd************.cloudfront.net'
   - 's3.amazonaws.com'
-  - 's3t3d2y7.ackcdn.net'  
+  - 's3t3d2y7.ackcdn.net'
+#netflav
+  - '+.pornimg.xyz' 
+  - '+.asianclub.tv'
+  - '+.ddmax20.xyz'
+  - '+.thumb.fvs.io'
+  - '+.awaitcola.com'  
 #Alibaba
   - '+.optimus-ads.amap.com'
   - '+.optimus-ads.amap.com.w.alikunlun.com'
