@@ -31,7 +31,8 @@ payload:
   - '+.ppp.contentdef.com'  
   - 'static-ppp.portalcdn.com'
 # > netflav  
-  - '+.netflav.com'  
+  - '+.netflav.com' 
+  - '+.pornimg.xyz'  
 # > Cydia
   - '+.thebigboss.org'
   - 'apt.modmyi.com'
