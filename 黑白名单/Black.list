@@ -30,6 +30,8 @@ payload:
   - '+.dmm.co.jp'
   - '+.ppp.contentdef.com'  
   - 'static-ppp.portalcdn.com'
+# > netflav  
+  - '+.netflav.com'  
 # > Cydia
   - '+.thebigboss.org'
   - 'apt.modmyi.com'
