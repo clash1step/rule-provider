@@ -16,9 +16,7 @@ payload:
   - '+.mytv.'
   - '+.nowtv100.'
   - '+.rthklive.'
-  - '+.mytvsuper.com'
-  - '+.tvb.com'
-  - '+.gov.hk'  
+  - '+.mytvsuper.com'  
 # > twhao
   - '+.skyking.com.tw'
   - 'hamifans.emome.net'
@@ -28,6 +26,8 @@ payload:
   - '+.ttvnw.net'
   - '+.jtvnw.net'  
 # > encoreTVB
+  - '+.tvb.com'
+  - '+.gov.hk'
   - '+.encoretvb.com'
   - '+.content.jwplatform.com'
   - '+.videos-f.jwpsrv.com'
@@ -35,3 +35,5 @@ payload:
   - 'content.jwplatform.com'
   - 'edge.api.brightcove.com'
   - 'videos-f.jwpsrv.com'  
+  - 'uapisfm.tvbanywhere.com.sg'
+  - 'tvb-inews.servicebus.windows.net'
