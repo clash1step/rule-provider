@@ -18,6 +18,7 @@ payload:
   - '+.rthklive.'
   - '+.mytvsuper.com'
   - '+.tvb.com'
+  - '+.gov.hk'  
 # > twhao
   - '+.skyking.com.tw'
   - 'hamifans.emome.net'
