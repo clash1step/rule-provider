@@ -70,7 +70,8 @@ payload:
   - '+.uukanshu.com'
 # > friendlyduck 
   - '+.friendlyduck.com'
-  - '+.usenet.nl'  
+  - '+.usenet.nl'
+  - '+.bsmartdata.com'  
 # > other
   - '+.hdupt.com'
   - '+.tmpclashpremiumbindary.cf'
