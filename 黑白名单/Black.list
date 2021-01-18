@@ -67,7 +67,10 @@ payload:
   - '+.dubox.com'
   - '+.duboxcdn.com'  
 # > uu看书 
-  - '+.uukanshu.com'  
+  - '+.uukanshu.com'
+# > friendlyduck 
+  - '+.friendlyduck.com'
+  - '+.usenet.nl'  
 # > other
   - '+.hdupt.com'
   - '+.tmpclashpremiumbindary.cf'
