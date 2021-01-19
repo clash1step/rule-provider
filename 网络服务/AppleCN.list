@@ -37,7 +37,7 @@ payload:
   - '+.ioshost.qtlcdn.com'  
 # > icloud  
   - '+.gateway.icloud.com.cn' 
-  - '+.icloud.com.cn  
+  - '+.icloud.com.cn'  
   
 # > Asset Cache Locator Service
   - '+.lcdn-locator.apple.com'
