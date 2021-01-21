@@ -1,6 +1,9 @@
 #2020.08.10 22:00
 payload:
 # > Microsoft
+  - IP-CIDR,13.73.26.107/32,no-resolve
+  - IP-CIDR,23.99.115.189/32,no-resolve
+  - IP-CIDR,52.139.153.205/32,no-resolve
   - IP-CIDR,40.114.54.0/24,no-resolve
   - IP-CIDR,40.126.12.199/24,no-resolve  
   - IP-CIDR,13.68.93.0/24,no-resolve
