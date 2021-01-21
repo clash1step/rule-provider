@@ -2,9 +2,6 @@
 payload:
 # > keyword
 
-# > porn
-  - DOMAIN-KEYWORD,pornhub
-  - DOMAIN-KEYWORD,91porn
 # > BBC
   - DOMAIN-KEYWORD,uk-live
 # > github
