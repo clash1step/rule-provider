@@ -2,14 +2,10 @@
 payload:
 # > 黑名单
 
-
 # > 4K家园
   - '+.4kjia.com'
 # > voxel-firmware
-  - '+.www.voxel-firmware.com'
-# > 1024
-  - '+.fwymdscj.pw'
-  - '+.99e5be8a.club'
+  - '+.www.voxel-firmware.com'   
 # > 佐仔
   - '+.everun.top'  
 # > Cydia
@@ -23,12 +19,7 @@ payload:
   - '+.u2.dmly.org'
   - '+.buydomains.com'
 # > debian
-  - '.debian.pool.ntp.org'
-# > 117漫画
-  - '+.www.177pic.info'
-  - '+.177pic.info'
-# > 动漫花园
-  - '+.dmhy.org'  
+  - '.debian.pool.ntp.org' 
 # > skk博客
   - '+.skk.moe'
 # > Jsboxbbs
