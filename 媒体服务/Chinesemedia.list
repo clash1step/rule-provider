@@ -52,4 +52,6 @@ payload:
   - '+.xiaomingtaiji.net'
   - '+.xiaomingtaiji.com'  
   - '+.ackcdn.net'   
+# > plex direct server
+  - '+.plex.direct'
   
