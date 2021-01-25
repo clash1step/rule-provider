@@ -126,3 +126,5 @@ payload:
 # > fcoin
   - '+.fcoin.com'
   - '+.fcoin.pro'
+# > loopring
+  - '+.loopring.io'
