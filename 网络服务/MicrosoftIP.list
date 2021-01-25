@@ -1,12 +1,26 @@
 #2020.08.10 22:00
 payload:
 # > Microsoft
-  - IP-CIDR,13.73.26.107/32,no-resolve
-  - IP-CIDR,23.99.115.189/32,no-resolve
-  - IP-CIDR,52.139.153.205/32,no-resolve
-  - IP-CIDR,40.114.54.0/24,no-resolve
-  - IP-CIDR,40.126.12.199/24,no-resolve  
+  - IP-CIDR,13.67.34.108/32,no-resolve
   - IP-CIDR,13.68.93.0/24,no-resolve
-  - IP-CIDR,220.181.26.0/24,no-resolve
-  - IP-CIDR,52.109.120.73/24,no-resolve
+  - IP-CIDR,13.73.26.107/32,no-resolve
   - IP-CIDR,20.190.140.163/24,no-resolve
+  - IP-CIDR,23.2.133.147/32,no-resolve
+  - IP-CIDR,23.2.135.51/32,no-resolve
+  - IP-CIDR,23.99.115.189/32,no-resolve
+  - IP-CIDR,40.64.66.113/32,no-resolve
+  - IP-CIDR,40.91.73.169/32,no-resolve
+  - IP-CIDR,40.114.54.0/24,no-resolve
+  - IP-CIDR,40.119.249.228/32,no-resolve
+  - IP-CIDR,40.126.12.199/24,no-resolve 
+  - IP-CIDR,52.109.120.73/24,no-resolve
+  - IP-CIDR,52.114.32.8/32,no-resolve
+  - IP-CIDR,52.114.32.24/32,no-resolve
+  - IP-CIDR,52.114.159.32/32,no-resolve
+  - IP-CIDR,52.139.153.205/32,no-resolve
+  - IP-CIDR,52.139.168.125/32,no-resolve
+  - IP-CIDR,52.184.81.210/32,no-resolve
+  - IP-CIDR,52.242.97.97/32,no-resolve
+  - IP-CIDR,104.78.20.238/32,no-resolve
+  - IP-CIDR,137.116.139.120/32,no-resolve
+  - IP-CIDR,220.181.26.0/24,no-resolve
