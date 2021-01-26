@@ -1,8 +1,8 @@
 #2020.8.25 02:30
 payload:
 # > Dler.cloud
-  - IP-CIDR,104.21.95.225,no-resolve
-  - IP-CIDR,172.67.171.127,no-resolve
+  - IP-CIDR,104.21.95.225/32,no-resolve
+  - IP-CIDR,172.67.171.127/32,no-resolve
 # > Facebook
   - IP-CIDR,74.125.0.0/16,no-resolve
   - IP-CIDR,74.119.76.0/22,no-resolve
