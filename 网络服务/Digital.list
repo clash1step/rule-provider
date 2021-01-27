@@ -128,3 +128,6 @@ payload:
   - '+.fcoin.pro'
 # > loopring
   - '+.loopring.io'
+# > gateio
+  - '+.gateio.live'
+  - '+.gateio.pro'
