@@ -32,7 +32,9 @@ payload:
 # > friendlyduck 
   - '+.friendlyduck.com'
   - '+.usenet.nl'
-  - '+.bsmartdata.com'  
+  - '+.bsmartdata.com'
+# > firefox 
+  - 'detectportal.firefox.com'  
 # > other
   - '+.hdupt.com'
   - '+.tmpclashpremiumbindary.cf'
