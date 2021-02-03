@@ -86,7 +86,8 @@ payload:
   - 'up.freedownloadmanager.org'
   - 'v4ncsi.msedge.net'
   - 'vortex.data.microsoft.com'
-  - 'oneclient.sfx.ms'  
+  - 'oneclient.sfx.ms'
+  - 'min-api.cryptocompare.com'
 # > edge
   - '+.*-msedge.net'
   - '+.a-msedge.net'
