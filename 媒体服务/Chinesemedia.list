@@ -54,4 +54,5 @@ payload:
   - '+.ackcdn.net'   
 # > plex direct server
   - '+.plex.direct'
+  - '+.plex.tv'
   
