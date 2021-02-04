@@ -33,6 +33,7 @@ payload:
   - '+.maps.windows.com'
   - '+.core.windows.net'
   - '+.cdn.office.net'
+  - 'assets.msn.com'  
   - '+.messaging.office.com'
   - '+.content.office.net'
   - '+.ecs.office.com'
