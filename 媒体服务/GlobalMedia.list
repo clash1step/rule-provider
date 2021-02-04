@@ -98,7 +98,7 @@ payload:
 # > PBS
   - '.pbs.org'
 # > Plex Server
-  - '+.plex.tv'
+#  - '+.plex.tv'
 # > ViuTV
   - '+.firebaseio.com'
   - '+.nowe.com'
