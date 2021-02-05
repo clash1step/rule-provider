@@ -99,6 +99,9 @@ payload:
   - '.pbs.org'
 # > Plex Server
   - '+.plex.tv'
+  - 'image.tmdb.org'
+  - 'manifest.prod.boltdns.net' 
+  - ' bcbolt446c5271-a.akamaihd.net'   
 # > ViuTV
   - '+.firebaseio.com'
   - '+.nowe.com'
