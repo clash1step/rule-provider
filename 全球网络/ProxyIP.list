@@ -59,9 +59,10 @@ payload:
 # > emby
   - IP-CIDR,185.232.70.0/24,no-resolve  
 # > other
-  - IP-CIDR,39.96.8.246/24,no-resolve
-  - IP-CIDR,39.105.164.122/24,no-resolve
-  - IP-CIDR,196.55.215.152/24,no-resolve 
-  - IP-CIDR,59.82.41.76/24,no-resolve
-  - IP-CIDR,17.57.145.7/24,no-resolve 
-  - IP-CIDR,111.251.183.138/24,no-resolve 
+  - IP-CIDR,39.96.8.0/24,no-resolve
+  - IP-CIDR,39.105.164.0/24,no-resolve
+  - IP-CIDR,196.55.215.0/24,no-resolve 
+  - IP-CIDR,59.82.41.0/24,no-resolve
+  - IP-CIDR,17.57.145.0/24,no-resolve 
+  - IP-CIDR,111.251.183.0/24,no-resolve 
+  - IP-CIDR,5.28.194.0/24,no-resolve 
