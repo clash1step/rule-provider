@@ -17,6 +17,8 @@ payload:
   - '+.line-apps.com'
   - '+.line-cdn.net'
   - '+.line-scdn.net'
+  - '+.lcs.naver.jp'
+  - '+.stf-dev.line-apps-beta.com'  
 # > Pinterest
   - '+.Pinterest*.'
   - '+.pinimg.com'
