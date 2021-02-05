@@ -26,9 +26,7 @@ payload:
   - '+.jsboxbbs.com'
 # > dubox
   - '+.dubox.com'
-  - '+.duboxcdn.com'  
-# > uu看书 
-  - '+.uukanshu.com'
+  - '+.duboxcdn.com'
 # > friendlyduck 
   - '+.friendlyduck.com'
   - '+.usenet.nl'
