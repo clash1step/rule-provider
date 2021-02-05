@@ -13,3 +13,6 @@ payload:
   - 'youtubei.googleapis.com'  
   - 'api.mousegesturesapi.com'
   - 's2.googleusercontent.com'
+# > app
+  - '+.vancedapp.com'
+  - '+.distributions.crowdin.net'  
