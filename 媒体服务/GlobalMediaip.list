@@ -24,4 +24,15 @@ payload:
   - IP-CIDR,23.225.233.3/16,no-resolve
   - IP-CIDR,202.171.253.69/16,no-resolve
 # > 漫画 
-  - IP-CIDR,8.210.170.1/24,no-resolve 
+  - IP-CIDR,8.210.170.1/24,no-resolve
+# > PLEX
+  - IP-CIDR,172.104.152.0/24,no-resolve
+  - IP-CIDR,172.104.173.0/24,no-resolve
+  - IP-CIDR,172.105.99.0/24,no-resolve 
+  - IP-CIDR,172.104.216.0/24,no-resolve
+  - IP-CIDR,45.33.125.0/24,no-resolve 
+  - IP-CIDR,178.79.179.0/24,no-resolve 
+  - IP-CIDR,82.94.168.0/24,no-resolve 
+  - IP-CIDR,50.116.44.0/24,no-resolve  
+  - IP-CIDR,139.162.75.0/24,no-resolve  
+  - IP-CIDR,184.105.148.0/24,no-resolve    
