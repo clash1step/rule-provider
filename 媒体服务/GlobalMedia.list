@@ -167,3 +167,8 @@ payload:
   - '+.177pic.info'  
 # > 动漫花园
   - '+.dmhy.org'
+#  > TED
+  - 'www.ted.com'
+  - '+.ted.com'
+  - '+.tedcdn.com'
+  - '+.geo-assets.tedcdn.com'
