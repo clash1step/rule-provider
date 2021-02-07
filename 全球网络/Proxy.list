@@ -17,7 +17,9 @@ payload:
   - '+.mozaws.net'
   - '+.*-amazon.com'  
   - '+.ssl-images-amazon.com'
-  - '+.m.media-amazon.com'  
+  - '+.m.media-amazon.com' 
+  - 'mainnet.infura.io'
+  - 'api.metaswap.codefi.network'  
 # > Akamai
   - '+.akadns.net'
   - '+.akamai.net'
