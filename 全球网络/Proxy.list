@@ -1083,8 +1083,9 @@ payload:
   - '+.jwpcdn.com'
   - '+.jwplayer.com'
   - '+.rtings.com'
-  - '+.ss2.us'  
+  - '+.ss2.us' 
+  - '+.identrust.com'   
   - 'api.steampowered.com'
   - 'cn.nytimes.com'
   - 'store.steampowered.com'
-  
+
