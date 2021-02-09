@@ -215,8 +215,10 @@ payload:
   - 'detectportal.firefox.com' 
 # > uu看书 
   - '+.uukanshu.com'  
-# > other
-  - '+.hdupt.com'
+# > p2p
+  - '+.18p2p.com'   
+# > other  
+- '+.hdupt.com'
   - '+.tmpclashpremiumbindary.cf'
   - '+.xanmod.org'  
   - '+.upxin.net'
