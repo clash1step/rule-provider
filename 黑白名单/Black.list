@@ -212,7 +212,9 @@ payload:
   - '+.cdn.nextsale.io'
   - '+.api.nextsale.io'  
 # > firefox 
-  - 'detectportal.firefox.com'  
+  - 'detectportal.firefox.com' 
+# > uu看书 
+  - '+.uukanshu.com'  
 # > other
   - '+.hdupt.com'
   - '+.tmpclashpremiumbindary.cf'
