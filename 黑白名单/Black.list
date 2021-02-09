@@ -218,7 +218,7 @@ payload:
 # > p2p
   - '+.18p2p.com'   
 # > other  
-- '+.hdupt.com'
+  - '+.hdupt.com'
   - '+.tmpclashpremiumbindary.cf'
   - '+.xanmod.org'  
   - '+.upxin.net'
