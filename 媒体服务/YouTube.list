@@ -1,18 +1,23 @@
-#2020.07.10 22:00
+### 2021-02-22 00:10
+### >>> 油管
+ 
 payload:
-# > Youtube
-  - '+.youtu.be'
-  - '+.youtube.com'  
-  - '+.youtube-nocookie.com'
-  - '+.googlevideo.com'
-  - '+.gvt2.com' 
-  - '+.arubanetworks.com'   
-  - '+.ytimg.com'
-  - '+.ggpht.com'
-  - 'youtube-ui.l.google.com'  
-  - 'youtubei.googleapis.com'  
-  - 'api.mousegesturesapi.com'
-  - 's2.googleusercontent.com'
-# > app
-  - '+.vancedapp.com'
-  - '+.distributions.crowdin.net'  
+## >> Youtube
+  - DOMAIN,api.mousegesturesapi.com
+  - DOMAIN,s2.googleusercontent.com
+  - DOMAIN,youtube-ui.l.google.com  
+  - DOMAIN,youtubei.googleapis.com  
+  - DOMAIN,yt3.ggpht.com
+  - DOMAIN-KEYWORD,youtube
+  - DOMAIN-SUFFIX,arubanetworks.com   
+  - DOMAIN-SUFFIX,ggpht.com
+  - DOMAIN-SUFFIX,googlevideo.com
+  - DOMAIN-SUFFIX,gvt2.com
+  - DOMAIN-SUFFIX,gvt2.com 
+  - DOMAIN-SUFFIX,youtu.be
+  - DOMAIN-SUFFIX,youtube-nocookie.com
+  - DOMAIN-SUFFIX,youtube.com  
+  - DOMAIN-SUFFIX,ytimg.com
+## >> app
+  - DOMAIN-SUFFIX,vancedapp.com
+  - DOMAIN-SUFFIX,distributions.crowdin.net  
