@@ -30,6 +30,8 @@ payload:
   - DOMAIN-SUFFIX,bsmartdata.com
   - DOMAIN-SUFFIX,friendlyduck.com
   - DOMAIN-SUFFIX,usenet.nl
+## >> grafana
+  - DOMAIN-SUFFIX,grafana.com
 ## >> github
   - DOMAIN-KEYWORD,github
 ## >> Jsboxbbs
