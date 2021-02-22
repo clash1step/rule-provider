@@ -2,6 +2,8 @@
 ### >>> 白名单
 
 payload:
+## >> J
+  - DOMAIN-SUFFIX,hxdzpos.com
 ## >> chinadsl
   - DOMAIN-SUFFIX,chinadsl.net
   - DOMAIN-SUFFIX,369110.xyz
