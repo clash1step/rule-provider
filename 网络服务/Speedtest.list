@@ -1,14 +1,16 @@
-#2020.07.10 22:00
+### 2021-02-20 00:50
+### >>> 各类测速网站
+
 payload:
 # > speedtest
-  - '+.ooklaserver.net'
-  - '+.speedtest.net'
-  - '+.netspeedtestmaster.com'
-  - '+.speedtestcustom.com' 
-  - '+.fdcservers.net'
-  - '+.hgc.com'
-  - '+.hgconair.hgc.com.hk'
-  - '+.speed.chinaunicomglobal.com'  
-  - 'speed.cloudflare.com'
-  - 'api.mapbox.com'
-  - 'events.mapbox.com'
+  - DOMAIN,api.mapbox.com
+  - DOMAIN,events.mapbox.com
+  - DOMAIN,speed.cloudflare.com
+  - DOMAIN-SUFFIX,fdcservers.net
+  - DOMAIN-SUFFIX,hgc.com
+  - DOMAIN-SUFFIX,hgconair.hgc.com.hk
+  - DOMAIN-SUFFIX,netspeedtestmaster.com
+  - DOMAIN-SUFFIX,ooklaserver.net
+  - DOMAIN-SUFFIX,speed.chinaunicomglobal.com  
+  - DOMAIN-SUFFIX,speedtest.net
+  - DOMAIN-SUFFIX,speedtestcustom.com 

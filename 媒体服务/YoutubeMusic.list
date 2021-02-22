@@ -1,0 +1,38 @@
+### 2021-02-22 00:10
+### >>> 国际音乐平台
+
+payload:
+## >> Deezer
+  - DOMAIN-SUFFIX,deezer.com
+  - DOMAIN-SUFFIX,dzcdn.net
+## >> KKBOX
+  - DOMAIN-SUFFIX,kkbox.com
+  - DOMAIN-SUFFIX,kkbox.com.tw
+  - DOMAIN-SUFFIX,kfs.io
+## >> JOOX
+  - DOMAIN-SUFFIX,joox.com
+## >> Pandora
+  - DOMAIN-SUFFIX,pandora.com
+## >> SoundCloud
+  - DOMAIN-SUFFIX,p-cdn.us
+  - DOMAIN-SUFFIX,sndcdn.com
+  - DOMAIN-SUFFIX,soundcloud.com
+## >> Spotify
+  - DOMAIN-SUFFIX,pscdn.co
+  - DOMAIN-SUFFIX,scdn.co
+  - DOMAIN-SUFFIX,spotify.com
+  - DOMAIN-SUFFIX,spoti.fi
+  - DOMAIN-SUFFIX,spotify.com
+  - DOMAIN-SUFFIX,spotify-com.com
+## >> TIDAL
+  - DOMAIN-SUFFIX,tidal.com
+## >> YouTubeMusic
+  - DOMAIN-SUFFIX,music.youtube.com
+  - DOMAIN-SUFFIX,YouTubeMusic.com
+  - DOMAIN-SUFFIX,google.YouTubeMusic.com
+  - DOMAIN-SUFFIX,ios.google.YouTubeMusic.com
+  - DOMAIN-SUFFIX,android.google.YouTubeMusic.com  
+## >> YouTube kids
+  - DOMAIN-SUFFIX,youtubekids.com
+ 
+

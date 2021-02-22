@@ -1,15 +1,27 @@
-#2020.07.10 22:00
+### 2021-02-20 22:15
+### >>> DisneyPlus
+
 payload:
-# > DisneyPlus
-  - '+.bamgrid.com'
-  - '+.braze.com'
-  - '+.conviva.com'
-  - '+.disney-plus.net'
-  - '+.disney.demdex.net'
-  - '+.disneyplus.com'
-  - '+.dssott.com'
-  - '+.execute-api.us-east-1.amazonaws.com'
-  - 'dn.cdn.unid.go.com'
-  - 'dn.registerdisney.go.com'  
+  - DOMAIN,dn.cdn.unid.go.com
+  - DOMAIN,dn.registerdisney.go.com 
+  - DOMAIN-SUFFIX,adobedtm.com
+  - DOMAIN-SUFFIX,bam.nr-date.net
+  - DOMAIN-SUFFIX,bamgrid.com
+  - DOMAIN-SUFFIX,braze.com
+  - DOMAIN-SUFFIX,cdn.optimizely.com
+  - DOMAIN-SUFFIX,cdn.registerdisney.go.com
+  - DOMAIN-SUFFIX,conviva.com
+  - DOMAIN-SUFFIX,cws.conviva.com
+  - DOMAIN-SUFFIX,d9.flashtalking.com
+  - DOMAIN-SUFFIX,disney-plus.net
+  - DOMAIN-SUFFIX,disney-portal.my.onetrust.com
+  - DOMAIN-SUFFIX,disney.demdex.net
+  - DOMAIN-SUFFIX,disney.my.sentry.io
+  - DOMAIN-SUFFIX,disneyplus.bn5x.net
+  - DOMAIN-SUFFIX,disneyplus.com
+  - DOMAIN-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net
+  - DOMAIN-SUFFIX,dssott.com
+  - DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
+  - DOMAIN-SUFFIX,js-agent.newrelic.com 
   
   
