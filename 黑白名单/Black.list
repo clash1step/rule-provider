@@ -205,7 +205,12 @@ payload:
   - DOMAIN-SUFFIX,upxin.net
   - DOMAIN-SUFFIX,vmware.com
   - DOMAIN-SUFFIX,xanmod.org
-  - DOMAIN-SUFFIX,xanmod.org  
+  - DOMAIN-SUFFIX,xanmod.org
+  - DOMAIN-SUFFIX,highwebmedia.com
+  - DOMAIN-SUFFIX,olevod.cc
+  - DOMAIN-SUFFIX,olevod.eu
+  - DOMAIN-SUFFIX,olevod.com
+  - DOMAIN-SUFFIX,olevod.tv
   - IP-CIDR,14.118.246.0/24,no-resolve  
   - IP-CIDR,121.51.68.0/24,no-resolve  
   - IP-CIDR,121.51.175.0/24,no-resolve  
