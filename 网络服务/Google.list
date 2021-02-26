@@ -1,4 +1,4 @@
-### 2021-02-22 00:31
+### 2021-02-26 23:30
 ### >>> 谷歌服务，必须代理
 
 payload:
@@ -114,6 +114,7 @@ payload:
   - DOMAIN-SUFFIX,webmproject.org
   - DOMAIN-SUFFIX,webrtc.org 
   
+  - IP-CIDR,35.241.23.245/32,no-resolve
   - IP-CIDR,64.233.187.0/24,no-resolve 
   - IP-CIDR,172.217.24.0/24,no-resolve  
   - IP-CIDR,172.217.27.0/24,no-resolve
