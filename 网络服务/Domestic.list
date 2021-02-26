@@ -1,7 +1,9 @@
-### 2021-02-22 00:15
+### 2021-02-26 10:50
 ### >>> 国内直连
 
-payload:  
+payload:
+## >> hicloud
+  - DOMAIN-SUFFIX,hicloud.com
 ## >> 360
   - DOMAIN-SUFFIX,360.cn  
   - DOMAIN-SUFFIX,360in.com  
@@ -174,6 +176,8 @@ payload:
   - DOMAIN-SUFFIX,keepfrds.com
   - DOMAIN-SUFFIX,leaguehd.com
   - DOMAIN-SUFFIX,m-team.cc
+  - DOMAIN-SUFFIX,btschool.club
+  - DOMAIN-SUFFIX,skyey.win
   - DOMAIN-SUFFIX,madsrevolution.net
   - DOMAIN-SUFFIX,msg.vg
   - DOMAIN-SUFFIX,nanyangpt.com
