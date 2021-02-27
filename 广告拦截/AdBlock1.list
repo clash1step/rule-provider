@@ -2,7 +2,6 @@
 ### >>> 广告域名
 
 payload:
-  - DOMAIN-KEYWORD,adservice
   - DOMAIN-KEYWORD,admaster
   - DOMAIN-KEYWORD,admdfs
   - DOMAIN-KEYWORD,adnewnc
