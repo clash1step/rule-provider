@@ -32,6 +32,7 @@ payload:
   - DOMAIN-SUFFIX,clients6.google.com
   - DOMAIN-SUFFIX,wac.iotacdn.net
   - DOMAIN-SUFFIX,adn.gammacdn.net 
+  - DOMAIN-SUFFIX,gadservices.net  
 ## >> google
   - DOMAIN-SUFFIX,googleapis.cn
   - DOMAIN-SUFFIX,googleapis.com 
