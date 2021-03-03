@@ -200,6 +200,7 @@ payload:
 # > 秋水逸冰
   - DOMAIN-SUFFIX,teddysun.com 
 # > 其他
+  - DOMAIN-SUFFIX,api.gettoby.com
   - DOMAIN-SUFFIX,like.co  
   - DOMAIN-SUFFIX,easytomessage.com 
   - DOMAIN-SUFFIX,1drv.ms
