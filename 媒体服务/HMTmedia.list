@@ -11,6 +11,8 @@ payload:
   - DOMAIN-SUFFIX,ipify.org  
   - DOMAIN,gamer-cds.cdn.hinet.net
   - DOMAIN,gamer2-cds.cdn.hinet.net 
+  - IP-CIDR,104.16.182.0/24,no-resolve
+  - IP-CIDR,54.230.85.0/24,no-resolve  
 ## >> hwtv
   - DOMAIN-SUFFIX,5itv.tv
   - DOMAIN-SUFFIX,ocnttv.com
