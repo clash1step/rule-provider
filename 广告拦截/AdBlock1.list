@@ -151,7 +151,8 @@ payload:
   - DOMAIN-SUFFIX,v3.fstats.xyz
   - DOMAIN-SUFFIX,unreshiramor.com
   - DOMAIN-SUFFIX,itnuzleafan.com
-  - DOMAIN-SUFFIX,ggsfq.com  
+  - DOMAIN-SUFFIX,ggsfq.com
+  - DOMAIN-SUFFIX,v22117.com  
 #Alibaba
   - DOMAIN-SUFFIX,optimus-ads.amap.com
   - DOMAIN-SUFFIX,optimus-ads.amap.com.w.alikunlun.com
