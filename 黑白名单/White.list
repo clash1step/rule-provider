@@ -45,6 +45,7 @@ payload:
 ## >> 中国知网
   - DOMAIN-SUFFIX,cnki.net 
 ## >> other
+  - DOMAIN-SUFFIX,bdcloudapi.com
   - IP-CIDR,185.188.32.0/24,no-resolve
   - IP-CIDR,185.188.33.0/24,no-resolve
   - IP-CIDR,185.188.34.0/24,no-resolve
