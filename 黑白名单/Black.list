@@ -197,7 +197,8 @@ payload:
   - DOMAIN-SUFFIX,kickstarter.com
   - DOMAIN-SUFFIX,ksr-ugc.imgix.net
   - DOMAIN-SUFFIX,widget.intercom.io    
-## >> other  
+## >> other
+  - DOMAIN-SUFFIX,bdcloudapi.com
   - DOMAIN-SUFFIX,hdupt.com
   - DOMAIN-SUFFIX,lala.im
   - DOMAIN-SUFFIX,post76.hk
