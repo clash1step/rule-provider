@@ -200,7 +200,7 @@ payload:
   - DOMAIN-SUFFIX,dmm.co.jp
   - DOMAIN-SUFFIX,ppp.contentdef.com  
   - DOMAIN,static-ppp.portalcdn.com
-  - DOMAIN,javbus.com.com  
+  - DOMAIN,javbus.com
   - IP-CIDR,202.247.187.211/16,no-resolve
   - IP-CIDR,172.247.187.211/16,no-resolve
   - IP-CIDR,138.128.27.218/16,no-resolve
