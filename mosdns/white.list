@@ -13,6 +13,9 @@ tmall.hk
 ## >> autohome
 keyword:autohome
 autohome.com.cn
+full:www.168.com
+che168.com
+sso.che168.com
 ## >> Amazon
 *-cn.amazon.com  
 fls-cn.amazon.com
@@ -197,10 +200,6 @@ springsunday.net
 tjupt.org
 totheglory.im
 trontv.com
-## >> Public Direct CDN 公共直连
-code.jquery.com
-jsdelivr.net
-cdnyzdjj.com 
 ## >> pdd
 yangkeduo.com  
 ## >> logite
@@ -232,6 +231,11 @@ firefoxchina.cn
 keyword:eastmoney  
 eastmoney.com
 oneplus.com
+## >> ikea
+full:www.ikea.com
+## >> debian
+debian.pool.ntp.org
+ikea.com
 ## >> TR69
 c69.9966.org  
 cyba.2288.org  
@@ -244,19 +248,90 @@ ghxc.8866.org
 h69.9966.org 
 homes.2288.org  
 homes.8800.org  
-homes.8866.org    
+homes.8866.org
+## >> PT
+m-team.cc
+totheglory.im
+keepfrds.com
+hdsky.me
+open.cd
+hdcmct.org
+nanyangpt.com
+chdbits.co
+hyperay.org
+ourbits.club
+gztown.net
+sjtu.edu.cn
+hdhome.org
+hdchina.org
+upxin.net
+hdarea.co
+springsunday.net
+discfan.net
+dmhy.org
+hdatmos.club 
+# >> TTG
+13.107.136.9
+#HDSKY
+94.130.79.70
+137.116.139.120 
+# >> HDU
+pt.hdupt.com
+23.19.71.95
+13.76.98.22
+13.76.98.223
+13.107.136.9 
+# >> HD4FANS
+104.21.80.116
+# >> OPENCD
+104.21.65.111
+# >> OUR
+172.67.175.238
+cdn.ourhelp.club
+api.webtest.net
+# >> FAN
+104.21.79.79
+172.67.167.239
+spo-0004.spo-msedge.net
+# >> MT
+104.26.12.50
+images.static-bluray.com
+images4.static-bluray.com
+img.pterclub.com
+z4a.net
+www.z4a.net
+180.215.204.145
+tpimg.ccache.org
+ptpimg.me 
+185.155.55.2 
+104.26.15.154
+tpimg.ccache.org
+157.240.18.18
+195412-ipv4.farm.dprodmgd106.aa-rt.sharepoint.com.spo-0004.spo-msedge.net
+# >> 南洋
+52.105.204.41
+172.64.193.23
+i.endpot.com
+# >> hdhome
+104.26.10.76
+# >> KEEP
+104.21.61.18
+files.catbox.moe
+# >> CCFBITS
+137.116.139.120
+ccfbits.org
+# >> pthome
+m.media-amazon.com
+# >> ssd
+172.67.71.17
+# >> chd
+104.26.11.119
+209.95.56.60
 ## >> Other
-bdcloudapi.com
+xnan-my.sharepoint.com
 dler.cloud
 sentry.io
 brawlstars.com
 dailygn.com
 juliangyinqing.com
 o2.cx
-  
- 
-
- 
-
-
-
