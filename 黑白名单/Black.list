@@ -1,4 +1,4 @@
-### 2021-02-20 22:00
+### 2021-03-15 18:20
 ### >>> 黑名单
 
 payload:
@@ -212,6 +212,7 @@ payload:
   - DOMAIN-SUFFIX,olevod.eu
   - DOMAIN-SUFFIX,olevod.com
   - DOMAIN-SUFFIX,olevod.tv
+  - DOMAIN-SUFFIX,a-wing.top
   - IP-CIDR,14.118.246.0/24,no-resolve  
   - IP-CIDR,121.51.68.0/24,no-resolve  
   - IP-CIDR,121.51.175.0/24,no-resolve  
