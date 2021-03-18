@@ -38,7 +38,9 @@ payload:
   - DOMAIN-SUFFIX,googleapis.com 
   - DOMAIN-SUFFIX,google.ru
   - DOMAIN-SUFFIX,google.com
-  - DOMAIN-SUFFIX,www.google.com
+  - DOMAIN-SUFFIX,google.mn  
+  - DOMAIN,www.google.com
+  - DOMAIN,www.google.mn  
   - DOMAIN-SUFFIX,aa.google.com 
   - DOMAIN-SUFFIX,apis.google.com
   - DOMAIN-SUFFIX,ogs.google.com
