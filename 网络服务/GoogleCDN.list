@@ -49,3 +49,4 @@ payload:
   - DOMAIN-SUFFIX,tools.l.google.com  
   - DOMAIN-SUFFIX,translate.googleapis.com 
   - DOMAIN-SUFFIX,www-googletagmanager.l.google.com
+  - DOMAIN-SUFFIX,api.coingecko.com
