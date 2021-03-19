@@ -104,7 +104,8 @@ payload:
   - IP-CIDR,40.114.54.0/24,no-resolve
   - IP-CIDR,40.119.249.228/32,no-resolve
   - IP-CIDR,40.126.12.199/24,no-resolve
-  - IP-CIDR,40.126.52.0/24,no-resolve
+  - IP-CIDR,40.126.35.0/24,no-resolve   
+  - IP-CIDR,40.126.52.0/24,no-resolve 
   - IP-CIDR,52.109.120.73/24,no-resolve
   - IP-CIDR,52.114.32.8/32,no-resolve
   - IP-CIDR,52.114.32.24/32,no-resolve
@@ -116,7 +117,6 @@ payload:
   - IP-CIDR,104.78.20.238/32,no-resolve
   - IP-CIDR,137.116.139.120/32,no-resolve
   - IP-CIDR,220.181.26.0/24,no-resolve
-  - IP-CIDR,40.126.52.0/24,no-resolve
 # > edge
   - DOMAIN-SUFFIX,*-msedge.net
   - DOMAIN-SUFFIX,a-msedge.net
