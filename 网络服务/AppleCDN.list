@@ -2,6 +2,13 @@
 ### >>> CDN 资源类 推荐选择直连
 
 payload:
+## >> 自动更新
+  - DOMAIN-SUFFIX,ipsw.me
+  - DOMAIN-SUFFIX,gdmf.apple.com
+  - DOMAIN-SUFFIX,xp.apple.com
+  - DOMAIN-SUFFIX,appldnld.apple.com
+  - DOMAIN-SUFFIX,swscan.apple.com
+  - DOMAIN-SUFFIX,mesu.apple.com
 ## >> Apple
   - DOMAIN-SUFFIX,www.apple.com.edgekey.net.globalredir.akadns.net
   - DOMAIN-SUFFIX,www.apple.com.edgekey.net
