@@ -223,5 +223,4 @@ payload:
   - DOMAIN-SUFFIX,dailygn.com
   - DOMAIN-SUFFIX,juliangyinqing.com
   - IP-CIDR,8.210.191.0/28,no-resolve
-  - IP-CIDR,47.90.119.0/24,no-resolve  
-  - IP-CIDR,8.131.51.0/24,no-resolve
+  - IP-CIDR,47.90.119.0/24,no-resolve
