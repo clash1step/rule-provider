@@ -33,6 +33,19 @@ payload:
   - DOMAIN-SUFFIX,didiglobal.com
 ## >> 蛋蛋赞
   - DOMAIN-SUFFIX,baduziyuan.com
+## >> 健客网
+  - DOMAIN,www.jkanke-tech.com
+  - DOMAIN,www.fangzhou-jianke.com
+  - DOMAIN,www.jianke-fangzhou.com 
+  - DOMAIN,www.fzjianke.com using 
+  - DOMAIN,www.jkfangzhou.com
+  - DOMAIN-SUFFIX,jkanke-tech.com
+  - DOMAIN-SUFFIX,fangzhou-jianke.com
+  - DOMAIN-SUFFIX,jianke-fangzhou.com
+  - DOMAIN-SUFFIX,fzjianke.com using
+  - DOMAIN-SUFFIX,jkfangzhou.com
+  - DOMAIN-SUFFIX,tianditao.com  
+ 
   - DOMAIN-SUFFIX,com-hs-hkdy.com
   - DOMAIN-SUFFIX,czybjz.com
   - DOMAIN-SUFFIX,dandanzan.com
