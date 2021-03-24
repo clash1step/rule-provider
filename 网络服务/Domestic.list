@@ -42,12 +42,12 @@ payload:
   - DOMAIN,www.jkanke-tech.com
   - DOMAIN,www.fangzhou-jianke.com
   - DOMAIN,www.jianke-fangzhou.com 
-  - DOMAIN,www.fzjianke.com using 
+  - DOMAIN,www.fzjianke.com
   - DOMAIN,www.jkfangzhou.com
   - DOMAIN-SUFFIX,jkanke-tech.com
   - DOMAIN-SUFFIX,fangzhou-jianke.com
   - DOMAIN-SUFFIX,jianke-fangzhou.com
-  - DOMAIN-SUFFIX,fzjianke.com using
+  - DOMAIN-SUFFIX,fzjianke.com
   - DOMAIN-SUFFIX,jkfangzhou.com
   - DOMAIN-SUFFIX,tianditao.com
 ## >> HuaWei
