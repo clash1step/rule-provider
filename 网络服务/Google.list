@@ -118,7 +118,8 @@ payload:
   - DOMAIN-SUFFIX,webrtc.org 
   
   - IP-CIDR,35.241.23.245/32,no-resolve
-  - IP-CIDR,64.233.187.0/24,no-resolve 
+  - IP-CIDR,64.233.187.0/24,no-resolve
+  - IP-CIDR,108.177.125.0/24,no-resolve  
   - IP-CIDR,172.217.24.0/24,no-resolve  
   - IP-CIDR,172.217.27.0/24,no-resolve
   - IP-CIDR,172.217.31.0/24,no-resolve  
