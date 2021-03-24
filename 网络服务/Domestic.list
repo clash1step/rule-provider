@@ -32,7 +32,12 @@ payload:
 ## >> DiDi
   - DOMAIN-SUFFIX,didiglobal.com
 ## >> 蛋蛋赞
-  - DOMAIN-SUFFIX,baduziyuan.com
+  - DOMAIN-SUFFIX,baduziyuan.com 
+  - DOMAIN-SUFFIX,com-hs-hkdy.com
+  - DOMAIN-SUFFIX,czybjz.com
+  - DOMAIN-SUFFIX,dandanzan.com
+  - DOMAIN-SUFFIX,fjhps.com
+  - DOMAIN-SUFFIX,kuyunbo.club  
 ## >> 健客网
   - DOMAIN,www.jkanke-tech.com
   - DOMAIN,www.fangzhou-jianke.com
@@ -44,13 +49,7 @@ payload:
   - DOMAIN-SUFFIX,jianke-fangzhou.com
   - DOMAIN-SUFFIX,fzjianke.com using
   - DOMAIN-SUFFIX,jkfangzhou.com
-  - DOMAIN-SUFFIX,tianditao.com  
- 
-  - DOMAIN-SUFFIX,com-hs-hkdy.com
-  - DOMAIN-SUFFIX,czybjz.com
-  - DOMAIN-SUFFIX,dandanzan.com
-  - DOMAIN-SUFFIX,fjhps.com
-  - DOMAIN-SUFFIX,kuyunbo.club
+  - DOMAIN-SUFFIX,tianditao.com
 ## >> HuaWei
   - DOMAIN-SUFFIX,huaweishop.net
 ## >> Iflytek 科大讯飞
