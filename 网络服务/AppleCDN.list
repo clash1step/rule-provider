@@ -14,7 +14,8 @@ payload:
   - DOMAIN-SUFFIX,www.apple.com.edgekey.net
   - DOMAIN-SUFFIX,www.apple.com
   - DOMAIN-SUFFIX,cds.apple.com.akadns.net
-  - DOMAIN-SUFFIX,cds.apple.com  
+  - DOMAIN-SUFFIX,cds.apple.com
+  - DOMAIN-SUFFIX,gateway.fe.apple-dns.cn  
 ## >> Apple Map
   - DOMAIN,gs-loc-cn.apple.com
 
