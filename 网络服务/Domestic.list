@@ -232,7 +232,11 @@ payload:
   - DOMAIN-SUFFIX,firefoxchina.cn
 ## >> oneplus  
   - DOMAIN-SUFFIX,1plus.io
-  - DOMAIN-SUFFIX,oneplus.com  
+  - DOMAIN-SUFFIX,oneplus.com 
+## >> 数字尾巴  
+  - DOMAIN,www.dgtle.com
+  - DOMAIN,s1.dgtle.com
+  - DOMAIN-SUFFIX,dgtle.com
 ## >> Other
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,brawlstars.com
