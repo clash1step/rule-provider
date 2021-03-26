@@ -234,9 +234,12 @@ payload:
   - DOMAIN-SUFFIX,1plus.io
   - DOMAIN-SUFFIX,oneplus.com 
 ## >> 数字尾巴  
+  - DOMAIN,infinity-api.extfans.com
+  - DOMAIN-SUFFIX,infinitynewtab.com
+## >> infinitynewtab  
   - DOMAIN,www.dgtle.com
-  - DOMAIN,s1.dgtle.com
-  - DOMAIN-SUFFIX,dgtle.com
+  - DOMAIN,www.dgtle.com  
+  - DOMAIN-SUFFIX,dgtle.com  
 ## >> Other
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,brawlstars.com
