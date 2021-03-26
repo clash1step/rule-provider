@@ -233,11 +233,9 @@ payload:
 ## >> oneplus  
   - DOMAIN-SUFFIX,1plus.io
   - DOMAIN-SUFFIX,oneplus.com 
-## >> 数字尾巴  
-  - DOMAIN,infinity-api.extfans.com
-  - DOMAIN-SUFFIX,infinitynewtab.com
-## >> infinitynewtab  
-  - DOMAIN,www.dgtle.com
+## >> infinitynewtab 
+  - DOMAIN-SUFFIX,infinitynewtab.com    
+## >> 数字尾巴 
   - DOMAIN,www.dgtle.com  
   - DOMAIN-SUFFIX,dgtle.com  
 ## >> Other
