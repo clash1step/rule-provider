@@ -232,7 +232,8 @@ payload:
   - DOMAIN-SUFFIX,firefoxchina.cn
 ## >> oneplus  
   - DOMAIN-SUFFIX,1plus.io
-  - DOMAIN-SUFFIX,oneplus.com 
+  - DOMAIN-SUFFIX,oneplus.com
+  - DOMAIN-SUFFIX,oppo.soboten.com  
 ## >> infinitynewtab 
   - DOMAIN-SUFFIX,infinitynewtab.com    
 ## >> 数字尾巴 
