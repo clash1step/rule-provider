@@ -23,4 +23,6 @@ payload:
   - DOMAIN,blzddist1-a.akamaihd.net
   - DOMAIN,cdp.cloud.unity3d.com
 ## >> Gameloft
-  - DOMAIN-SUFFIX,gameloft.com  
+  - DOMAIN-SUFFIX,gameloft.com
+## >> BattlEye  
+  - DOMAIN-SUFFIX,battleye.com
