@@ -239,6 +239,7 @@ payload:
   - DOMAIN,www.dgtle.com  
   - DOMAIN-SUFFIX,dgtle.com  
 ## >> Other
+  - DOMAIN-SUFFIX,danghuan.com
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,brawlstars.com
   - DOMAIN-SUFFIX,dailygn.com
