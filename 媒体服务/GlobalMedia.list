@@ -205,6 +205,7 @@ payload:
   - DOMAIN-SUFFIX,streamsb.net
   - DOMAIN-SUFFIX,streamsb.com  
   - DOMAIN,static-ppp.portalcdn.com
+  - DOMAIN-SUFFIX,vidoza.net
   - IP-CIDR,202.247.187.211/16,no-resolve
   - IP-CIDR,172.247.187.211/16,no-resolve
   - IP-CIDR,138.128.27.218/16,no-resolve
