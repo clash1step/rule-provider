@@ -48,12 +48,16 @@ payload:
   - DOMAIN-SUFFIX,itunes.apple.com
   - DOMAIN-SUFFIX,itunes.com
   
+## >> TestFlight
+  - DOMAIN,beta.apple.com
+  - DOMAIN,testflight.apple.com   
+  
 ## >> iCloud 上传和下载
   - DOMAIN-SUFFIX,apple-cloudkit.com
   - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,icloud-content.com
   - DOMAIN-SUFFIX,icloud.com
-  - DOMAIN-SUFFIX,me.com
+  - DOMAIN-SUFFIX,me.com  
   
   - IP-CIDR,17.57.145.0/24,no-resolve
   - IP-CIDR,17.167.192.231/24,no-resolve
