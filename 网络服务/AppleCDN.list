@@ -107,11 +107,7 @@ payload:
   - DOMAIN,fmfmobile.icloud.com
   - DOMAIN,fmipmobile.icloud.com  
   - DOMAIN,statici.icloud.com
-  
-## >> TestFlight
-  - DOMAIN,beta.apple.com
-  - DOMAIN,testflight.apple.com  
-
+   
 ## >> other  
   - DOMAIN-SUFFIX,a1.mzstatic.com
   - DOMAIN-SUFFIX,a2.mzstatic.com
