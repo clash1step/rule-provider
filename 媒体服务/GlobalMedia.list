@@ -171,8 +171,6 @@ payload:
   - DOMAIN-SUFFIX,cocomanhua.com 
   - DOMAIN-SUFFIX,clouddata8g.xyz 
   - DOMAIN,cdn.cocomanhua.com.cdn.cloudflare.net
-## >> xmanhua
-  - DOMAIN-SUFFIX,xmanhua.com
 ## >> PBS
   - DOMAIN-SUFFIX,pbs.org
 ## >> Plex Server
