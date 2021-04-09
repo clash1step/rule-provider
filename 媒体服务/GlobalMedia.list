@@ -158,6 +158,7 @@ payload:
   - DOMAIN-SUFFIX,sbvideocdn.com  
   - DOMAIN-SUFFIX,7mmtv.tv
   - DOMAIN-SUFFIX,dmm.co.jp
+  - DOMAIN-SUFFIX,fvs.io  
   - DOMAIN-SUFFIX,ff-01.com
   - DOMAIN-SUFFIX,ff-02.com
   - DOMAIN-SUFFIX,ff-03.com
