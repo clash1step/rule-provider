@@ -26,7 +26,6 @@ payload:
   - DOMAIN-SUFFIX,ecs.office.com
   - DOMAIN-SUFFIX,emdl.ws.microsoft.com
   - DOMAIN-SUFFIX,evoke-windowsservices-tas.msedge.net  
-  - DOMAIN-SUFFIX,go.microsoft.com
   - DOMAIN-SUFFIX,img-prod-cms-rt-microsoft-com.akamaized.net
   - DOMAIN-SUFFIX,licensing.mp.microsoft.com
   - DOMAIN-SUFFIX,login.microsoftonline.com
