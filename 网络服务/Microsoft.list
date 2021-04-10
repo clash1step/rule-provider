@@ -46,6 +46,7 @@ payload:
   - DOMAIN-SUFFIX,trafficmanager.net
   - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,windows.com
+  - DOMAIN-SUFFIX,go.microsoft.com  
   - DOMAIN,arc.msn.com   
   - DOMAIN,ars.smartscreen.microsoft.com 
   - DOMAIN,b-ring.msedge.net
