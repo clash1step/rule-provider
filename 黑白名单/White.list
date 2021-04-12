@@ -44,6 +44,10 @@ payload:
   - DOMAIN-SUFFIX,roadshowing.com 
 ## >> 中国知网
   - DOMAIN-SUFFIX,cnki.net 
+## >> 区块天眼
+  - DOMAIN-SUFFIX,fx994.com
+  - DOMAIN,app.coolbit.com
+  - DOMAIN,h.m.mpl.dutils.com
 ## >> other
   - DOMAIN-SUFFIX,bdcloudapi.com
   - IP-CIDR,185.188.32.0/24,no-resolve
