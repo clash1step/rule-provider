@@ -216,6 +216,7 @@ payload:
   - DOMAIN-SUFFIX,totheglory.im
   - DOMAIN-SUFFIX,trontv.com
   - DOMAIN-SUFFIX,upxin.net
+  - DOMAIN-SUFFIX,hd4fans.org
 ## >> Public Direct CDN 公共直连
   - DOMAIN-SUFFIX,code.jquery.com
   - DOMAIN-SUFFIX,jsdelivr.net
