@@ -1,200 +1,3 @@
-com.tw
-com.hk
-## >> Akamai
-akadns.net
-akamai.net
-akamaiedge.net
-akamaihd.net
-akamaistream.net
-akamaized.net
-virtualearth.net
-nelreports.net
-crashlytics.com
-pki.goog  
-  - DOMAIN,img-s-msn-com.akamaized.net 
-## >> Amazon
-amazon.nl
-amazon.com.mx
-amazon.co.jp
-amazon.com
-amazon.ca
-amazontrust.com
-amazonaws.com  
-media-amazon.com  
-adsblock.org  
-test-app.link
-bugsnag.com
-cloudfront.net
-webtest.net
-mozaws.net
-*-amazon.com  
-ssl-images-amazon.com
-m.media-amazon.com 
-mainnet.infura.io
-api.metaswap.codefi.network 
-## >> AMD
-download.amd.com 
-## >> BBC
-bbc.co
-bbc.com
-bbc.co.uk
-bbci.co.uk 
-bbcfmt.hs.llnwd.net
-cloudfunctions.net  
-## >> Developer
-apache.org
-docker.com
-elastic.co
-elastic.com
-gcr.io
-gitlab.com
-gitlab.io
-gitcdn.xyz 
-jitpack.io
-maven.org
-medium.com
-mvnrepository.com
-quay.io
-reddit.com
-redhat.com
-sonatype.org
-sourcegraph.com
-spring.io
-spring.net
-stackoverflow.com
-gitbook.com
-gitbook.io
-lr-ingest.io  
-olyfill.io
-npkg.com
-oubibackup.com
-doubibackup.com  
-walmart.com 
-## >> dlercloud
-qiangdong.xyz
-dlercloud.com
-cloudflare.com  
-dler.io
-gravatar.com
-crisp.chat
-104.21.95.225/32
-172.67.171.127/32
-## >> emby 
-emby.wtf
-mb3admin.com
-185.232.70.0/24    
-## >> Facebook 
-facebook.com
-facebook.net  
-fbsbx.com  
-fb.com
-fb.me
-fbcdn.com
-fbcdn.net
-74.125.0.0/16
-74.119.76.0/22
-69.63.176.0/20
-69.171.224.0/19
-66.220.144.0/20
-45.64.40.0/22
-31.13.85.8/16
-31.13.64.0/18
-31.13.24.0/21
-204.15.20.0/22
-185.60.216.0/22
-179.60.192.0/22
-173.252.96.0/19
-173.252.64.0/19
-173.194.0.0/16
-157.240.0.0/17
-129.134.0.0/17
-103.4.96.0/22
-74.119.76.0/22
-69.63.176.0/20
-69.171.224.0/19
-66.220.144.0/20
-45.64.40.0/22
-31.13.64.0/18
-31.13.24.0/21
-204.15.20.0/22
-185.60.216.0/22
-179.60.192.0/22
-173.252.64.0/18
-157.240.0.0/17
-129.134.0.0/17
-103.4.96.0/22
-185.60.216.36/24
-## >> firfox
-mozilla.com 
-mozilla.org  
-mozilla.net   
-## >> github
-github.com 
-github.io
-githubapp.com
-githubassets.com
-githubusercontent.com
-## >> hdker
-haiyun.me
-pud.life
-pud.hdker.com
-hdker.com
-## >> GSK
-gsk.com
-igskapp.com  
-pingone.com
-veevacrm.com
-concursolutions.com
-myworkday.com
-airwatchportals.com
-## >> instagram  
-instagram.com
-cdninstagram.com
-## >> NIVDIA
-phicdn.net
-shara.li
-shara.li  
-ota.nvidia.com
-sin.vip.zenlogic.net
-cdn.gethatch.com
-in-and-ru-store-api.uk-e1.cloudhub.io 
-## >> Potato Chat
-13.251.24.157/24
-13.251.41.203/24
-17.252.156.147/24
-17.252.157.26/24
-## >> softether
-softether.org
-softether-download.com 
-## >> SoftLayer  
-74.86.0.0/16
-75.126.0.0/16
-174.37.0.0/16
-208.43.0.0/16 
-## >> Spark
-api.amplitude.com
-app.smartmailcloud.com
-gate.hockeyapp.net
-smartmailcloud.com 
-## >> TeamViewer
-teamviewer.com  
-109.239.140.0/24
-139.220.243.27/32
-172.16.102.56/32
-185.188.32.1/28
-221.226.128.146/32
-## >> Tencent
-gtimg.com 
-## >> Twitter
-periscope.tv
-t.co 
-twimg.co
-twitter.com
-twimg.com
-twitpic.com
-vine.co  
-## >> 秋水逸冰
-teddysun.com 
 ## >> bilibili
 keyword:bilibili
 full:www.bilibili.com
@@ -224,7 +27,64 @@ nlnetlabs.nl
 ohmanhua.com
 xiaomingtaiji.net
 hmanhua.com
+## >> 数字尾巴
+full:www.dgtle.com
+full:s1.dgtle.com
+dgtle.com
+s11.cnzz.com
+## >> Private Tracker
+animetorrents.me
+beitai.pt
+bittorrent.com
+broadcasthe.net
+btschool.club
+chdbits.co
+classix-unlimited.co.uk
+discfan.net
+dmhy.org
+empornium.me
+gazellegames.net
+gztown.net
+hd4fans.org
+hdarea.co
+hdatmos.club
+hdchina.org
+hdcmct.org
+hdhome.org
+hdsky.me
+hdtime.org
+hdzone.me
+hyperay.org
+icetorrent.org
+jpopsuki.eu
+keepfrds.com
+leaguehd.com
+m-team.cc
+madsrevolution.net
+msg.vg
+nanyangpt.com
+ncore.cc
+open.cd
+ourbits.club
+passthepopcorn.me
+privatehd.to
+pthome.net
+redacted.ch
+sjtu.edu.cn
+skyey.win
+springsunday.net
+tjupt.org
+totheglory.im
+trontv.com
+upxin.net
 ## >> other
+h12.io
+go.starlark.net
+golang.org
+honnef.co
+infinitynewtab.com
+infinity-api.infinitynewtab.com
+infinity-api.extfans.com
 jsdelivr.net
 cdn.jsdelivr.net
 iyunys.com
@@ -234,3 +94,6 @@ haiyun.me
 full:www.haiyun.me
 jsboxbbs.com
 full:www.jsboxbbs.com
+yiclear.com
+molinero.xyz
+a-wing.top
