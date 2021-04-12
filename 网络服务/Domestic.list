@@ -180,12 +180,11 @@ payload:
   - DOMAIN-SUFFIX,btschool.club
   - DOMAIN-SUFFIX,chdbits.co
   - DOMAIN-SUFFIX,classix-unlimited.co.uk
-  - DOMAIN-SUFFIX,  - DOMAIN-SUFFIX,discfan.net
+  - DOMAIN-SUFFIX,discfan.net
   - DOMAIN-SUFFIX,dmhy.org
   - DOMAIN-SUFFIX,empornium.me
   - DOMAIN-SUFFIX,gazellegames.net
-  - DOMAIN-SUFFIX,  - DOMAIN-SUFFIX,  - DOMAIN-SUFFIX,gztown.net
-  - DOMAIN-SUFFIX,  - DOMAIN-SUFFIX,hd4fans.org
+  - DOMAIN-SUFFIX,gztown.net
   - DOMAIN-SUFFIX,hdarea.co
   - DOMAIN-SUFFIX,hdatmos.club
   - DOMAIN-SUFFIX,hdchina.org
@@ -201,10 +200,10 @@ payload:
   - DOMAIN-SUFFIX,leaguehd.com
   - DOMAIN-SUFFIX,m-team.cc
   - DOMAIN-SUFFIX,madsrevolution.net
-  - DOMAIN-SUFFIX,  - DOMAIN-SUFFIX,msg.vg
+  - DOMAIN-SUFFIX,msg.vg
   - DOMAIN-SUFFIX,nanyangpt.com
   - DOMAIN-SUFFIX,ncore.cc
-  - DOMAIN-SUFFIX,  - DOMAIN-SUFFIX,open.cd
+  - DOMAIN-SUFFIX,open.cd
   - DOMAIN-SUFFIX,ourbits.club
   - DOMAIN-SUFFIX,passthepopcorn.me
   - DOMAIN-SUFFIX,privatehd.to
@@ -217,8 +216,6 @@ payload:
   - DOMAIN-SUFFIX,totheglory.im
   - DOMAIN-SUFFIX,trontv.com
   - DOMAIN-SUFFIX,upxin.net
-  - DOMAIN-SUFFIX,open.cd
-  - DOMAIN-SUFFIX,hd4fans.org
 ## >> Public Direct CDN 公共直连
   - DOMAIN-SUFFIX,code.jquery.com
   - DOMAIN-SUFFIX,jsdelivr.net
