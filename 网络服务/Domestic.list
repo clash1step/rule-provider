@@ -177,37 +177,46 @@ payload:
   - DOMAIN-SUFFIX,beitai.pt
   - DOMAIN-SUFFIX,bittorrent.com
   - DOMAIN-SUFFIX,broadcasthe.net
+  - DOMAIN-SUFFIX,btschool.club
   - DOMAIN-SUFFIX,chdbits.co
   - DOMAIN-SUFFIX,classix-unlimited.co.uk
+  - DOMAIN-SUFFIX,  - DOMAIN-SUFFIX,discfan.net
+  - DOMAIN-SUFFIX,dmhy.org
   - DOMAIN-SUFFIX,empornium.me
   - DOMAIN-SUFFIX,gazellegames.net
-  - DOMAIN-SUFFIX,hd4fans.org
+  - DOMAIN-SUFFIX,  - DOMAIN-SUFFIX,  - DOMAIN-SUFFIX,gztown.net
+  - DOMAIN-SUFFIX,  - DOMAIN-SUFFIX,hd4fans.org
+  - DOMAIN-SUFFIX,hdarea.co
+  - DOMAIN-SUFFIX,hdatmos.club
   - DOMAIN-SUFFIX,hdchina.org
+  - DOMAIN-SUFFIX,hdcmct.org
   - DOMAIN-SUFFIX,hdhome.org
   - DOMAIN-SUFFIX,hdsky.me
   - DOMAIN-SUFFIX,hdtime.org
   - DOMAIN-SUFFIX,hdzone.me
+  - DOMAIN-SUFFIX,hyperay.org
   - DOMAIN-SUFFIX,icetorrent.org
   - DOMAIN-SUFFIX,jpopsuki.eu
   - DOMAIN-SUFFIX,keepfrds.com
   - DOMAIN-SUFFIX,leaguehd.com
   - DOMAIN-SUFFIX,m-team.cc
-  - DOMAIN-SUFFIX,btschool.club
-  - DOMAIN-SUFFIX,skyey.win
   - DOMAIN-SUFFIX,madsrevolution.net
-  - DOMAIN-SUFFIX,msg.vg
+  - DOMAIN-SUFFIX,  - DOMAIN-SUFFIX,msg.vg
   - DOMAIN-SUFFIX,nanyangpt.com
   - DOMAIN-SUFFIX,ncore.cc
-  - DOMAIN-SUFFIX,open.cd
+  - DOMAIN-SUFFIX,  - DOMAIN-SUFFIX,open.cd
   - DOMAIN-SUFFIX,ourbits.club
   - DOMAIN-SUFFIX,passthepopcorn.me
   - DOMAIN-SUFFIX,privatehd.to
   - DOMAIN-SUFFIX,pthome.net
   - DOMAIN-SUFFIX,redacted.ch
+  - DOMAIN-SUFFIX,sjtu.edu.cn
+  - DOMAIN-SUFFIX,skyey.win
   - DOMAIN-SUFFIX,springsunday.net
   - DOMAIN-SUFFIX,tjupt.org
   - DOMAIN-SUFFIX,totheglory.im
   - DOMAIN-SUFFIX,trontv.com
+  - DOMAIN-SUFFIX,upxin.net
 ## >> Public Direct CDN 公共直连
   - DOMAIN-SUFFIX,code.jquery.com
   - DOMAIN-SUFFIX,jsdelivr.net
