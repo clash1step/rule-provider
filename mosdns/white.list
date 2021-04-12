@@ -13,9 +13,6 @@ tmall.hk
 ## >> autohome
 keyword:autohome
 autohome.com.cn
-full:www.168.com
-che168.com
-sso.che168.com
 ## >> Amazon
 *-cn.amazon.com  
 fls-cn.amazon.com
@@ -41,8 +38,6 @@ czybjz.com
 dandanzan.com
 fjhps.com
 kuyunbo.club
-## >> HuaWei
-huaweishop.net
 ## >> 健客网
 full:www.www.jkanke-tech.com
 full:www.www.www.jianke-tech.com
@@ -57,6 +52,8 @@ jianke-fangzhou.com
 fzjianke.com
 jkfangzhou.com
 tianditao.com
+## >> HuaWei
+huaweishop.net
 ## >> Iflytek 科大讯飞
 iflytek.com 
 ## >> Kingsoft
@@ -150,6 +147,7 @@ worldbank.org
 worldscientific.com 
 ## >> mytoken
 full:www.mytoken.com
+full:www.mytokencap.com
 mytoken.io
 ytoken.io
 mytoken.com
@@ -163,8 +161,6 @@ mytokenapi.com
 ytokenapi.com
 mytoken.org
 ytoken.org
-xuanrunad.com
-wmsjsteam.com
 ## >> TeamViewer
 teamviewer.com
 109.239.140.0/24
@@ -180,44 +176,6 @@ teamviewer.com
 182.254.116.0/24
 203.205.252.0/23
 203.205.254.0/23
-## >> Private Tracker
-animetorrents.me
-beitai.pt
-bittorrent.com
-broadcasthe.net
-chdbits.co
-classix-unlimited.co.uk
-empornium.me
-gazellegames.net
-hd4fans.org
-hdchina.org
-hdhome.org
-hdsky.me
-hdtime.org
-hdzone.me
-icetorrent.org
-jpopsuki.eu
-keepfrds.com
-leaguehd.com
-m-team.cc
-btschool.club
-skyey.win
-madsrevolution.net
-msg.vg
-nanyangpt.com
-ncore.cc
-open.cd
-ourbits.club
-passthepopcorn.me
-privatehd.to
-pthome.net
-redacted.ch
-springsunday.net
-tjupt.org
-totheglory.im
-trontv.com
-mayinet.info
-bigda.com
 ## >> pdd
 yangkeduo.com  
 ## >> logite
@@ -227,6 +185,8 @@ logitech.com.cn
 ogitech.com.cn
 logi.com  
 ownload01.logi.com
+## >> 唯品会
+union.vip.com
 ## >> smzdm
 keyword:smzdm
 mzdm01.wt-cn01.net
@@ -251,9 +211,9 @@ eastmoney.com
 oneplus.com
 ## >> ikea
 full:www.ikea.com
+ikea.com
 ## >> debian
 debian.pool.ntp.org
-ikea.com
 ## >> TR69
 c69.9966.org  
 cyba.2288.org  
@@ -267,85 +227,11 @@ h69.9966.org
 homes.2288.org  
 homes.8800.org  
 homes.8866.org
-## >> PT
-m-team.cc
-totheglory.im
-keepfrds.com
-hdsky.me
-open.cd
-hdcmct.org
-nanyangpt.com
-chdbits.co
-hyperay.org
-ourbits.club
-gztown.net
-sjtu.edu.cn
-hdhome.org
-hdchina.org
-upxin.net
-hdarea.co
-springsunday.net
-discfan.net
-dmhy.org
-hdatmos.club 
-# >> TTG
-13.107.136.9
-#HDSKY
-94.130.79.70
-137.116.139.120 
-# >> HDU
-pt.hdupt.com
-23.19.71.95
-13.76.98.22
-13.76.98.223
-13.107.136.9 
-# >> HD4FANS
-104.21.80.116
-# >> OPENCD
-104.21.65.111
-# >> OUR
-172.67.175.238
-cdn.ourhelp.club
-api.webtest.net
-# >> FAN
-104.21.79.79
-172.67.167.239
-spo-0004.spo-msedge.net
-# >> MT
-104.26.12.50
-images.static-bluray.com
-images4.static-bluray.com
-img.pterclub.com
-z4a.net
-www.z4a.net
-180.215.204.145
-tpimg.ccache.org
-ptpimg.me 
-185.155.55.2 
-104.26.15.154
-tpimg.ccache.org
-157.240.18.18
-195412-ipv4.farm.dprodmgd106.aa-rt.sharepoint.com.spo-0004.spo-msedge.net
-# >> 南洋
-52.105.204.41
-172.64.193.23
-i.endpot.com
-# >> hdhome
-104.26.10.76
-# >> KEEP
-104.21.61.18
-files.catbox.moe
-# >> CCFBITS
-137.116.139.120
-ccfbits.org
-# >> pthome
-m.media-amazon.com
-# >> ssd
-172.67.71.17
-# >> chd
-104.26.11.119
-209.95.56.60
+## >> 区块天眼
+fx994.com  
 ## >> Other
+full:www.pcbeta.com
+pcbeta.com
 xnan-my.sharepoint.com
 dler.cloud
 sentry.io
@@ -353,3 +239,12 @@ brawlstars.com
 dailygn.com
 juliangyinqing.com
 o2.cx
+dgtle.com
+full:www.dgtle.com
+cikeblog.com
+craftyun.cn
+yiyult.com
+danghuan.com
+soboten.com
+jkucun.com
+cdn.kuguanwang.com
