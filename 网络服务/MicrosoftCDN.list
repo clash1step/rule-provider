@@ -51,3 +51,4 @@ payload:
   - DOMAIN-SUFFIX,v10.events.data.microsoft.com 
   - DOMAIN-SUFFIX,v20.events.data.microsoft.com
   - DOMAIN-SUFFIX,wdcp.microsoft.com
+  - DOMAIN-SUFFIX,ctldl.windowsupdate.com
