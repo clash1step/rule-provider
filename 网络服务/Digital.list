@@ -132,3 +132,5 @@ payload:
 ## >> gateio
   - DOMAIN-SUFFIX,gateio.live
   - DOMAIN-SUFFIX,gateio.pro
+## >> sumswap
+  - DOMAIN-SUFFIX,sumswap.org
