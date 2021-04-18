@@ -48,6 +48,9 @@ payload:
   - DOMAIN-SUFFIX,fx994.com
   - DOMAIN,app.coolbit.com
   - DOMAIN,h.m.mpl.dutils.com
+## >> 区块天眼
+  - DOMAIN,www.zeekrlife.com
+  - DOMAIN-SUFFIX,zeekrlife.com   
 ## >> other
   - DOMAIN-SUFFIX,bdcloudapi.com
   - IP-CIDR,185.188.32.0/24,no-resolve
