@@ -251,6 +251,7 @@ payload:
 ## >> Other
   - DOMAIN-SUFFIX,zdmimg.com
   - DOMAIN-SUFFIX,danghuan.com
+  - DOMAIN-SUFFIX,down.zjhqtech.com
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-SUFFIX,brawlstars.com
   - DOMAIN-SUFFIX,dailygn.com
