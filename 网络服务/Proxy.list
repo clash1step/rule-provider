@@ -198,7 +198,9 @@ payload:
   - DOMAIN-SUFFIX,twitpic.com
   - DOMAIN-SUFFIX,vine.co  
 # > 秋水逸冰
-  - DOMAIN-SUFFIX,teddysun.com 
+  - DOMAIN-SUFFIX,teddysun.com
+# > infinitynewtab 
+  - DOMAIN-SUFFIX,infinitynewtab.com    
 # > 其他
   - DOMAIN,infinity-api.extfans.com
   - DOMAIN-SUFFIX,api.gettoby.com
