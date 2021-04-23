@@ -242,9 +242,7 @@ payload:
 ## >> oneplus  
   - DOMAIN-SUFFIX,1plus.io
   - DOMAIN-SUFFIX,oneplus.com
-  - DOMAIN-SUFFIX,oppo.soboten.com  
-## >> infinitynewtab 
-  - DOMAIN-SUFFIX,infinitynewtab.com    
+  - DOMAIN-SUFFIX,oppo.soboten.com    
 ## >> 数字尾巴 
   - DOMAIN,www.dgtle.com  
   - DOMAIN-SUFFIX,dgtle.com  
