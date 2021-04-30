@@ -245,7 +245,10 @@ payload:
   - DOMAIN-SUFFIX,oppo.soboten.com    
 ## >> 数字尾巴 
   - DOMAIN,www.dgtle.com  
-  - DOMAIN-SUFFIX,dgtle.com  
+  - DOMAIN-SUFFIX,dgtle.com
+## >> 高合 
+  - DOMAIN,www.hiphi.com 
+  - DOMAIN-SUFFIX,hiphi.com 
 ## >> Other
   - DOMAIN-SUFFIX,zdmimg.com
   - DOMAIN-SUFFIX,danghuan.com
