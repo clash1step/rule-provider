@@ -249,6 +249,8 @@ payload:
 ## >> 高合 
   - DOMAIN,www.hiphi.com 
   - DOMAIN-SUFFIX,hiphi.com 
+## >> 数字货币 
+  - DOMAIN-SUFFIX,b.top
 ## >> Other
   - DOMAIN-SUFFIX,zdmimg.com
   - DOMAIN-SUFFIX,danghuan.com
