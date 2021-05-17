@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,bitcoinblockexplorers.com
   - DOMAIN-SUFFIX,blockcypher.com
   - DOMAIN-SUFFIX,bootstrapcdn.com
+  - DOMAIN-SUFFIX,coingecko.com  
 ## >> BTC
   - DOMAIN-SUFFIX,bitcoin.org
   - DOMAIN-SUFFIX,bitcointalk.org  
