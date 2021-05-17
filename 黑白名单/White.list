@@ -11,6 +11,8 @@ payload:
   - DOMAIN-SUFFIX,369110.xyz
 ## >> Elsevier 
   - DOMAIN-SUFFIX,scopus.com
+## >> hpool 
+  - DOMAIN-SUFFIX,hpool.com
 ## >> ikea
   - DOMAIN-SUFFIX,ikea.cn
   - DOMAIN-SUFFIX,ikea.com
