@@ -47,6 +47,7 @@ payload:
   - DOMAIN-SUFFIX,d1eipm3vz40hy0.cloudfront.net 
   - DOMAIN-SUFFIX,zopim.com 
   - DOMAIN-SUFFIX,binancezh.pro
+  - DOMAIN-SUFFIX,binance.vision
 ## >> Huobi Start
   - DOMAIN-SUFFIX,hbg.com
   - DOMAIN-SUFFIX,m.hbg.com
