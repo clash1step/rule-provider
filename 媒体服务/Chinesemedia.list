@@ -47,12 +47,6 @@ payload:
 ## >> letv 
   - DOMAIN-SUFFIX,api.mob.app.letv.com 
   - DOMAIN-SUFFIX,letv.com
-## >> manhuagui
-  - DOMAIN-SUFFIX,amreus.com
-  - DOMAIN-SUFFIX,anhuagui.com
-  - DOMAIN-SUFFIX,hamreus.com
-  - DOMAIN-SUFFIX,manhuagui.com
-  - DOMAIN-SUFFIX,xiaomingtaiji.net   
 ## >> ohmanhua
   - DOMAIN-SUFFIX,ackcdn.net
   - DOMAIN-SUFFIX,hmanhua.com
