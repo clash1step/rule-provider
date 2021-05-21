@@ -2,6 +2,12 @@
 ### >>> 其他国际流媒体服务
 
 payload:
+## >> manhuagui
+  - DOMAIN-SUFFIX,amreus.com
+  - DOMAIN-SUFFIX,anhuagui.com
+  - DOMAIN-SUFFIX,hamreus.com
+  - DOMAIN-SUFFIX,manhuagui.com
+  - DOMAIN-SUFFIX,xiaomingtaiji.net  
 ## >> 1024
   - DOMAIN-SUFFIX,fwymdscj.pw
   - DOMAIN-SUFFIX,99e5be8a.club
