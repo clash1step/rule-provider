@@ -20,7 +20,8 @@ payload:
 ## >> Autohome
   - DOMAIN,www.autohome.com.cn
   - DOMAIN-SUFFIX,autohome.com.cn
-  - DOMAIN-SUFFIX,autoimg.cn  
+  - DOMAIN-SUFFIX,autoimg.cn
+  - DOMAIN-SUFFIX,che168.com  
 ## >> Baidu
   - DOMAIN-SUFFIX,baidubcr.com
 ## >> Prior
