@@ -16,7 +16,6 @@ payload:
   - DOMAIN-SUFFIX,c.admob.com  
   - DOMAIN-SUFFIX,c.android.clients.google.com  
   - DOMAIN-SUFFIX,cache.pack.google.com  
-  - DOMAIN-SUFFIX,checkin.gstatic.com  
   - DOMAIN-SUFFIX,clickserve.dartsearch.net      
   - DOMAIN-SUFFIX,corp.google.com  
   - DOMAIN-SUFFIX,crl.pki.goog  
