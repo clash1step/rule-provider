@@ -22,8 +22,6 @@ payload:
   - DOMAIN-SUFFIX,autohome.com.cn
   - DOMAIN-SUFFIX,autoimg.cn
   - DOMAIN-SUFFIX,che168.com
-  - IP-CIDR,180.163.251.0/24,no-resolve
-  - IP-CIDR,180.163.222.0/24,no-resolve
 ## >> Baidu
   - DOMAIN-SUFFIX,baidubcr.com
 ## >> Prior
