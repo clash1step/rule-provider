@@ -34,6 +34,7 @@ payload:
   - DOMAIN-SUFFIX,adn.gammacdn.net 
   - DOMAIN-SUFFIX,gadservices.net  
 ## >> google
+  - DOMAIN-SUFFIX,google.cn
   - DOMAIN-SUFFIX,googleapis.cn
   - DOMAIN-SUFFIX,googleapis.com 
   - DOMAIN-SUFFIX,google.ru
