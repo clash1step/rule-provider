@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,7n.pw
   - DOMAIN-SUFFIX,hxdzpos.com
   - IP-CIDR,129.226.175.0/23,no-resolve
+  - IP-CIDR,23.237.190.0/23,no-resolve
 ## >> chinadsl
   - DOMAIN-SUFFIX,chinadsl.net
   - DOMAIN-SUFFIX,369110.xyz
