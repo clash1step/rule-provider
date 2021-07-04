@@ -176,7 +176,6 @@ payload:
   - IP-CIDR,203.205.252.0/23,no-resolve
   - IP-CIDR,203.205.254.0/23,no-resolve
 ## >> Private Tracker
-  - DOMAIN-SUFFIX,dmhy.org
   - DOMAIN-SUFFIX,animetorrents.me
   - DOMAIN-SUFFIX,beitai.pt
   - DOMAIN-SUFFIX,bittorrent.com
