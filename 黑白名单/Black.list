@@ -21,9 +21,6 @@ payload:
   - DOMAIN-SUFFIX,duboxcdn.com 
 ## >> emojiall
   - DOMAIN-SUFFIX,emojiall.com
-## >> Facebook 
-  - DOMAIN-KEYWORD,facebook
-  - DOMAIN-KEYWORD,fbcdn 
 ## >> firefox 
   - DOMAIN,detectportal.firefox.com
 ## >> friendlyduck 
