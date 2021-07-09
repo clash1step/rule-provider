@@ -1,18 +1,7 @@
 ### 2021-02-21 22:55
 ### >>> 其他国际流媒体服务
 
-payload:
-## >> manhuagui
-  - DOMAIN-SUFFIX,amreus.com
-  - DOMAIN-SUFFIX,anhuagui.com
-  - DOMAIN-SUFFIX,hamreus.com
-  - DOMAIN-SUFFIX,manhuagui.com
-  - DOMAIN-SUFFIX,xiaomingtaiji.net
-## >> ohmanhua
-  - DOMAIN-SUFFIX,ohmanhua.com
-  - DOMAIN-SUFFIX,cocomanhua.com 
-  - DOMAIN-SUFFIX,clouddata8g.xyz 
-  - DOMAIN,cdn.cocomanhua.com.cdn.cloudflare.net  
+payload: 
 ## >> 1024
   - DOMAIN-SUFFIX,fwymdscj.pw
   - DOMAIN-SUFFIX,99e5be8a.club
