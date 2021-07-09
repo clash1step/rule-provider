@@ -235,3 +235,16 @@ payload:
   - DOMAIN-SUFFIX,viu.tv   
 ## >> 动漫花园
   - IP-CIDR,8.210.170.1/24,no-resolve
+## >> manhuagui
+  - DOMAIN-SUFFIX,amreus.com
+  - DOMAIN-SUFFIX,anhuagui.com
+  - DOMAIN-SUFFIX,hamreus.com
+  - DOMAIN-SUFFIX,manhuagui.com
+  - DOMAIN-SUFFIX,xiaomingtaiji.net
+## >> cocomanhua
+  - DOMAIN-SUFFIX,cocomanhua.com
+  - DOMAIN-SUFFIX,ohmanhua.com  
+  - DOMAIN-SUFFIX,clouddata8g.xyz 
+  - DOMAIN,cdn.cocomanhua.com.cdn.cloudflare.net
+## >> xmanhua
+  - DOMAIN-SUFFIX,xmanhua.com   
