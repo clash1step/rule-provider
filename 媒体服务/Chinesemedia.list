@@ -78,9 +78,9 @@ payload:
   - DOMAIN-SUFFIX,hamreus.com
   - DOMAIN-SUFFIX,manhuagui.com
   - DOMAIN-SUFFIX,xiaomingtaiji.net
-## >> ohmanhua
-  - DOMAIN-SUFFIX,ohmanhua.com
-  - DOMAIN-SUFFIX,cocomanhua.com 
+## >> cocomanhua
+  - DOMAIN-SUFFIX,cocomanhua.com
+  - DOMAIN-SUFFIX,ohmanhua.com  
   - DOMAIN-SUFFIX,clouddata8g.xyz 
   - DOMAIN,cdn.cocomanhua.com.cdn.cloudflare.net
 ## >> xmanhua
