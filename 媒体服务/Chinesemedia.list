@@ -74,3 +74,14 @@ payload:
 ## >> WeTV
   - DOMAIN-SUFFIX,wetv.vip
   - DOMAIN-SUFFIX,wetvinfo.com  
+## >> manhuagui
+  - DOMAIN-SUFFIX,amreus.com
+  - DOMAIN-SUFFIX,anhuagui.com
+  - DOMAIN-SUFFIX,hamreus.com
+  - DOMAIN-SUFFIX,manhuagui.com
+  - DOMAIN-SUFFIX,xiaomingtaiji.net
+## >> ohmanhua
+  - DOMAIN-SUFFIX,ohmanhua.com
+  - DOMAIN-SUFFIX,cocomanhua.com 
+  - DOMAIN-SUFFIX,clouddata8g.xyz 
+  - DOMAIN,cdn.cocomanhua.com.cdn.cloudflare.net   
