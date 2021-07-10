@@ -2,6 +2,8 @@
 ### >>> 黑名单
 
 payload:
+## >> epic game
+  - DOMAIN-SUFFIX, epicgames.com
 ## >> 4K家园
   - DOMAIN-SUFFIX,4kjia.com 
 ## >> BBC
