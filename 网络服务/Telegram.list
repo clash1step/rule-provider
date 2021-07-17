@@ -81,7 +81,7 @@ payload:
   - DOMAIN-KEYWORD,Pinterest*.
   - DOMAIN-SUFFIX,pinimg.com
   - DOMAIN-SUFFIX,pinterest.com
-## >> Pinterest
+## >> slack
   - DOMAIN-KEYWORD,Slack*.
   - DOMAIN-SUFFIX,slack-edge.com
   - DOMAIN-SUFFIX,slack.com
