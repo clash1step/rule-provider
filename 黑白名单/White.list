@@ -41,6 +41,7 @@ payload:
   - DOMAIN-SUFFIX,kaidian.tv
 ## >> 规则云
   - DOMAIN-SUFFIX,yly.eatuo.com
+  - DOMAIN-SUFFIX,yly-studio.in  
 ## >> 奈非影视 
   - DOMAIN-SUFFIX,nfmovies.com
   - DOMAIN-SUFFIX,naifei.shop
