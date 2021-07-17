@@ -108,7 +108,6 @@ payload:
   - DOMAIN-SUFFIX,hulustream.com
 ## >> HuluJapan
   - DOMAIN-SUFFIX,happyon.jp
-  - DOMAIN-SUFFIX,hulu.jp
   - DOMAIN-SUFFIX,hulu.jp 
   - DOMAIN-SUFFIX,prod.hjholdings.tv
   - DOMAIN-SUFFIX,streaks.jp
