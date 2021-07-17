@@ -54,7 +54,6 @@ payload:
   
 ## >> iCloud 上传和下载
   - DOMAIN-SUFFIX,apple-cloudkit.com
-  - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,icloud-content.com
   - DOMAIN-SUFFIX,icloud.com
   - DOMAIN-SUFFIX,me.com  
