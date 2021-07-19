@@ -1,4 +1,4 @@
-### 2021-02-21 22:55
+### 2021-07-19 15:55
 ### >>> 其他国际流媒体服务
 
 payload: 
@@ -233,7 +233,11 @@ payload:
   - DOMAIN-SUFFIX,viu.now.com
   - DOMAIN-SUFFIX,viu.tv   
 ## >> 动漫花园
+  - DOMAIN-SUFFIX,u2.dmhy.org
+  - DOMAIN-SUFFIX,dmhy.org
   - IP-CIDR,8.210.170.1/24,no-resolve
+## >> TMDB
+  - DOMAIN-SUFFIX,themoviedb.org
 ## >> manhuagui
   - DOMAIN-SUFFIX,amreus.com
   - DOMAIN-SUFFIX,anhuagui.com
