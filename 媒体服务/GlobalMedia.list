@@ -236,6 +236,8 @@ payload:
   - DOMAIN-SUFFIX,u2.dmhy.org
   - DOMAIN-SUFFIX,dmhy.org
   - IP-CIDR,8.210.170.1/24,no-resolve
+## >> TMDB
+  - DOMAIN-SUFFIX,themoviedb.org
 ## >> manhuagui
   - DOMAIN-SUFFIX,amreus.com
   - DOMAIN-SUFFIX,anhuagui.com
