@@ -30,7 +30,8 @@ payload:
   - DOMAIN-SUFFIX,binance.co
   - DOMAIN-SUFFIX,binance.gg  
   - DOMAIN-SUFFIX,bnbstatic.com
-  - DOMAIN-SUFFIX,binancezh.com  
+  - DOMAIN-SUFFIX,binancezh.com
+  - DOMAIN-SUFFIX,binancezh.io
   - DOMAIN-SUFFIX,bin.bnbstatic.com
   - DOMAIN-SUFFIX,ex.bnbstatic.com
   - DOMAIN-SUFFIX,stream.binance.com
