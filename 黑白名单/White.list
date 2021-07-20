@@ -61,7 +61,8 @@ payload:
   - DOMAIN-SUFFIX,zeekrlife.com 
 ## >> hangame
   - DOMAIN-SUFFIX,hangame.com
-  - DOMAIN-SUFFIX,toast.com     
+  - DOMAIN-SUFFIX,toast.com
+  - DOMAIN-SUFFIX,toastoven.net
 ## >> other
   - DOMAIN-SUFFIX,bdcloudapi.com
   - DOMAIN-SUFFIX,pkgs.org
