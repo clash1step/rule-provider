@@ -133,9 +133,11 @@ payload:
   - DOMAIN-SUFFIX,v.heygugu.com
   - DOMAIN-SUFFIX,c.ksjsa.com
   - DOMAIN-SUFFIX,zz.bdstatic.com
-  - DOMAIN,d************.cloudfront.net
   - DOMAIN,s3.amazonaws.com
   - DOMAIN,s3t3d2y7.ackcdn.net
+  - DOMAIN-SUFFIX,dakang-energy.com
+  - DOMAIN-SUFFIX,jinrongwang.net
+  - DOMAIN-SUFFIX,myyj.net  
 #netflav
   - DOMAIN-SUFFIX,ddmax20.xyz
   - DOMAIN-SUFFIX,awaitcola.com
