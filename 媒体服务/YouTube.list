@@ -3,7 +3,6 @@
  
 payload:
 ## >> Youtube
-  - DOMAIN,api.mousegesturesapi.com
   - DOMAIN,s2.googleusercontent.com
   - DOMAIN,youtube-ui.l.google.com  
   - DOMAIN,youtubei.googleapis.com  
