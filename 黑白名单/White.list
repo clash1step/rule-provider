@@ -58,7 +58,10 @@ payload:
   - DOMAIN,h.m.mpl.dutils.com
 ## >> 极氪
   - DOMAIN,www.zeekrlife.com
-  - DOMAIN-SUFFIX,zeekrlife.com   
+  - DOMAIN-SUFFIX,zeekrlife.com 
+## >> hangame
+  - DOMAIN-SUFFIX,hangame.com
+  - DOMAIN-SUFFIX,toast.com     
 ## >> other
   - DOMAIN-SUFFIX,bdcloudapi.com
   - DOMAIN-SUFFIX,pkgs.org
