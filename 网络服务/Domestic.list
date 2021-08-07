@@ -230,8 +230,10 @@ payload:
   - DOMAIN-SUFFIX,ogitech.com  
   - DOMAIN-SUFFIX,logitech.com.cn
   - DOMAIN-SUFFIX,ogitech.com.cn
-  - DOMAIN-SUFFIX,logi.com  
+  - DOMAIN-SUFFIX,logi.com
+  - DOMAIN-SUFFIX,zdassets.com
   - DOMAIN-SUFFIX,ownload01.logi.com
+  - IP-CIDR,13.227.53.0/24,no-resolve  
 ## >> smzdm
   - DOMAIN-SUFFIX,mzdm01.wt-cn01.net
 ## >> holdle  
