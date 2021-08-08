@@ -182,6 +182,8 @@ payload:
   - DOMAIN-SUFFIX,everun.top
 ## >> 主机GET
   - DOMAIN-SUFFIX,zhujiget.com
+## >> 罗技
+  - DOMAIN,updates.logitech.com
 ## >> 众筹平台
   - DOMAIN-SUFFIX,1ckxmv4dba6s1dz21zkplqa1-wpengine.netdna-ssl.com
   - DOMAIN-SUFFIX,api.nextsale.io
