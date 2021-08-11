@@ -238,7 +238,8 @@ payload:
 ## >> smzdm
   - DOMAIN-SUFFIX,mzdm01.wt-cn01.net
 ## >> holdle  
-  - DOMAIN-SUFFIX,holdle.com  
+  - DOMAIN-SUFFIX,holdle.com 
+  - DOMAIN-SUFFIX,loli.net   
 ## >> yuanlam  
   - DOMAIN-SUFFIX,yuanlam.xyz 
 ## >> firefoxchina  
