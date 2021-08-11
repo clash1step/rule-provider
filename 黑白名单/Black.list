@@ -85,7 +85,6 @@ payload:
   - DOMAIN-SUFFIX,feedbin.com
   - DOMAIN-SUFFIX,js.stripe.com
   - DOMAIN-SUFFIX,m.stripe.network
-  - DOMAIN-SUFFIX,r3.o.lencr.org
 ## >> 科技日报
   - DOMAIN-SUFFIX,cdn.tinypass.com
   - DOMAIN-SUFFIX,consent.cmp.oath.com
