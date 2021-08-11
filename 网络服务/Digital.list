@@ -60,7 +60,9 @@ payload:
   - DOMAIN-SUFFIX,huobiasia.vip
   - DOMAIN-SUFFIX,huobi.com 
   - DOMAIN-SUFFIX,huobiglobal.zendesk.com
-  - DOMAIN-SUFFIX,hbabit.com 
+  - DOMAIN-SUFFIX,hbabit.com
+  - DOMAIN-SUFFIX,hbfile.net
+  - DOMAIN-SUFFIX,woodpeckerlog.com
 ## >> OTC Start 
   - DOMAIN-SUFFIX,chain.localbitcoins.com
   - DOMAIN-SUFFIX,otcbtc.com
