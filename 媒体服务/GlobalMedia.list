@@ -251,3 +251,6 @@ payload:
   - DOMAIN,cdn.cocomanhua.com.cdn.cloudflare.net
 ## >> xmanhua
   - DOMAIN-SUFFIX,xmanhua.com   
+ ## >> copymanga
+  - DOMAIN-SUFFIX,r3.o.lencr.org
+  - DOMAIN-SUFFIX,rsc.cdn77.org
