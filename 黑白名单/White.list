@@ -67,6 +67,8 @@ payload:
   - DOMAIN-SUFFIX,hangame.com
   - DOMAIN-SUFFIX,toast.com
   - DOMAIN-SUFFIX,toastoven.net
+## >> infinitynewtab 
+  - DOMAIN-SUFFIX,infinitynewtab.com  
 ## >> other
   - DOMAIN-SUFFIX,bdcloudapi.com
   - DOMAIN-SUFFIX,pkgs.org
