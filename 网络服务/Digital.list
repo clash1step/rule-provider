@@ -145,6 +145,5 @@ payload:
   - DOMAIN-SUFFIX,pancakeswap.info
   - DOMAIN-SUFFIX,defibit.io  
   - DOMAIN-SUFFIX,thegraph.com
-  - DOMAIN-SUFFIX,cloudflare-ipfs.com
   - DOMAIN-SUFFIX,streamingfast.io
   - DOMAIN-SUFFIX,pinata.cloud
