@@ -147,3 +147,5 @@ payload:
   - DOMAIN-SUFFIX,thegraph.com
   - DOMAIN-SUFFIX,streamingfast.io
   - DOMAIN-SUFFIX,pinata.cloud
+## >> pancake
+  - DOMAIN-SUFFIX,dextools.io
