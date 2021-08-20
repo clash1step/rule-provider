@@ -149,3 +149,6 @@ payload:
   - DOMAIN-SUFFIX,pinata.cloud
 ## >> pancake
   - DOMAIN-SUFFIX,dextools.io
+## >> feixiaohao
+  - DOMAIN,www.feixiaohao.cc  
+  - DOMAIN-SUFFIX,feixiaohao.cc  
