@@ -213,6 +213,7 @@ payload:
   - DOMAIN-SUFFIX,olevod.com
   - DOMAIN-SUFFIX,olevod.tv
   - DOMAIN-SUFFIX,a-wing.top
+  - DOMAIN-SUFFIX,ddmmg.com
   - IP-CIDR,14.118.246.0/24,no-resolve  
   - IP-CIDR,121.51.68.0/24,no-resolve  
   - IP-CIDR,121.51.175.0/24,no-resolve  
