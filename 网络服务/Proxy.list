@@ -729,6 +729,8 @@ payload:
   - DOMAIN-SUFFIX,nordstromimage.com
   - DOMAIN-SUFFIX,nordstromrack.com
   - DOMAIN-SUFFIX,notion.so
+  - DOMAIN-SUFFIX,revenuecat.com
+  - DOMAIN-SUFFIX,loggly.com
   - DOMAIN-SUFFIX,novafile.com
   - DOMAIN-SUFFIX,now.com
   - DOMAIN-SUFFIX,now.im
