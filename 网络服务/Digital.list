@@ -151,4 +151,7 @@ payload:
   - DOMAIN-SUFFIX,dextools.io
 ## >> feixiaohao
   - DOMAIN,www.feixiaohao.cc  
-  - DOMAIN-SUFFIX,feixiaohao.cc  
+  - DOMAIN-SUFFIX,feixiaohao.cc 
+  - DOMAIN,www.feixiaohao.co
+  - DOMAIN-SUFFIX,feixiaohao.co 
+  - DOMAIN-SUFFIX,fxhapp.com
