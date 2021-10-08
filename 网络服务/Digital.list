@@ -147,7 +147,7 @@ payload:
   - DOMAIN-SUFFIX,thegraph.com
   - DOMAIN-SUFFIX,streamingfast.io
   - DOMAIN-SUFFIX,pinata.cloud
-## >> pancake
+## >> dextools
   - DOMAIN-SUFFIX,dextools.io
 ## >> feixiaohao
   - DOMAIN,www.feixiaohao.cc  
