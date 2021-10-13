@@ -155,3 +155,5 @@ payload:
   - DOMAIN,www.feixiaohao.co
   - DOMAIN-SUFFIX,feixiaohao.co 
   - DOMAIN-SUFFIX,fxhapp.com
+## >> safepal
+  - DOMAIN-SUFFIX,isafepal.com
