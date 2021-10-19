@@ -31,7 +31,10 @@ payload:
   - DOMAIN-SUFFIX,YouTubeMusic.com
   - DOMAIN-SUFFIX,google.YouTubeMusic.com
   - DOMAIN-SUFFIX,ios.google.YouTubeMusic.com
-  - DOMAIN-SUFFIX,android.google.YouTubeMusic.com  
+  - DOMAIN-SUFFIX,android.google.YouTubeMusic.com
+  - DOMAIN-SUFFIX,google.android.apps.youtube.music
+  - DOMAIN-SUFFIX,google.android.youtube.tvmusicroot
+  - DOMAIN-SUFFIX,vanced.android.apps.youtube.music
 ## >> YouTube kids
   - DOMAIN-SUFFIX,youtubekids.com
  
