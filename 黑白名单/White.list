@@ -2,6 +2,9 @@
 ### >>> 白名单
 
 payload:
+## >> rule cloud
+  - DOMAIN,077582580.xyz
+  - DOMAIN-SUFFIX,077582580.xyz
 ## >> Biu
   - DOMAIN-SUFFIX,johnita.vip
 ## >> J
