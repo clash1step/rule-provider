@@ -211,13 +211,7 @@ payload:
   - IP-CIDR,202.171.253.69/16,no-resolve
 ## >> TED
   - DOMAIN-SUFFIX,ted.com
-  - DOMAIN-SUFFIX,tedcdn.com
-## >> TikTok
-  - DOMAIN-KEYWORD,tiktokcdn
-  - DOMAIN-SUFFIX,muscdn.com
-  - DOMAIN-SUFFIX,musical.ly
-  - DOMAIN-SUFFIX,tiktokv.com
-  - DOMAIN-SUFFIX,tiktokcdn.com 
+  - DOMAIN-SUFFIX,tedcdn.com 
 ## >> ViuTV
   - DOMAIN,cognito-identity.us-east-1.amazonaws.com
   - DOMAIN,mobileanalytics.us-east-1.amazonaws.com
@@ -262,7 +256,7 @@ payload:
   - DOMAIN-SUFFIX,ibytedtos.com
   - DOMAIN-SUFFIX,ibyteimg.com
   - DOMAIN-SUFFIX,ipstatp.com
-  - DOMAIN-SUFFIX,muscdn.com
+  - DOMAIN-SUFFIX,muscdn.com 
   - DOMAIN-SUFFIX,musical.ly
   - DOMAIN-SUFFIX,sgpstatp.com
   - DOMAIN-SUFFIX,snssdk.com
@@ -274,4 +268,5 @@ payload:
   - DOMAIN-KEYWORD,musical.ly
   - DOMAIN-KEYWORD,tiktok
   - DOMAIN-KEYWORD,tiktokv
+  - DOMAIN-KEYWORD,tiktokcdn  
   - PROCESS-NAME,com.zhiliaoapp.musically
