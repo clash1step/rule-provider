@@ -22,7 +22,6 @@ payload:
   - DOMAIN-SUFFIX,delivery.mp.microsoft.com
   - DOMAIN-SUFFIX,displaycatalog.mp.microsoft.com
   - DOMAIN-SUFFIX,dlassets-ssl.xboxlive.com  
-  - DOMAIN-SUFFIX,dmd.metaservices.microsoft.com
   - DOMAIN-SUFFIX,ecs.office.com
   - DOMAIN-SUFFIX,emdl.ws.microsoft.com
   - DOMAIN-SUFFIX,evoke-windowsservices-tas.msedge.net  
