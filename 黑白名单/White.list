@@ -5,6 +5,7 @@ payload:
 ## >> rule cloud
   - DOMAIN,077582580.xyz
   - DOMAIN-SUFFIX,077582580.xyz
+  - IP-CIDR,47.242.31.246/24,no-resolve  
 ## >> Biu
   - DOMAIN-SUFFIX,johnita.vip
 ## >> J
