@@ -1125,6 +1125,7 @@ payload:
   - DOMAIN-SUFFIX,zalmos.com
   - DOMAIN-SUFFIX,zaobao.com
   - DOMAIN-SUFFIX,zaobao.com.sg
+  - IP-CIDR,47.75.19.0/24,no-resolve  
   - DOMAIN-SUFFIX,popin.cc  
   - DOMAIN-SUFFIX,getai.sg  
   - DOMAIN-SUFFIX,zattoo.com
