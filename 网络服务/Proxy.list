@@ -1143,7 +1143,8 @@ payload:
   - DOMAIN-SUFFIX,jwplayer.com
   - DOMAIN-SUFFIX,rtings.com
   - DOMAIN-SUFFIX,ss2.us 
-  - DOMAIN-SUFFIX,identrust.com   
+  - DOMAIN-SUFFIX,identrust.com
+  - DOMAIN-SUFFIX,hcaptcha.com   
   - DOMAIN,api.steampowered.com
   - DOMAIN,cn.nytimes.com
   - DOMAIN,store.steampowered.com
