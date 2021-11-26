@@ -154,7 +154,8 @@ payload:
   - DOMAIN-SUFFIX,pornimg.xyz 
   - DOMAIN-SUFFIX,asianclub.tv
   - DOMAIN-SUFFIX,avple.video
-  - DOMAIN-SUFFIX,sbvideocdn.com  
+  - DOMAIN-SUFFIX,sbvideocdn.com 
+  - DOMAIN-SUFFIX,img.yescumplease.com
   - DOMAIN-SUFFIX,7mmtv.tv
   - DOMAIN-SUFFIX,dmm.co.jp
   - DOMAIN-SUFFIX,twilio.com
@@ -197,6 +198,7 @@ payload:
   - DOMAIN-SUFFIX,dmm.co.jp
   - DOMAIN-SUFFIX,ppp.contentdef.com
   - DOMAIN-SUFFIX,javbus.com
+  - DOMAIN-SUFFIX,javtxt.com  
   - DOMAIN-SUFFIX,jav321.com
   - DOMAIN-SUFFIX,picsuperfast.xyz
   - DOMAIN-SUFFIX,streamsb.net
