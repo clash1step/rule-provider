@@ -156,6 +156,9 @@ payload:
   - DOMAIN-SUFFIX,avple.video
   - DOMAIN-SUFFIX,sbvideocdn.com 
   - DOMAIN-SUFFIX,img.yescumplease.com
+  - DOMAIN-SUFFIX,dood.watch
+  - DOMAIN-SUFFIX,doodcdn.com
+  - DOMAIN-SUFFIX,dood.video
   - DOMAIN-SUFFIX,7mmtv.tv
   - DOMAIN-SUFFIX,dmm.co.jp
   - DOMAIN-SUFFIX,twilio.com
