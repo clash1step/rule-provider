@@ -158,7 +158,9 @@ payload:
   - DOMAIN-SUFFIX,img.yescumplease.com
   - DOMAIN-SUFFIX,dood.watch
   - DOMAIN-SUFFIX,doodcdn.com
-  - DOMAIN-SUFFIX,dood.video
+  - DOMAIN-SUFFIX,7vid.net
+  - DOMAIN-SUFFIX,vidoza.net
+  - DOMAIN-SUFFIX,vidoza.net  
   - DOMAIN-SUFFIX,7mmtv.tv
   - DOMAIN-SUFFIX,dmm.co.jp
   - DOMAIN-SUFFIX,twilio.com
@@ -207,7 +209,6 @@ payload:
   - DOMAIN-SUFFIX,streamsb.net
   - DOMAIN-SUFFIX,streamsb.com  
   - DOMAIN,static-ppp.portalcdn.com
-  - DOMAIN-SUFFIX,vidoza.net
   - IP-CIDR,202.247.187.211/16,no-resolve
   - IP-CIDR,172.247.187.211/16,no-resolve
   - IP-CIDR,138.128.27.218/16,no-resolve
