@@ -164,7 +164,9 @@ payload:
   - DOMAIN-SUFFIX,7mmtv.tv
   - DOMAIN-SUFFIX,dmm.co.jp
   - DOMAIN-SUFFIX,twilio.com
-  - DOMAIN-SUFFIX,fvs.io  
+  - DOMAIN-SUFFIX,fvs.io 
+  - DOMAIN-SUFFIX,streamtape.com
+  - DOMAIN-SUFFIX,embedgram.com
   - DOMAIN-SUFFIX,ff-01.com
   - DOMAIN-SUFFIX,ff-02.com
   - DOMAIN-SUFFIX,ff-03.com
