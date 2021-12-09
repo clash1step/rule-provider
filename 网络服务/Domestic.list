@@ -13,6 +13,8 @@ payload:
   - DOMAIN-SUFFIX,alicdn.com  
   - DOMAIN-SUFFIX,tbcdn.com
   - DOMAIN-SUFFIX,tmall.hk
+## >> jd
+  - DOMAIN-SUFFIX,jd.hk
 ## >> Amazon
   - DOMAIN-SUFFIX,*-cn.amazon.com  
   - DOMAIN-SUFFIX,fls-cn.amazon.com
