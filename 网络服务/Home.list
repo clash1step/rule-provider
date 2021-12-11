@@ -1,0 +1,11 @@
+### 2021-02-22 00:15
+### >>> 内网保留地址
+
+payload:
+# > Lan
+  - DOMAIN-SUFFIX,plex.direct
+  - IP-CIDR,10.10.10.100/32,no-resolve
+  - IP-CIDR,10.10.10.99/32,no-resolve
+  - IP-CIDR,10.10.10.98/32,no-resolve
+  - IP-CIDR,10.10.10.97/32,no-resolve
+  - IP-CIDR,10.10.10.96/32,no-resolve
