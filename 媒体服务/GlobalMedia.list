@@ -196,7 +196,9 @@ payload:
   - DOMAIN-SUFFIX,91p48.com
   - DOMAIN-SUFFIX,91p52.com
   - DOMAIN-SUFFIX,91p07.com
-  - DOMAIN-SUFFIX,91p49.com  
+  - DOMAIN-SUFFIX,91p49.com
+  - DOMAIN-SUFFIX,91p51.com
+  - DOMAIN-SUFFIX,killcovid2021.com  
   - DOMAIN-SUFFIX,jquery.com
   - DOMAIN-SUFFIX,t6k.co
   - DOMAIN-SUFFIX,xvideos.com
