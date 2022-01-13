@@ -22,7 +22,10 @@ payload:
   - DOMAIN-SUFFIX,coingecko.com  
 ## >> BTC
   - DOMAIN-SUFFIX,bitcoin.org
-  - DOMAIN-SUFFIX,bitcointalk.org  
+  - DOMAIN-SUFFIX,bitcointalk.org 
+## >> pexpay
+  - DOMAIN-SUFFIX,pexpay.com
+  - DOMAIN-SUFFIX,saasexch.com
 ## >> Binance Start
   - DOMAIN-SUFFIX,resource.binance.com
   - DOMAIN-SUFFIX,binance.com
