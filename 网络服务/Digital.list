@@ -49,6 +49,10 @@ payload:
   - DOMAIN-SUFFIX,zopim.com 
   - DOMAIN-SUFFIX,binancezh.pro
   - DOMAIN-SUFFIX,binance.vision
+  - DOMAIN-SUFFIX,bnappzh.cc
+  - DOMAIN-SUFFIX,binance.me
+  - DOMAIN-SUFFIX,binance.im
+  - DOMAIN-SUFFIX,bntrace.com
 ## >> Huobi Start
   - DOMAIN-SUFFIX,hbg.com
   - DOMAIN-SUFFIX,m.hbg.com
