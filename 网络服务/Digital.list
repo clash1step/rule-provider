@@ -53,7 +53,8 @@ payload:
   - DOMAIN-SUFFIX,binance.me
   - DOMAIN-SUFFIX,binance.im
   - DOMAIN-SUFFIX,bntrace.com
-  - DOMAIN-SUFFIX,binancezh.top  
+  - DOMAIN-SUFFIX,binancezh.top
+  - DOMAIN-SUFFIX,yshyqxx.com
 ## >> Huobi Start
   - DOMAIN-SUFFIX,hbg.com
   - DOMAIN-SUFFIX,m.hbg.com
