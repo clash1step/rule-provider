@@ -3,7 +3,8 @@
 
 payload:
 ## >> 普拉斯影业
-  - DOMAIN-SUFFIX, xeton.dev
+  - DOMAIN-SUFFIX,plusmedia.site 
+  - DOMAIN-SUFFIX,xeton.dev  
   - IP-CIDR,38.94.109.0/24,no-resolve
   - IP-CIDR,38.94.111.0/24,no-resolve  
 ## >> epic game
