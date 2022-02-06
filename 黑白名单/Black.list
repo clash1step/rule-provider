@@ -4,7 +4,8 @@
 payload:
 ## >> 普拉斯影业
   - DOMAIN-SUFFIX, xeton.dev
-  - IP-CIDR,38.94.109.0/24,no-resolve 
+  - IP-CIDR,38.94.109.0/24,no-resolve
+  - IP-CIDR,38.94.111.0/24,no-resolve  
 ## >> epic game
   - DOMAIN-SUFFIX, epicgames.com
 ## >> 4K家园
