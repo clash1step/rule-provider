@@ -163,5 +163,17 @@ payload:
   - DOMAIN,www.feixiaohao.co
   - DOMAIN-SUFFIX,feixiaohao.co 
   - DOMAIN-SUFFIX,fxhapp.com
-## >> safepal
-  - DOMAIN-SUFFIX,isafepal.com
+## >> opensec
+  - DOMAIN-SUFFIX,opencc.xyz
+  - DOMAIN-SUFFIX,avesp.xyz
+  - DOMAIN-SUFFIX,avedex.cc
+  - DOMAIN-SUFFIX,exapi.io
+## >> ftx
+  - DOMAIN-SUFFIX,ftx.com
+## >> ftx 
+- DOMAIN-SUFFIX,gocoin.link
+- DOMAIN-SUFFIX,gateio.com
+- DOMAIN-SUFFIX,gateio.vc
+- DOMAIN-SUFFIX,gateio.fm
+- DOMAIN-SUFFIX,gateio.live
+- DOMAIN-SUFFIX,gaterelay.com
