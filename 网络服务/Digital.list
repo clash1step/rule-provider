@@ -169,12 +169,12 @@ payload:
   - DOMAIN-SUFFIX,avedex.cc
   - DOMAIN-SUFFIX,exapi.io
 ## >> ftx
-- DOMAIN-SUFFIX,ftx.com
+  - DOMAIN-SUFFIX,ftx.com
 ## >> ftx 
-- DOMAIN-SUFFIX,gettoby.com
-- DOMAIN-SUFFIX,gocoin.link
-- DOMAIN-SUFFIX,gateio.com
-- DOMAIN-SUFFIX,gateio.vc
-- DOMAIN-SUFFIX,gateio.fm
-- DOMAIN-SUFFIX,gateio.live
-- DOMAIN-SUFFIX,gaterelay.com
+  - DOMAIN-SUFFIX,gettoby.com
+  - DOMAIN-SUFFIX,gocoin.link
+  - DOMAIN-SUFFIX,gateio.com
+  - DOMAIN-SUFFIX,gateio.vc
+  - DOMAIN-SUFFIX,gateio.fm
+  - DOMAIN-SUFFIX,gateio.live
+  - DOMAIN-SUFFIX,gaterelay.com
