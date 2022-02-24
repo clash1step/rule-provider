@@ -169,7 +169,7 @@ payload:
   - DOMAIN-SUFFIX,avedex.cc
   - DOMAIN-SUFFIX,exapi.io
 ## >> ftx
-  - DOMAIN-SUFFIX,ftx.com
+- DOMAIN-SUFFIX,ftx.com
 ## >> ftx 
 - DOMAIN-SUFFIX,gettoby.com
 - DOMAIN-SUFFIX,gocoin.link
