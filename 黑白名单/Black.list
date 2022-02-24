@@ -204,6 +204,7 @@ payload:
   - DOMAIN-SUFFIX,widget.intercom.io
 ## >> work
   - IP-CIDR,45.35.198.0/24,no-resolve
+  - DOMAIN-SUFFIX,gettoby.com  
 ## >> other
   - DOMAIN-SUFFIX,hdupt.com
   - DOMAIN-SUFFIX,lala.im
