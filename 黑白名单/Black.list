@@ -203,7 +203,7 @@ payload:
   - DOMAIN-SUFFIX,ksr-ugc.imgix.net
   - DOMAIN-SUFFIX,widget.intercom.io
 ## >> work
-  - IP-CIDR,45.35.0.232/24,no-resolve
+  - IP-CIDR,45.35.198.0/24,no-resolve
 ## >> other
   - DOMAIN-SUFFIX,hdupt.com
   - DOMAIN-SUFFIX,lala.im
