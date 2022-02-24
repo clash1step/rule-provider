@@ -171,6 +171,7 @@ payload:
 ## >> ftx
   - DOMAIN-SUFFIX,ftx.com
 ## >> ftx 
+- DOMAIN-SUFFIX,gettoby.com
 - DOMAIN-SUFFIX,gocoin.link
 - DOMAIN-SUFFIX,gateio.com
 - DOMAIN-SUFFIX,gateio.vc
