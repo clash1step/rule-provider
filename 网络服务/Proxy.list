@@ -129,6 +129,8 @@ payload:
   - IP-CIDR,129.134.0.0/17,no-resolve
   - IP-CIDR,103.4.96.0/22,no-resolve
   - IP-CIDR,185.60.216.36/24,no-resolve
+# > discord 
+  - DOMAIN-SUFFIX,discord.com
 # > firfox
   - DOMAIN-SUFFIX,mozilla.com 
   - DOMAIN-SUFFIX,mozilla.org  
