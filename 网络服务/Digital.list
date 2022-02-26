@@ -28,6 +28,7 @@ payload:
   - DOMAIN-SUFFIX,saasexch.com
 ## >> Binance Start
   - DOMAIN-SUFFIX,binancezh.top
+  - DOMAIN-SUFFIX,bnappzh.co
   - DOMAIN-SUFFIX,resource.binance.com
   - DOMAIN-SUFFIX,binance.com
   - DOMAIN-SUFFIX,binance.cloud
