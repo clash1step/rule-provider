@@ -74,7 +74,6 @@ payload:
 ## >> infinitynewtab 
   - DOMAIN-SUFFIX,infinitynewtab.com 
 ## >> Binance china
-  - DOMAIN-SUFFIX,binancezh.top
   - DOMAIN-SUFFIX,yshyqxx.com  
 ## >> other
   - DOMAIN-SUFFIX,bdcloudapi.com
