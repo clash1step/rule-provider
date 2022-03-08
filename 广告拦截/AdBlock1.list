@@ -2,53 +2,6 @@
 ### >>> 广告域名
 
 payload:
-  - DOMAIN-KEYWORD,admaster
-  - DOMAIN-KEYWORD,admdfs
-  - DOMAIN-KEYWORD,adnewnc
-  - DOMAIN-KEYWORD,adsage 
-  - DOMAIN-KEYWORD,adsame
-  - DOMAIN-KEYWORD,adsensor
-  - DOMAIN-KEYWORD,adserver
-  - DOMAIN-KEYWORD,adsrvmedia
-  - DOMAIN-KEYWORD,adsystem
-  - DOMAIN-KEYWORD,adsmogo
-  - DOMAIN-KEYWORD,adsserving
-  - DOMAIN-KEYWORD,advert
-  - DOMAIN-KEYWORD,adwords
-  - DOMAIN-KEYWORD,allyes
-  - DOMAIN-KEYWORD,analysis
-  - DOMAIN-KEYWORD,analysys
-  - DOMAIN-KEYWORD,applovin
-  - DOMAIN-KEYWORD,appsflyer
-  - DOMAIN-KEYWORD,dnserror
-  - DOMAIN-KEYWORD,domob
-  - DOMAIN-KEYWORD,duomeng
-  - DOMAIN-KEYWORD,dwtrack
-  - DOMAIN-KEYWORD,fenxi
-  - DOMAIN-KEYWORD,guanggao
-  - DOMAIN-KEYWORD,inmobi
-  - DOMAIN-KEYWORD,lianmeng
-  - DOMAIN-KEYWORD,mobaders
-  - DOMAIN-KEYWORD,omgmta
-  - DOMAIN-KEYWORD,omniture
-  - DOMAIN-KEYWORD,openx
-  - DOMAIN-KEYWORD,partnerad
-  - DOMAIN-KEYWORD,securepubads
-  - DOMAIN-KEYWORD,socdm
-  - DOMAIN-KEYWORD,supersonicads
-  - DOMAIN-KEYWORD,taboola
-  - DOMAIN-KEYWORD,uedas
-  - DOMAIN-KEYWORD,umtrack
-  - DOMAIN-KEYWORD,uploadMobileData
-  - DOMAIN-KEYWORD,wlmonitor
-  - DOMAIN-KEYWORD,zjtoolbar
-  - DOMAIN-KEYWORD,wolleh 
-  - DOMAIN-KEYWORD,d10lumateci472
-  - DOMAIN-KEYWORD,d227cncaprzd7y
-  - DOMAIN-KEYWORD,d1fs2ef81chg3
-  - DOMAIN-KEYWORD,dita6jhhqwoiz
-  - DOMAIN-KEYWORD,d37abonb6ucrhx
-  - DOMAIN-KEYWORD,d1f05vr3sjsuy7
 #manhuagui
   - DOMAIN-SUFFIX,3a4b5c.com
   - DOMAIN-SUFFIX,349upload.3a4b5c.com
@@ -376,6 +329,7 @@ payload:
 #知到
   - DOMAIN-SUFFIX,app-advertise.zhihuishu.com
 #other
+  - DOMAIN-SUFFIX,gameanalytics.com
   - DOMAIN-SUFFIX,abema-adx.ameba.jp
   - DOMAIN-SUFFIX,ad-channel.woyeahgo.tk
   - DOMAIN-SUFFIX,ad-cn.jovcloud.com
