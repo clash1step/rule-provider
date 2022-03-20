@@ -172,7 +172,7 @@ payload:
   - DOMAIN-SUFFIX,exapi.io
 ## >> ftx
   - DOMAIN-SUFFIX,ftx.com
-## >> ftx 
+## >> gateio 
   - DOMAIN-SUFFIX,gettoby.com
   - DOMAIN-SUFFIX,gocoin.link
   - DOMAIN-SUFFIX,gateio.com
@@ -180,3 +180,6 @@ payload:
   - DOMAIN-SUFFIX,gateio.fm
   - DOMAIN-SUFFIX,gateio.live
   - DOMAIN-SUFFIX,gaterelay.com
+## >> nftgo
+  - DOMAIN-SUFFIX,unpkg.com
+  - DOMAIN-SUFFIX,nftgo.io
