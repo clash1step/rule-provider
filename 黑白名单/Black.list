@@ -58,7 +58,6 @@ payload:
 ## >> SKYPE
   - DOMAIN-SUFFIX,secure.skypeassets.com
 ## >> transferwise
-  - DOMAIN-SUFFIX,nav.smartscreen.microsoft.com
   - DOMAIN-SUFFIX,prf.hn
   - DOMAIN-SUFFIX,transferwise.com
 ## >> Twitter
