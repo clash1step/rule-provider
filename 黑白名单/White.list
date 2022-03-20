@@ -2,6 +2,10 @@
 ### >>> 白名单
 
 payload:
+## >> Binance china
+  - DOMAIN-SUFFIX,yshyqxx.com 
+  - DOMAIN-SUFFIX,binancezh.jp
+  - IP-CIDR,47.75.98.0/24,no-resolve
 ## >> rule cloud
   - DOMAIN,077582580.xyz
   - DOMAIN-SUFFIX,077582580.xyz
@@ -72,9 +76,7 @@ payload:
   - DOMAIN-SUFFIX,toast.com
   - DOMAIN-SUFFIX,toastoven.net
 ## >> infinitynewtab 
-  - DOMAIN-SUFFIX,infinitynewtab.com 
-## >> Binance china
-  - DOMAIN-SUFFIX,yshyqxx.com  
+  - DOMAIN-SUFFIX,infinitynewtab.com  
 ## >> other
   - DOMAIN-SUFFIX,bdcloudapi.com
   - DOMAIN-SUFFIX,pkgs.org
