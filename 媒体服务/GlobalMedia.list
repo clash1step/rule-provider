@@ -192,7 +192,8 @@ payload:
   - DOMAIN,old.workgreat11.live
   - DOMAIN-SUFFIX,jquery.com
   - DOMAIN-SUFFIX,91porn.com
-  - DOMAIN-SUFFIX,91p**.com  
+  - DOMAIN-SUFFIX,91p**.com
+  - DOMAIN-SUFFIX,91p47.com
   - DOMAIN-SUFFIX,91p48.com
   - DOMAIN-SUFFIX,91p52.com
   - DOMAIN-SUFFIX,91p07.com
