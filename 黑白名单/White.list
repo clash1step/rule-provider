@@ -76,7 +76,10 @@ payload:
   - DOMAIN-SUFFIX,toast.com
   - DOMAIN-SUFFIX,toastoven.net
 ## >> infinitynewtab 
-  - DOMAIN-SUFFIX,infinitynewtab.com  
+  - DOMAIN-SUFFIX,infinitynewtab.com 
+## >> copymanga 
+  - DOMAIN-SUFFIX,copymanga.org
+  - DOMAIN-SUFFIX,mirror77.mangafuna.xyz 
 ## >> other
   - DOMAIN-SUFFIX,bdcloudapi.com
   - DOMAIN-SUFFIX,pkgs.org
