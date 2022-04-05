@@ -81,6 +81,7 @@ payload:
   - DOMAIN-SUFFIX,copymanga.org
   - DOMAIN-SUFFIX,mangafuna.xyz
   - DOMAIN-SUFFIX,cdn.bootcdn.net
+  - DOMAIN-SUFFIX,cdn.bootcdn.net.cdn.cloudflare.net
 ## >> other
   - DOMAIN-SUFFIX,bdcloudapi.com
   - DOMAIN-SUFFIX,pkgs.org
