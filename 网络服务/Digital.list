@@ -183,3 +183,8 @@ payload:
 ## >> nftgo
   - DOMAIN-SUFFIX,unpkg.com
   - DOMAIN-SUFFIX,nftgo.io
+## >> 财经网
+  - DOMAIN-SUFFIX,dailyfxasia.com
+  - DOMAIN-SUFFIX,dailyfx.com.hk
+## >> 财经网
+  - DOMAIN-SUFFIX,macromicro.me
