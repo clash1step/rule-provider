@@ -191,3 +191,5 @@ payload:
   - DOMAIN-SUFFIX,dailyfx.com.hk
 ## >> 财经网
   - DOMAIN-SUFFIX,macromicro.me
+## >> Aicion
+  - DOMAIN-SUFFIX,aicoin.com
