@@ -202,6 +202,7 @@ payload:
   - DOMAIN-SUFFIX,ksr-ugc.imgix.net
   - DOMAIN-SUFFIX,widget.intercom.io 
 ## >> other
+  - DOMAIN-SUFFIX,nanocrawler.cc
   - DOMAIN-SUFFIX,hdupt.com
   - DOMAIN-SUFFIX,lala.im
   - DOMAIN-SUFFIX,post76.hk
