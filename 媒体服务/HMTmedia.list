@@ -8,7 +8,8 @@ payload:
   - DOMAIN-SUFFIX,gamer.com.tw  
   - DOMAIN-SUFFIX,gamer.com
   - DOMAIN-SUFFIX,hinet.net
-  - DOMAIN-SUFFIX,ipify.org  
+  - DOMAIN-SUFFIX,ipify.org 
+  - DOMAIN-SUFFIX,anime1.me   
   - DOMAIN,gamer-cds.cdn.hinet.net
   - DOMAIN,gamer2-cds.cdn.hinet.net
   - DOMAIN,xx.fbcdn.net
