@@ -249,12 +249,6 @@ payload:
   - DOMAIN-SUFFIX,hamreus.com
   - DOMAIN-SUFFIX,manhuagui.com
   - DOMAIN-SUFFIX,xiaomingtaiji.net
-## >> cocomanhua
-  - DOMAIN-SUFFIX,cocomanhua.com
-  - DOMAIN-SUFFIX,cocomanga.com 
-  - DOMAIN-SUFFIX,ohmanhua.com   
-  - DOMAIN-SUFFIX,clouddata8g.xyz 
-  - DOMAIN,cdn.cocomanhua.com.cdn.cloudflare.net
 ## >> manga2020
   - DOMAIN-SUFFIX,manga2020.com   
 ## >> xmanhua
