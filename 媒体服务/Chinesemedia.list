@@ -77,4 +77,5 @@ payload:
   - DOMAIN-SUFFIX,cocomanga.com 
   - DOMAIN-SUFFIX,ohmanhua.com   
   - DOMAIN-SUFFIX,clouddata8g.xyz 
-  - DOMAIN,cdn.cocomanhua.com.cdn.cloudflare.net  
+  - DOMAIN,cdn.cocomanhua.com.cdn.cloudflare.net
+  - DOMAIN-SUFFIX,vouninked.com
