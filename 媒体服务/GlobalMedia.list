@@ -1,7 +1,11 @@
 ### 2021-07-19 15:55
 ### >>> 其他国际流媒体服务
 
-payload: 
+payload:
+## >> cocomanhua
+  - DOMAIN-SUFFIX,cocomanga.com
+  - DOMAIN-SUFFIX,iyunys.com
+  - DOMAIN-SUFFIX,acloudmerge.com
 ## >> 1024
   - DOMAIN-SUFFIX,fwymdscj.pw
   - DOMAIN-SUFFIX,99e5be8a.club
