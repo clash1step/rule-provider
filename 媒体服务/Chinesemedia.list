@@ -73,9 +73,6 @@ payload:
   - DOMAIN-SUFFIX,wetv.vip
   - DOMAIN-SUFFIX,wetvinfo.com
 ## >> cocomanhua
-  - DOMAIN-SUFFIX,cocomanhua.com
-  - DOMAIN-SUFFIX,cocomanga.com 
-  - DOMAIN-SUFFIX,ohmanhua.com   
-  - DOMAIN-SUFFIX,clouddata8g.xyz 
-  - DOMAIN,cdn.cocomanhua.com.cdn.cloudflare.net
-  - DOMAIN-SUFFIX,vouninked.com
+  - DOMAIN-SUFFIX,cocomanga.com
+  - DOMAIN-SUFFIX,iyunys.com
+  - DOMAIN-SUFFIX,acloudmerge.com
