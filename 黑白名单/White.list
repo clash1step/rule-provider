@@ -1,12 +1,7 @@
 ### 2021-06-14 19:00
 ### >>> 白名单
 
-payload:
-## >> cocomanga
-  - DOMAIN-SUFFIX,cocomanga.com
-  - DOMAIN-SUFFIX,acloudmerge.com
-  - DOMAIN-SUFFIX,cloudflare.com
-  - DOMAIN-SUFFIX,hcaptcha.com 
+payload: 
 ## >> Binance china
   - DOMAIN-SUFFIX,yshyqxx.com 
   - DOMAIN-SUFFIX,binancezh.jp
