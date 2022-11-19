@@ -5,8 +5,6 @@ payload:
 ## >> cocomanga
   - DOMAIN-SUFFIX,cocomanga.com
   - DOMAIN-SUFFIX,acloudmerge.com
-  - DOMAIN-SUFFIX,cloudflare.com
-  - DOMAIN-SUFFIX,hcaptcha.com
 ## >> 1024
   - DOMAIN-SUFFIX,fwymdscj.pw
   - DOMAIN-SUFFIX,99e5be8a.club
