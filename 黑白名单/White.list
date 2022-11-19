@@ -1,7 +1,10 @@
 ### 2021-06-14 19:00
 ### >>> 白名单
 
-payload: 
+payload:
+## >> cloudflare
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,hcaptcha.com
 ## >> Binance china
   - DOMAIN-SUFFIX,yshyqxx.com 
   - DOMAIN-SUFFIX,binancezh.jp
