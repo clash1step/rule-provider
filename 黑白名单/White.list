@@ -7,7 +7,8 @@ payload:
   - DOMAIN-SUFFIX,acloudmerge.com
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,hcaptcha.com 
-  - DOMAIN-SUFFIX,googletagmanager.com 
+  - DOMAIN-SUFFIX,googletagmanager.com
+  - DOMAIN,www.googletagmanager.com  
 ## >> Binance china
   - DOMAIN-SUFFIX,yshyqxx.com 
   - DOMAIN-SUFFIX,binancezh.jp
