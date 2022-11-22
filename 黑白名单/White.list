@@ -2,9 +2,6 @@
 ### >>> 白名单
 
 payload:
-## >> cloudflare
-  - DOMAIN-SUFFIX,cloudflare.com
-  - DOMAIN-SUFFIX,hcaptcha.com
 ## >> Binance china
   - DOMAIN-SUFFIX,yshyqxx.com 
   - DOMAIN-SUFFIX,binancezh.jp
