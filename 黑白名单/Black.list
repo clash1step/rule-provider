@@ -2,6 +2,8 @@
 ### >>> 黑名单
 
 payload:
+## >> emotn
+  - DOMAIN-SUFFIX,keeflys.com
 ## >> 普拉斯影业
   - DOMAIN-SUFFIX,plusmedia.site 
   - DOMAIN-SUFFIX,xeton.dev  
