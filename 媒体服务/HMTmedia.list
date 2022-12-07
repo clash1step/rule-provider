@@ -17,7 +17,10 @@ payload:
   - DOMAIN,bahamut.akamaized.net 
   - IP-CIDR,104.16.182.0/24,no-resolve
   - IP-CIDR,104.16.181.0/24,no-resolve  
-  - IP-CIDR,54.230.85.0/24,no-resolve  
+  - IP-CIDR,54.230.85.0/24,no-resolve 
+## >> bahamut
+  - DOMAIN-SUFFIX,anime1.me
+  - DOMAIN-SUFFIX,anicdn.com
 ## >> hwtv
   - DOMAIN-SUFFIX,5itv.tv
   - DOMAIN-SUFFIX,ocnttv.com
