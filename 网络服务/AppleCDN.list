@@ -10,7 +10,8 @@ payload:
   - DOMAIN-SUFFIX,swscan.apple.com
   - DOMAIN-SUFFIX,mesu.apple.com
 ## >> Apple
-  - DOMAIN-SUFFIX,www.apple.com.edgekey.net.globalredir.akadns.net
+  - DOMAIN-SUFFIX,apple.com.edgekey.net.globalredir.akadns.net
+  - DOMAIN-SUFFIX,app-site-association.cdn-apple.com.akadns.net
   - DOMAIN-SUFFIX,www.apple.com.edgekey.net
   - DOMAIN-SUFFIX,www.apple.com
   - DOMAIN-SUFFIX,cds.apple.com.akadns.net
