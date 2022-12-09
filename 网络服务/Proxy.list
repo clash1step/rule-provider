@@ -199,7 +199,8 @@ payload:
   - DOMAIN-SUFFIX,twitter.com
   - DOMAIN-SUFFIX,twimg.com
   - DOMAIN-SUFFIX,twitpic.com
-  - DOMAIN-SUFFIX,vine.co  
+  - DOMAIN-SUFFIX,vine.co
+  - DOMAIN-SUFFIX,tradingview.com
 # > 秋水逸冰
   - DOMAIN-SUFFIX,teddysun.com    
 # > 其他
