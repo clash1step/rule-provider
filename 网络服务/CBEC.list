@@ -1,1 +1,7 @@
-
+### 2023-01-05
+payload:
+  - DOMAIN-SUFFIX,amazon.com
+  - DOMAIN-SUFFIX,shein.com
+  - DOMAIN-SUFFIX,shopbop.com
+  - DOMAIN-SUFFIX,revolve.com
+  - DOMAIN-SUFFIX,temu.com
