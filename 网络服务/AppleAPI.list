@@ -1,6 +1,7 @@
 ### 2023-01-01
 payload: 
 ## >> AppStore
+  - DOMAIN-SUFFIX,apple.com
   - DOMAIN,apps.apple.com
   - DOMAIN,itunes.apple.com
   
