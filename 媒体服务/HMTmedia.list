@@ -1,4 +1,4 @@
-### 2021-02-21 22:55
+### 2023-01-01 
 ### >>> 港澳台流媒体服务
 
 payload:
@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,hinet.net
   - DOMAIN-SUFFIX,ipify.org 
   - DOMAIN-SUFFIX,anime1.me 
+  - DOMAIN-SUFFIX,anicdn.com  
   - DOMAIN-SUFFIX,xx.fbcdn.net
   - DOMAIN-SUFFIX,cdn.kdkw.jp  
   - DOMAIN,gamer-cds.cdn.hinet.net
@@ -18,9 +19,7 @@ payload:
   - IP-CIDR,104.16.182.0/24,no-resolve
   - IP-CIDR,104.16.181.0/24,no-resolve  
   - IP-CIDR,54.230.85.0/24,no-resolve 
-## >> bahamut
-  - DOMAIN-SUFFIX,anime1.me
-  - DOMAIN-SUFFIX,anicdn.com
+  
 ## >> hwtv
   - DOMAIN-SUFFIX,5itv.tv
   - DOMAIN-SUFFIX,ocnttv.com
@@ -28,24 +27,44 @@ payload:
   - DOMAIN-KEYWORD,mytv
   - DOMAIN-KEYWORD,nowtv100
   - DOMAIN-KEYWORD,rthklive
-  - DOMAIN-SUFFIX,mytvsuper.com  
+  - DOMAIN-SUFFIX,mytvsuper.com 
+  
 ## >> twhao
   - DOMAIN-SUFFIX,skyking.com.tw
   - DOMAIN,hamifans.emome.net
+  
 ## >> Twitch
   - DOMAIN-SUFFIX,twitch.tv
   - DOMAIN-SUFFIX,twitchcdn.net
   - DOMAIN-SUFFIX,ttvnw.net
-  - DOMAIN-SUFFIX,jtvnw.net  
-## >> encoreTVB
+  - DOMAIN-SUFFIX,jtvnw.net
+  
+## >> TVB
   - DOMAIN-SUFFIX,tvb.com
+  - DOMAIN-SUFFIX,tvbc.com.cn  
+  - DOMAIN-SUFFIX,tvb.com.au  
   - DOMAIN-SUFFIX,gov.hk
   - DOMAIN-SUFFIX,encoretvb.com
   - DOMAIN-SUFFIX,content.jwplatform.com
   - DOMAIN-SUFFIX,videos-f.jwpsrv.com
+  - DOMAIN-SUFFIX,bigbigchannel.com.hk
+  - DOMAIN-SUFFIX,bigbigshop.com
+  - DOMAIN-SUFFIX,mytvsuper.com
+  - DOMAIN-SUFFIX,mytvsuperlimited.hb.omtrdc.net
+  - DOMAIN-SUFFIX,mytvsuperlimited.sc.omtrdc.net
+  - DOMAIN-SUFFIX,tvbanywhere.com
+  - DOMAIN-SUFFIX,tvbanywhere.com.sg
+  - DOMAIN-SUFFIX,tvbeventpower.com.hk
+  - DOMAIN-SUFFIX,tvbusa.com
+  - DOMAIN-SUFFIX,tvbweekly.com
+  - DOMAIN-SUFFIX,tvmedia.net.au
+  - DOMAIN-SUFFIX,videos-f.jwpsrv.com
+  - DOMAIN-SUFFIX,youboranqs01.com 
   - DOMAIN,bcbolt446c5271-a.akamaihd.net
   - DOMAIN,content.jwplatform.com
   - DOMAIN,edge.api.brightcove.com
   - DOMAIN,videos-f.jwpsrv.com  
-  - DOMAIN,uapisfm.tvbanywhere.com.sg
   - DOMAIN,tvb-inews.servicebus.windows.net
+  - DOMAIN,bcbolt446c5271-a.akamaihd.net
+  - DOMAIN,edge.api.brightcove.com
+  - DOMAIN,tvbtracking.azurewebsites.net  
