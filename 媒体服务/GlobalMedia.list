@@ -342,7 +342,7 @@ payload:
   - IP-CIDR,198.255.82.91/16,no-resolve
   - IP-CIDR,23.225.233.3/16,no-resolve
   - IP-CIDR,202.171.253.69/16,no-resolve
-≈  
+
 ## >> 动漫花园
   - DOMAIN-SUFFIX,u2.dmhy.org
   - DOMAIN-SUFFIX,dmhy.org
