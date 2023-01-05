@@ -73,9 +73,6 @@ payload:
   - DOMAIN,amp-api.fitness.apple.com
   - DOMAIN,hls-svod.itunes.apple.com 
   
-## >> AppleMail
-  - DOMAIN-SUFFIX,mail.icloud.com.cn
-  - DOMAIN-SUFFIX,mail.me.com 
   
 ## >> Apple SystemOTA
   - DOMAIN,appldnld-cdn.apple.com.akadns.net
@@ -156,14 +153,6 @@ payload:
   - DOMAIN-SUFFIX,ocsp-lb.apple.com.akadns.net
   - DOMAIN-SUFFIX,ocsp.apple.com
   - DOMAIN-SUFFIX,ocsp.g.aaplimg.com
-  
-## >> Siri
-  - DOMAIN,guzzoni.apple.com
-  
-## >> FindMy
-  - DOMAIN,fmfmobile.icloud.com
-  - DOMAIN,fmipmobile.icloud.com
-  - DOMAIN,statici.icloud.com
   
 ## >> AppleProxy
   - DOMAIN,api-glb-sea.smoot.apple.com
