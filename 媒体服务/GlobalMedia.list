@@ -1,4 +1,4 @@
-### 2021-07-19 15:55
+### 2023-01-01
 ### >>> 其他国际流媒体服务
 
 payload:
@@ -30,16 +30,33 @@ payload:
 ## >> BBCiPlayer
   - DOMAIN,aod-dash-uk-live.akamaized.net
   - DOMAIN,aod-hls-uk-live.akamaized.net
+  - DOMAIN,as-dash-uk-live.akamaized.net
+  - DOMAIN,as-hls-uk-live.akamaized.net
   - DOMAIN,vod-dash-uk-live.akamaized.net
+  - DOMAIN,vod-dash-ww-live.akamaized.net
+  - DOMAIN,vod-hls-uk-live.akamaized.net
+  - DOMAIN,vod-sub-uk-live.akamaized.net
   - DOMAIN,vod-thumb-uk-live.akamaized.net
-  - DOMAIN-KEYWORD,bbcfmt
+  - DOMAIN,vod-thumb-ww-live.akamaized.net
+  - DOMAIN,vs-cmaf-push-uk-live.akamaized.net
+  - DOMAIN-SUFFIX,bbc
   - DOMAIN-SUFFIX,bbc.co
   - DOMAIN-SUFFIX,bbc.co.uk
   - DOMAIN-SUFFIX,bbc.com
+  - DOMAIN-SUFFIX,bbc.in
+  - DOMAIN-SUFFIX,bbc.net.uk
+  - DOMAIN-SUFFIX,bbcchinese.com
   - DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net
-  - DOMAIN-SUFFIX,bbcfmt.s.llnwi.net 
+  - DOMAIN-SUFFIX,bbcfmt.s.llnwi.net
   - DOMAIN-SUFFIX,bbci.co
   - DOMAIN-SUFFIX,bbci.co.uk
+  - DOMAIN-SUFFIX,bbcmedia.co.uk
+  - DOMAIN-SUFFIX,bbcpersian.com
+  - DOMAIN-SUFFIX,bbcverticals.com
+  - DOMAIN-SUFFIX,bidi.net.uk
+  - DOMAIN-KEYWORD,bbcfmt
+  - DOMAIN-KEYWORD,uk-live
+  
 ## >> DAZN
   - DOMAIN,d151l6v8er5bdm.cloudfront.net
   - DOMAIN,d151l6v8er5bdm.cloudfront.net 
@@ -50,27 +67,36 @@ payload:
   - DOMAIN-SUFFIX,dazndn.com
   - DOMAIN-SUFFIX,indazn.com
   - DOMAIN-SUFFIX,intercom.io
+  
 ## >> Discovery Plus
-  - DOMAIN-SUFFIX,content-ause1-ur-discovery1.uplynk.com
   - DOMAIN-SUFFIX,disco-api.com
+  - DOMAIN-SUFFIX,discovery.com
+  - DOMAIN-SUFFIX,discoveryplus.co.uk
   - DOMAIN-SUFFIX,discoveryplus.com
+  - DOMAIN-SUFFIX,discoveryplus.in
+  - DOMAIN-SUFFIX,dnitv.com
   - DOMAIN-SUFFIX,fwmrm.net
   - DOMAIN-SUFFIX,getblueshift.com
   - DOMAIN-SUFFIX,litix.io
   - DOMAIN-SUFFIX,mobile-collector.newrelic.com
-  - DOMAIN-SUFFIX,uplynk.com  
+  - DOMAIN-SUFFIX,uplynk.com
+  - DOMAIN-KEYWORD,discovery.uplynk.com
+  
 ## >> feiliuTV
   - DOMAIN-SUFFIX,neulion.com
   - DOMAIN-SUFFIX,icntv.xyz
   - DOMAIN-SUFFIX,flzbcdn.xyz
+  
 ## >> FoxNow
   - DOMAIN-SUFFIX,fox.com
   - DOMAIN-SUFFIX,foxdcg.com
   - DOMAIN-SUFFIX,theplatform.com
-  - DOMAIN-SUFFIX,uplynk.com  
+  - DOMAIN-SUFFIX,uplynk.com 
+  
 ## >> Fox+ HK
   - DOMAIN-SUFFIX,foxplus.com
   - DOMAIN-SUFFIX,theplatform.com
+  
 ## >> Hulu
   - DOMAIN-SUFFIX,cws-hulu.conviva.com
   - DOMAIN-SUFFIX,hulu.com
@@ -79,18 +105,22 @@ payload:
   - DOMAIN-SUFFIX,huluad.com
   - DOMAIN-SUFFIX,huluim.com
   - DOMAIN-SUFFIX,hulustream.com
+  
 ## >> HuluJapan
   - DOMAIN-SUFFIX,happyon.jp
   - DOMAIN-SUFFIX,hulu.jp 
   - DOMAIN-SUFFIX,prod.hjholdings.tv
   - DOMAIN-SUFFIX,streaks.jp
   - DOMAIN-SUFFIX,yb.uncn.jp
+  
 ## >> ITV
   - DOMAIN-SUFFIX,itv.com
   - DOMAIN-SUFFIX,itvstatic.com
   - DOMAIN,itvpnpmobile-a.akamaihd.net
+  
 ## >> JOOX
   - DOMAIN-SUFFIX,joox.com
+  
 ## >> Japonx
   - DOMAIN-KEYWORD,japonx
   - DOMAIN-KEYWORD,japronx
@@ -102,25 +132,92 @@ payload:
   - DOMAIN-SUFFIX,japronx.net
   - DOMAIN-SUFFIX,japronx.tv
   - DOMAIN-SUFFIX,japronx.vip
+  
 ## >> KKBOX
   - DOMAIN-SUFFIX,kkbox.com
   - DOMAIN-SUFFIX,kkbox.com.tw
   - DOMAIN-SUFFIX,kfs.io
+  
 ## >> KKTV
   - DOMAIN-SUFFIX,kktv.me
   - DOMAIN-SUFFIX,kktv.com.tw
   - DOMAIN-SUFFIX,kktv-theater.kk.stream
+  
 ## >> LiTV
   - DOMAIN-SUFFIX,litv.tv
-  - DOMAIN-SUFFIX,itvfreemobile-hichannel.cdn.hinet.net  
+  - DOMAIN-SUFFIX,itvfreemobile-hichannel.cdn.hinet.net 
+  
 ## >> LineTV
   - DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net
   - DOMAIN-SUFFIX,linetv.tw
   - DOMAIN-SUFFIX,profile.line-scdn.net
+  
 ## >> My5
   - DOMAIN-SUFFIX,channel5.com
   - DOMAIN-SUFFIX,my5.tv
   - DOMAIN,d349g9zuie06uo.cloudfront.net
+
+## >> niconico
+  - DOMAIN-SUFFIX,dmc.nico
+  - DOMAIN-SUFFIX,nicovideo.jp
+  - DOMAIN-SUFFIX,nimg.jp
+  - DOMAIN-SUFFIX,socdm.com
+  
+## >> PBS
+  - DOMAIN-SUFFIX,pbs.org
+  
+## >> Plex Server
+  - DOMAIN-SUFFIX,plex.tv
+  - DOMAIN,image.tmdb.org
+  - DOMAIN,manifest.prod.boltdns.net 
+ 
+## >> niconico
+  - DOMAIN-SUFFIX,dmc.nico
+  - DOMAIN-SUFFIX,nicovideo.jp
+  - DOMAIN-SUFFIX,nimg.jp
+  - DOMAIN-SUFFIX,socdm.com
+  
+## >> PBS
+  - DOMAIN-SUFFIX,pbs.org
+  
+## >> Plex Server
+  - DOMAIN-SUFFIX,plex.tv
+  - DOMAIN,image.tmdb.org
+  - DOMAIN,manifest.prod.boltdns.net 
+  
+## >> ParamountPlus
+  - DOMAIN,cbsi.live.ott.irdeto.com
+  - DOMAIN,cbsplaylistserver.aws.syncbak.com
+  - DOMAIN,cbsservice.aws.syncbak.com
+  - DOMAIN,link.theplatform.com
+  - DOMAIN-SUFFIX,cbsaavideo.com
+  - DOMAIN-SUFFIX,cbsi.com
+  - DOMAIN-SUFFIX,cbsivideo.com
+  - DOMAIN-SUFFIX,paramountplus.com
+  - DOMAIN-SUFFIX,pplusstatic.com 
+  
+ ## >> Tiktok
+  - DOMAIN,p16-tiktokcdn-com.akamaized.net
+  - DOMAIN-SUFFIX,amemv.com
+  - DOMAIN-SUFFIX,byteoversea.com
+  - DOMAIN-SUFFIX,ibytedtos.com
+  - DOMAIN-SUFFIX,ibyteimg.com
+  - DOMAIN-SUFFIX,ipstatp.com
+  - DOMAIN-SUFFIX,muscdn.com 
+  - DOMAIN-SUFFIX,musical.ly
+  - DOMAIN-SUFFIX,sgpstatp.com
+  - DOMAIN-SUFFIX,snssdk.com
+  - DOMAIN-SUFFIX,tik-tokapi.com
+  - DOMAIN-SUFFIX,tiktok.com
+  - DOMAIN-SUFFIX,tiktokcdn.com
+  - DOMAIN-SUFFIX,tiktokv.com
+  - DOMAIN-KEYWORD,-tiktokcdn-com
+  - DOMAIN-KEYWORD,musical.ly
+  - DOMAIN-KEYWORD,tiktok
+  - DOMAIN-KEYWORD,tiktokv
+  - DOMAIN-KEYWORD,tiktokcdn  
+  - PROCESS-NAME,com.zhiliaoapp.musically  
+
 ## >> netflav  
   - DOMAIN-SUFFIX,netflav.com
   - DOMAIN-SUFFIX,qingse.one
@@ -144,17 +241,7 @@ payload:
   - DOMAIN-SUFFIX,ff-02.com
   - DOMAIN-SUFFIX,ff-03.com
   - DOMAIN-SUFFIX,ff-04.com 
-## >> niconico
-  - DOMAIN-SUFFIX,dmc.nico
-  - DOMAIN-SUFFIX,nicovideo.jp
-  - DOMAIN-SUFFIX,nimg.jp
-  - DOMAIN-SUFFIX,socdm.com
-## >> PBS
-  - DOMAIN-SUFFIX,pbs.org
-## >> Plex Server
-  - DOMAIN-SUFFIX,plex.tv
-  - DOMAIN,image.tmdb.org
-  - DOMAIN,manifest.prod.boltdns.net 
+ 
 ## >> pron
   - DOMAIN-SUFFIX,i.p04.space
   - DOMAIN-SUFFIX,pornhub.com
@@ -193,60 +280,28 @@ payload:
   - IP-CIDR,198.255.82.91/16,no-resolve
   - IP-CIDR,23.225.233.3/16,no-resolve
   - IP-CIDR,202.171.253.69/16,no-resolve
-## >> TED
-  - DOMAIN-SUFFIX,ted.com
-  - DOMAIN-SUFFIX,tedcdn.com 
-## >> ViuTV
-  - DOMAIN,cognito-identity.us-east-1.amazonaws.com
-  - DOMAIN,mobileanalytics.us-east-1.amazonaws.com
-  - DOMAIN-SUFFIX,bootstrapcdn.com
-  - DOMAIN-SUFFIX,cloudfront.net
-  - DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com
-  - DOMAIN-SUFFIX,firebaseio.com
-  - DOMAIN-SUFFIX,jwpcdn.com
-  - DOMAIN-SUFFIX,jwplayer.com
-  - DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com
-  - DOMAIN-SUFFIX,nowe.com
-  - DOMAIN-SUFFIX,viu.com
-  - DOMAIN-SUFFIX,viu.now.com
-  - DOMAIN-SUFFIX,viu.tv   
+≈  
 ## >> 动漫花园
   - DOMAIN-SUFFIX,u2.dmhy.org
   - DOMAIN-SUFFIX,dmhy.org
   - IP-CIDR,8.210.170.1/24,no-resolve
+  
 ## >> TMDB
   - DOMAIN-SUFFIX,themoviedb.org
+  
 ## >> manhuagui
   - DOMAIN-SUFFIX,amreus.com
   - DOMAIN-SUFFIX,anhuagui.com
   - DOMAIN-SUFFIX,hamreus.com
   - DOMAIN-SUFFIX,manhuagui.com
   - DOMAIN-SUFFIX,xiaomingtaiji.net
+  
 ## >> manga2020
-  - DOMAIN-SUFFIX,manga2020.com   
+  - DOMAIN-SUFFIX,manga2020.com  
+  
 ## >> xmanhua
-  - DOMAIN-SUFFIX,xmanhua.com   
+  - DOMAIN-SUFFIX,xmanhua.com 
+  
 ## >> copymanga
   - DOMAIN-SUFFIX,r3.o.lencr.org
   - DOMAIN-SUFFIX,rsc.cdn77.org
- ## >> Tiktok
-  - DOMAIN,p16-tiktokcdn-com.akamaized.net
-  - DOMAIN-SUFFIX,amemv.com
-  - DOMAIN-SUFFIX,byteoversea.com
-  - DOMAIN-SUFFIX,ibytedtos.com
-  - DOMAIN-SUFFIX,ibyteimg.com
-  - DOMAIN-SUFFIX,ipstatp.com
-  - DOMAIN-SUFFIX,muscdn.com 
-  - DOMAIN-SUFFIX,musical.ly
-  - DOMAIN-SUFFIX,sgpstatp.com
-  - DOMAIN-SUFFIX,snssdk.com
-  - DOMAIN-SUFFIX,tik-tokapi.com
-  - DOMAIN-SUFFIX,tiktok.com
-  - DOMAIN-SUFFIX,tiktokcdn.com
-  - DOMAIN-SUFFIX,tiktokv.com
-  - DOMAIN-KEYWORD,-tiktokcdn-com
-  - DOMAIN-KEYWORD,musical.ly
-  - DOMAIN-KEYWORD,tiktok
-  - DOMAIN-KEYWORD,tiktokv
-  - DOMAIN-KEYWORD,tiktokcdn  
-  - PROCESS-NAME,com.zhiliaoapp.musically
