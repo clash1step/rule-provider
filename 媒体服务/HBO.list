@@ -1,4 +1,4 @@
-### 2021-02-21 23:50
+### 2023-01-01
 ### >>> HBO
 
 payload:
@@ -14,6 +14,10 @@ payload:
   - DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
   - DOMAIN-SUFFIX,maxgo.com
   - PROCESS-NAME,com.hbo.hbonow  
+  
+## >> NowE
+  - DOMAIN-SUFFIX,nowe.com
+  - DOMAIN-SUFFIX,nowestatic.com
   
 ## >> HBO GO HKG
   - DOMAIN-SUFFIX,hboasia.com
