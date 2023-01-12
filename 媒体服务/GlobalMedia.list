@@ -3,7 +3,7 @@
 
 payload:
 ## >> copymanga 
-  - DOMAIN-SUFFIX,copymanga.org
+  - DOMAIN-SUFFIX,copymanga.site
   - DOMAIN-SUFFIX,mangafuna.xyz
   - DOMAIN-SUFFIX,relamanhua.com 
   
