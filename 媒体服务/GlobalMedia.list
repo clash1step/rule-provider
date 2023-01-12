@@ -2,6 +2,9 @@
 ### >>> 其他国际流媒体服务
 
 payload:
+## >> copymanga 
+  - DOMAIN-SUFFIX,copymanga.org
+  - DOMAIN-SUFFIX,mangafuna.xyz
 ## >> cocomanga
   - DOMAIN-SUFFIX,cocomanga.com
   - DOMAIN-SUFFIX,colamanga.com  
