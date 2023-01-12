@@ -5,10 +5,11 @@ payload:
 ## >> copymanga 
   - DOMAIN-SUFFIX,copymanga.org
   - DOMAIN-SUFFIX,mangafuna.xyz
-  - DOMAIN-SUFFIX,relamanhua.com  
+  - DOMAIN-SUFFIX,relamanhua.com 
+  
 ## >> cocomanga
   - DOMAIN-SUFFIX,cocomanga.com
-  - DOMAIN-SUFFIX,colamanga.com  
+  - DOMAIN-SUFFIX,colamanhua.com
   - DOMAIN-SUFFIX,acloudmerge.com
   
 ## >> 1024
