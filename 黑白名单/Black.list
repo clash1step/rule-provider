@@ -2,6 +2,8 @@
 ### >>> 黑名单
 
 payload:
+## >> bahamut
+  - DOMAIN-SUFFIX,imasdk.googleapis.com
 ## >> emotn
   - DOMAIN-SUFFIX,keeflys.com
 ## >> 普拉斯影业
