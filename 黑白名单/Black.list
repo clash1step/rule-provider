@@ -3,7 +3,7 @@
 
 payload:
 ## >> bahamut
-  - DOMAIN-SUFFIX,imasdk.googleapis.com
+  - DOMAIN，imasdk.googleapis.com
 ## >> emotn
   - DOMAIN-SUFFIX,keeflys.com
 ## >> 普拉斯影业
