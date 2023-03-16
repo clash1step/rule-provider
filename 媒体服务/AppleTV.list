@@ -74,7 +74,7 @@ payload:
   - DOMAIN-SUFFIX,tv.apple.com
   - DOMAIN-SUFFIX,wwwapplemusic.com
   
-## >> AppleMedia
+## >> beats
   - DOMAIN-SUFFIX,100beatscheap.com
   - DOMAIN-SUFFIX,1monsterbeatsbydreus.com
   - DOMAIN-SUFFIX,2013beatsbydrdreonline.com
