@@ -5,6 +5,7 @@ payload:
 ## >> Binance china
   - DOMAIN-SUFFIX,yshyqxx.com 
   - DOMAIN-SUFFIX,binancezh.jp
+  - DOMAIN-SUFFIX,suitechsui.tv
   - IP-CIDR,47.75.98.0/24,no-resolve
 ## >> rule cloud
   - DOMAIN,077582580.xyz
