@@ -10,8 +10,6 @@ payload:
   - DOMAIN-SUFFIX,gamer.com
   - DOMAIN-SUFFIX,hinet.net
   - DOMAIN-SUFFIX,ipify.org 
-  - DOMAIN-SUFFIX,anime1.me 
-  - DOMAIN-SUFFIX,anicdn.com 
   - DOMAIN-SUFFIX,fbcdn.net
   - DOMAIN-SUFFIX,cdn.kdkw.jp
   - DOMAIN-SUFFIX,digicert.com  
