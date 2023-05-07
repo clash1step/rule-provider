@@ -7,12 +7,10 @@ payload:
 #manhua
   - DOMAIN-SUFFIX,tahltanboutell.com
   - DOMAIN-SUFFIX,kirkmanhirple.com
-#manhuagui
   - DOMAIN-SUFFIX,3a4b5c.com
   - DOMAIN-SUFFIX,349upload.3a4b5c.com
   - DOMAIN-SUFFIX,h5.3a4b5c.com
   - DOMAIN-SUFFIX,yourfgjfghkk.club
-#ohmanhua
   - DOMAIN-SUFFIX,exdynsrv.com  
   - DOMAIN-SUFFIX,f93dad8683e2c7c.com
   - DOMAIN-SUFFIX,13d9ff11a75509f5602d.com
@@ -96,7 +94,16 @@ payload:
   - DOMAIN,s3t3d2y7.ackcdn.net
   - DOMAIN-SUFFIX,dakang-energy.com
   - DOMAIN-SUFFIX,jinrongwang.net
-  - DOMAIN-SUFFIX,myyj.net  
+  - DOMAIN-SUFFIX,myyj.net
+  - DOMAIN-SUFFIX,tahltanboutell.com
+  - DOMAIN-SUFFIX,syenitetatler.tech
+  - DOMAIN-SUFFIX,disturbcesti.digital
+  - DOMAIN-SUFFIX,trip.com
+  - DOMAIN-SUFFIX,myotomyarkab.com
+  - DOMAIN-SUFFIX,gulsachpyrexia.uno
+  - DOMAIN-SUFFIX,ctyunapi.cn
+  - DOMAIN-SUFFIX,invol.co
+  - DOMAIN-SUFFIX,tubeskagos.life
 #netflav
   - DOMAIN-SUFFIX,ddmax20.xyz
   - DOMAIN-SUFFIX,awaitcola.com
