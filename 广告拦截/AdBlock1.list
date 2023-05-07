@@ -104,6 +104,7 @@ payload:
   - DOMAIN-SUFFIX,ctyunapi.cn
   - DOMAIN-SUFFIX,invol.co
   - DOMAIN-SUFFIX,tubeskagos.life
+  - DOMAIN-SUFFIX,lencr.org
 #netflav
   - DOMAIN-SUFFIX,ddmax20.xyz
   - DOMAIN-SUFFIX,awaitcola.com
