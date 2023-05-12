@@ -2,9 +2,6 @@
 ### >>> 国内流媒体服务
 
 payload:
-## >> anime
-  - DOMAIN-SUFFIX,anime1.me 
-  - DOMAIN-SUFFIX,anicdn.com 
 ## >> bilibili
   - DOMAIN,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com
   - DOMAIN,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com
