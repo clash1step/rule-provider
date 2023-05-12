@@ -2,6 +2,10 @@
 ### >>> 其他国际流媒体服务
 
 payload:
+## >> anime
+  - DOMAIN-SUFFIX,anime1.me 
+  - DOMAIN-SUFFIX,anicdn.com 
+  
 ## >> copymanga 
   - DOMAIN-SUFFIX,copymanga.site
   - DOMAIN-SUFFIX,mangafuna.xyz
