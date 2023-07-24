@@ -167,6 +167,8 @@ payload:
   - DOMAIN-SUFFIX,feixiaohao.co 
   - DOMAIN-SUFFIX,fxhapp.com
   - DOMAIN-SUFFIX,feixiaohaozh.info
+  - DOMAIN-SUFFIX,aigcviewer.com
+  - DOMAIN-SUFFIX,aigopocket.com
 ## >> opensec
   - DOMAIN-SUFFIX,opencc.xyz
   - DOMAIN-SUFFIX,avesp.xyz
