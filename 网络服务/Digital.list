@@ -162,9 +162,11 @@ payload:
   - DOMAIN-SUFFIX,pinata.cloud
 ## >> dextools
   - DOMAIN-SUFFIX,dextools.io
-## >> feixiaohao 
+## >> feixiaohao
+  - DOMAIN-KEYWORD,feixiaohao
   - DOMAIN-SUFFIX,feixiaohao.cc 
-  - DOMAIN-SUFFIX,feixiaohao.co 
+  - DOMAIN-SUFFIX,feixiaohao.co
+  - DOMAIN-SUFFIX,feixiaohao.hk
   - DOMAIN-SUFFIX,fxhapp.com
   - DOMAIN-SUFFIX,feixiaohaozh.info
   - DOMAIN-SUFFIX,feixiaohaopro.info
