@@ -28,6 +28,7 @@ payload:
 ## >> pexpay
   - DOMAIN-SUFFIX,pexpay.com
   - DOMAIN-SUFFIX,saasexch.com
+  - DOMAIN-SUFFIX,saasexch.co
 ## >> Binance Start
   - DOMAIN-SUFFIX,binancezh.top
   - DOMAIN-SUFFIX,bnappzh.co
