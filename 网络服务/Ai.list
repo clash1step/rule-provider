@@ -3,14 +3,13 @@
 payload:
 
 ## >> chatGPT
-  - DOMAIN,openai.com
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,pay.openai.com
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
   - DOMAIN-SUFFIX,chat.openai.com
   - DOMAIN-SUFFIX,platform.openai.com
-  - DOMAIN,auth0.com
+  - DOMAIN-SUFFIX,auth0.com
   - DOMAIN-SUFFIX,auth0.openai.com
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,vimeocdn.com
@@ -39,7 +38,8 @@ payload:
   - DOMAIN-SUFFIX,hcaptcha.com
   - DOMAIN-SUFFIX,recaptcha.net
   - DOMAIN-SUFFIX,msftconnecttest.com
-  - DOMAIN-SUFFIX,poe.com          
+  - DOMAIN-SUFFIX,poe.com
+  - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-KEYWORD,openai
   - DOMAIN-KEYWORD,openaiapi
   - DOMAIN-KEYWORD,openaipublic
