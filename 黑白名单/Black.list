@@ -4,6 +4,7 @@
 payload:
 ## >> investing
   - DOMAIN-SUFFIX,investing.com
+  - DOMAIN-SUFFIX,forexpros.com
   - DOMAIN-SUFFIX,iforexpros.com
 ## >> bahamut
   - DOMAIN,imasdk.googleapis.com
