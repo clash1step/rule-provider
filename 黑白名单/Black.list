@@ -2,6 +2,9 @@
 ### >>> 黑名单
 
 payload:
+## >> investing
+  - DOMAIN-SUFFIX,investing.com
+  - DOMAIN-SUFFIX,iforexpros.com
 ## >> bahamut
   - DOMAIN,imasdk.googleapis.com
 ## >> emotn
