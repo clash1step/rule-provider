@@ -3,6 +3,7 @@
 payload:
 
 ## >> other
+  - DOMAIN-SUFFIX,s-downloader.com
   - DOMAIN-SUFFIX,265.com  
   - DOMAIN-SUFFIX,2mdn.net
   - DOMAIN-SUFFIX,googleadservices.com  
