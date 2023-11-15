@@ -120,10 +120,13 @@ payload:
 ## >> Okx Start okex.org
   - DOMAIN,www.okex.com
   - DOMAIN,www.okx.com
+  - DOMAIN,www.okx-httpdns.com
   - DOMAIN-SUFFIX,okex.com
   - DOMAIN-SUFFIX,okx.com
   - DOMAIN-SUFFIX,okx.org
   - DOMAIN-SUFFIX,okex.org
+  - DOMAIN-SUFFIX,okx-httpdns.com
+
 ## >> Gate Start
   - DOMAIN-SUFFIX,gate.io
   - DOMAIN-SUFFIX,web02.gate.io
