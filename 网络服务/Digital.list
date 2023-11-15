@@ -117,12 +117,13 @@ payload:
   - DOMAIN-SUFFIX,support.hitbtc.com
   - DOMAIN-SUFFIX,mt.hitbtc.com
   - DOMAIN-SUFFIX,blog.hitbtc.com  
-## >> Okx Start
+## >> Okx Start okex.org
+  - DOMAIN,www.okex.com
+  - DOMAIN,www.okx.com
   - DOMAIN-SUFFIX,okex.com
-  - DOMAIN-SUFFIX,blog.okex.com
-  - DOMAIN-SUFFIX,www.okex.com
-  - DOMAIN-SUFFIX,support.okex.com
   - DOMAIN-SUFFIX,okx.com
+  - DOMAIN-SUFFIX,okx.org
+  - DOMAIN-SUFFIX,okex.org
 ## >> Gate Start
   - DOMAIN-SUFFIX,gate.io
   - DOMAIN-SUFFIX,web02.gate.io
