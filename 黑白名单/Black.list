@@ -68,8 +68,6 @@ payload:
 ## >> transferwise
   - DOMAIN-SUFFIX,prf.hn
   - DOMAIN-SUFFIX,transferwise.com
-## >> Twitter
-  - DOMAIN-KEYWORD,twitter
 ## >> U2
   - DOMAIN-SUFFIX,buydomains.com
   - DOMAIN-SUFFIX,u2.dmly.org 
