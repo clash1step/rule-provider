@@ -193,6 +193,7 @@ payload:
 # > Tencent
   - DOMAIN-SUFFIX,gtimg.com 
 # > Twitter
+  - DOMAIN-KEYWORD,twitter
   - DOMAIN-SUFFIX,periscope.tv
   - DOMAIN-SUFFIX,t.co 
   - DOMAIN-SUFFIX,twimg.co
