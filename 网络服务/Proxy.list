@@ -141,16 +141,6 @@ payload:
   - IP-CIDR,221.226.128.146/32,no-resolve
 # > Tencent
   - DOMAIN-SUFFIX,gtimg.com 
-# > Twitter
-  - DOMAIN-KEYWORD,twitter
-  - DOMAIN-SUFFIX,periscope.tv
-  - DOMAIN-SUFFIX,t.co 
-  - DOMAIN-SUFFIX,twimg.co
-  - DOMAIN-SUFFIX,twitter.com
-  - DOMAIN-SUFFIX,twimg.com
-  - DOMAIN-SUFFIX,twitpic.com
-  - DOMAIN-SUFFIX,vine.co
-  - DOMAIN-SUFFIX,tradingview.com
 # > 秋水逸冰
   - DOMAIN-SUFFIX,teddysun.com    
 # > 其他
