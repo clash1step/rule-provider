@@ -42,7 +42,6 @@ payload:
   - DOMAIN-SUFFIX,prod.do.dsp.mp.microsoft.com
   - DOMAIN-SUFFIX,res.office365.com
   - DOMAIN-SUFFIX,s-microsoft.com
-  - DOMAIN-SUFFIX,self.events.data.microsoft.com 
   - DOMAIN-SUFFIX,smartscreen-prod.microsoft.com 
   - DOMAIN-SUFFIX,tsfe.trafficshaping.dsp.mp.microsoft.com
   - DOMAIN-SUFFIX,update.microsoft.com
