@@ -117,7 +117,7 @@ payload:
   - DOMAIN-SUFFIX,support.hitbtc.com
   - DOMAIN-SUFFIX,mt.hitbtc.com
   - DOMAIN-SUFFIX,blog.hitbtc.com  
-## >> Okx Start okex.org
+## >> Okx Start 
   - DOMAIN,www.okex.com
   - DOMAIN,www.okx.com
   - DOMAIN,www.okx-httpdns.com
