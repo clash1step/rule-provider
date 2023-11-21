@@ -4,7 +4,8 @@
 payload:
 ## >> anime
   - DOMAIN-SUFFIX,anime1.me 
-  - DOMAIN-SUFFIX,anicdn.com 
+  - DOMAIN-SUFFIX,anicdn.com
+  - DOMAIN-SUFFIX,lolicdn.net
   
 ## >> copymanga 
   - DOMAIN-SUFFIX,copymanga.site
