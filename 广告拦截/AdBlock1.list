@@ -4,6 +4,8 @@
 payload:
 #anime
   - DOMAIN-SUFFIX,links.wu4647.xyz
+  - DOMAIN-SUFFIX,laowanxiang.com
+  - IP-CIDR,14.29.122.0/32,no-resolve
 #manhua
   - DOMAIN-SUFFIX,tahltanboutell.com
   - DOMAIN-SUFFIX,kirkmanhirple.com
