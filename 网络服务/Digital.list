@@ -63,7 +63,8 @@ payload:
   - DOMAIN-SUFFIX,binance.im
   - DOMAIN-SUFFIX,bntrace.com
   - DOMAIN-SUFFIX,ninicoin.io 
-  - IP-CIDR,47.57.186.0/24,no-resolve  
+  - IP-CIDR,47.57.186.0/24,no-resolve
+  - IP-CIDR,47.57.185.0/24,no-resolve
 ## >> Huobi Start
   - DOMAIN-SUFFIX,hbg.com
   - DOMAIN-SUFFIX,m.hbg.com
