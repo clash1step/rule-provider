@@ -4,9 +4,6 @@
 payload:
 ## >> Binance china
   - DOMAIN-SUFFIX,binancezh.info
-  - DOMAIN-SUFFIX,yshyqxx.com
-  - DOMAIN-SUFFIX,saasexch.com
-  - DOMAIN-SUFFIX,saasexch.co
   - IP-CIDR,47.75.98.0/24,no-resolve
   - IP-CIDR,47.57.186.0/24,no-resolve
   - IP-CIDR,47.57.185.0/24,no-resolve
